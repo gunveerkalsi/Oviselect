@@ -37,8 +37,8 @@
   "total_hostel_fee": 11500,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": 90.03,
   "avg_package_lpa": 20.23,
@@ -112,7 +112,8 @@
     "phds_awarded": null,
     "research_centres": [
       "Incubation Centre",
-      "Indian Institute of Technology Patna"
+      "Indian Institute of Technology Patna",
+      "Visit Incubation Centre Website"
     ],
     "international_collaborations": null
   },

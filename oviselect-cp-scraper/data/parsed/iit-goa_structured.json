@@ -33,8 +33,8 @@
   "total_hostel_fee": 33709,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": 90.74,
   "avg_package_lpa": 16.68,
@@ -90,7 +90,29 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "Classrooms & Teaching Laboratories",
+      "Research",
+      "Research Highlights",
+      "Research Centers",
+      "Center for Drone Applications",
+      "NSM Nodal Center for HPC & AI",
+      "Siemens Digitalization Centre of Excellence",
+      "Research Projects",
+      "Major Research Equipment",
+      "Center of Excellence in Particulates, Colloids and Interfaces",
+      "Faculty Research Profiles",
+      "Research publications",
+      "Medical Center",
+      "Collaboration",
+      "National Collaborations",
+      "Indo-French Collaboration",
+      "All Collaborations",
+      "Center for IT Services",
+      "Laboratory Safety Committee"
+    ]
+  },
   "infrastructure": null,
   "student_activities": null,
   "international_relations": null,

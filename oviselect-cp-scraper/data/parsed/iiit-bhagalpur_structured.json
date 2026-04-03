@@ -78,7 +78,11 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "Curriculum & Syllabus"
+    ]
+  },
   "infrastructure": {
     "labs": null,
     "central_instruments": null,

@@ -105,7 +105,348 @@
   "total_faculty_count": null,
   "faculty_with_phd_pct": null,
   "faculty_student_ratio": null,
-  "departments": null,
+  "departments": [
+    {
+      "name": "Computer Science and Engineering",
+      "hod": null,
+      "faculty_count": 37,
+      "faculty": [
+        {
+          "name": "Dr. Arun Mohan Sherry",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Deepak Kumar Singh Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Bindu Singh Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Neelu Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Mr. Bibek Singh",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Srinivas Padmanabhuni",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Prosenjit Gupta",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Mr. Sandeep Srivastava",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Prof. Arvind Chaturvedi",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Mainak Adhikari Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Sheshadri Chatterjee Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Rahul Kumar Verma",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Deepshikha Agarwal",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Varun Sharma",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Niraj Kumar Vishvakarma Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Rudra Murthy",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Diptesh Kanojia Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Abhinesh Kaushik",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Kanishka Tyagi",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Neha Bhardwaj Upadhayay",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Kumud Tripathi",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Mary Samuel",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Rohit Gupta",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Kumar Krishen",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Deepak Puthal",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Soumendu Chakraborty Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Niharika Anand Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Mr. Aditya Narayan Singh Sports",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Saurabh Shukla",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Mr. Deepak Kumar Maurya Yoga Consultant",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Madhurima Datta Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Sirsendu Sekhar Barman Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Padma Tripathi Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Chhavi Taneja Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Shubhra Jain Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Dheeraj Misra Ph",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Dayanand Pandey",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        }
+      ]
+    }
+  ],
   "ug_programmes": null,
   "pg_programmes": null,
   "phd_available": false,
@@ -124,17 +465,17 @@
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
   "research": {
-    "active_projects": 2025,
     "funding_agencies": null,
     "total_funding_crores": null,
     "consultancy_projects": null,
     "patents_filed": null,
     "patents_granted": null,
     "publications_per_year": null,
-    "phd_students_enrolled": null,
     "phds_awarded": null,
     "research_centres": [
-      "About the Institute"
+      "About the Institute",
+      "Incubation Cell (CREATE)",
+      "Incubation Centre(CREATE) 2025"
     ],
     "international_collaborations": null
   },
@@ -171,5 +512,7 @@
   "data_confidence_score": 62,
   "needs_review": false,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/iiit-lucknow",
-  "last_scraped_at": "2026-03-31T16:16:53.094361"
+  "last_scraped_at": "2026-03-31T16:16:53.094361",
+  "department_count": 1,
+  "total_faculty": 37
 }

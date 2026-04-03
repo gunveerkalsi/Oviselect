@@ -5,7 +5,7 @@
   "established_year": 2015,
   "city": "Kurnool",
   "state": "Andhra Pradesh",
-  "address": "Indian Institute of Information Technology Design and Manufacturing, Jagannatha Gattu Hill, Kurnool, Andhra Pradesh \u2013 518007",
+  "address": "Indian Institute of Information Technology Design and Manufacturing, Jagannatha Gattu Hill, Kurnool, Andhra Pradesh – 518007",
   "nearest_airport": "Kurnool Airport",
   "nearest_airport_km": 21.5,
   "nearest_railway_station": "Kurnool City Railway Station",
@@ -69,7 +69,24 @@
   "total_faculty_count": null,
   "faculty_with_phd_pct": null,
   "faculty_student_ratio": null,
-  "departments": null,
+  "departments": [
+    {
+      "name": "General",
+      "hod": null,
+      "faculty_count": 1,
+      "faculty": [
+        {
+          "name": "Mr. Ram Babu Dara",
+          "designation": "Faculty",
+          "department": "General",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        }
+      ]
+    }
+  ],
   "ug_programmes": null,
   "pg_programmes": null,
   "phd_available": null,
@@ -100,9 +117,25 @@
     "patents_filed": null,
     "patents_granted": null,
     "publications_per_year": null,
-    "phd_students_enrolled": null,
+    "phd_students_enrolled": 360,
     "phds_awarded": null,
-    "research_centres": null,
+    "research_centres": [
+      "Curricula and Syllabi",
+      "AICTE-ATAL FDP on Clean Energy Innovations for Viksit Bharat @2047",
+      "GeM - Mixed Signal Laboratory and Test Instrumentation Device",
+      "GeM - CNC - Full 4 +1 Vertical Milling centre",
+      "GeM - Mixed Signal Electronics Laboratory and Test Instrumentation Device",
+      "CPP Tender - IoT Lab Consumables",
+      "GeM - Laboratory Working Table",
+      "Medical Physics Lab Equipment",
+      "CPP Tender for \"Civil Works at Incubation Centre\"",
+      "CPP Tender for \"Radiation Lab Equipment's\"",
+      "Corrigendum -1 w.r.t. GeM Bid for the \"Computer Lab Furniture\"",
+      "GeM Bid for \"DREAAMS LAB EQUIPMENTS\"",
+      "GeM Bid for \"Collaborative Welding Robot\"",
+      "GeM Bid for \"Computer Lab Furniture",
+      "GeM Bid for \"ESD Lab Workbench\""
+    ],
     "international_collaborations": null
   },
   "infrastructure": null,
@@ -119,5 +152,7 @@
   "data_confidence_score": 71,
   "needs_review": false,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/iiitdm-kurnool",
-  "last_scraped_at": "2026-03-31T16:13:39.910956"
+  "last_scraped_at": "2026-03-31T16:13:39.910956",
+  "department_count": 1,
+  "total_faculty": 1
 }

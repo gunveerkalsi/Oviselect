@@ -69,7 +69,7 @@
     "Right to Information (RTI)",
     "Sports & Gymnasium",
     "Suo-Motu Disclosure",
-    "\u0930\u093e\u091c\u092d\u093e\u0937\u093e \u0905\u0928\u0941\u092d\u093e\u0917",
+    "राजभाषा अनुभाग",
     "ACM Chapter",
     "Recruiters.pdf",
     "Doubtnut",
@@ -117,7 +117,78 @@
   "total_faculty_count": null,
   "faculty_with_phd_pct": null,
   "faculty_student_ratio": null,
-  "departments": null,
+  "departments": [
+    {
+      "name": "General",
+      "hod": null,
+      "faculty_count": 7,
+      "faculty": [
+        {
+          "name": "Dr. Ritu Tiwari",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Nagendra Kushwaha Dr",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Tanmoy Hazra Dr",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Sandeep Mishra",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Bhupendra Singh",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Prof. Vrashabh Prasad Jain",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Vagisha Mishra Dr",
+          "designation": "Faculty",
+          "department": "",
+          "email": "",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        }
+      ]
+    }
+  ],
   "ug_programmes": null,
   "pg_programmes": null,
   "phd_available": true,
@@ -135,7 +206,11 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "MoE: Innovation Cell"
+    ]
+  },
   "infrastructure": null,
   "student_activities": {
     "clubs": [
@@ -164,5 +239,7 @@
   "data_confidence_score": 67,
   "needs_review": false,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/iiit-pune",
-  "last_scraped_at": "2026-03-31T16:17:09.988538"
+  "last_scraped_at": "2026-03-31T16:17:09.988538",
+  "department_count": 1,
+  "total_faculty": 7
 }

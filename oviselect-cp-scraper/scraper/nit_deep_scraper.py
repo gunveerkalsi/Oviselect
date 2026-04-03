@@ -23,43 +23,22 @@ Scrapes departments and faculty from:
 
 from __future__ import annotations
 
+import asyncio
 import re
 import time
 from typing import Any
 from urllib.parse import urljoin, urlparse
 
-import requests
-import urllib3
 from bs4 import BeautifulSoup
 from loguru import logger
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
+from scraper.fetch_utils import fetch as _scrapling_fetch
 
 # ── HTTP helpers ───────────────────────────────────────────────────────────────
 
 
-def _fetch(url: str, retries: int = 2, verify: bool = True, timeout: int = 20) -> BeautifulSoup | None:
-    for attempt in range(retries + 1):
-        try:
-            r = requests.get(url, headers=_HEADERS, timeout=timeout, allow_redirects=True, verify=verify)
-            if r.status_code == 200:
-                return BeautifulSoup(r.text, "html.parser")
-            logger.warning(f"HTTP {r.status_code} for {url}")
-            return None
-        except Exception as exc:
-            if attempt < retries:
-                time.sleep(2)
-            else:
-                logger.warning(f"Failed {url}: {exc}")
-    return None
+def _fetch(url: str, retries: int = 2, verify: bool = False, timeout: int = 20) -> BeautifulSoup | None:
+    return _scrapling_fetch(url, retries=retries, timeout=timeout, verify=verify)
 
 
 def _clean(text: str | None) -> str:
@@ -383,39 +362,105 @@ _NITR_DEPT_SLUGS = {
 }
 
 
-def scrape_nit_rourkela() -> list[dict[str, Any]]:
-    logger.info("[NIT Rourkela] Starting scrape - using global faculty directory...")
+async def _scrape_nitr_playwright() -> list[dict[str, Any]]:
+    """Use Playwright to scrape the JS-rendered NIT Rourkela faculty directory.
+
+    The page renders faculty as ``div.fac-item.card`` elements only after JS
+    executes, so a plain HTTP fetch returns empty results.  We iterate through
+    all 26 alphabetical letter pages to collect the full faculty list and infer
+    the department from the profile URL (e.g. /BM/~name/ → Biotechnology & ME).
+    """
+    from playwright.async_api import async_playwright
+
+    # slug → dept name (reverse of _NITR_DEPT_SLUGS)
+    slug_to_dept = {v: k for k, v in _NITR_DEPT_SLUGS.items()}
     departments: dict[str, dict] = {name: {"name": name, "faculty": []} for name in _NITR_DEPT_SLUGS}
+    seen: set[str] = set()
 
-    # Global faculty directory
-    soup = _fetch(f"{_NITR_BASE}/FacultyStaff/Faculty/")
-    if not soup:
-        return list(departments.values())
+    async with async_playwright() as pw:
+        browser = await pw.chromium.launch(headless=True)
+        context = await browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            )
+        )
+        page = await context.new_page()
 
-    # Parse faculty table
-    seen = set()
-    for row in soup.find_all("tr"):
-        cells = row.find_all("td")
-        if len(cells) >= 2:
-            name_cell = _clean(cells[0].get_text())
-            if _is_name(name_cell) and name_cell not in seen:
-                seen.add(name_cell)
-                dept_text = _clean(cells[-1].get_text()) if len(cells) > 2 else ""
-                desig_text = _clean(cells[1].get_text()) if len(cells) > 1 else "Faculty"
-                member: dict[str, Any] = {
-                    "name": name_cell,
-                    "designation": _classify_designation(desig_text),
-                }
-                # Try to match to department
-                matched = False
-                for dept_name, slug in _NITR_DEPT_SLUGS.items():
-                    if slug in dept_text.upper() or dept_name.split()[0].lower() in dept_text.lower():
-                        departments[dept_name]["faculty"].append(member)
-                        matched = True
-                        break
-                if not matched:
-                    # Put in Computer Science as default to avoid losing data
-                    departments["Computer Science & Engineering"]["faculty"].append(member)
+        for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
+            url = f"https://www.nitrkl.ac.in/FacultyStaff/Faculty/?SearchAlpha={letter}"
+            logger.info(f"[NIT Rourkela] Scraping letter {letter} …")
+
+            html = ""
+            for attempt in range(3):  # retry up to 3 times for flaky connectivity
+                try:
+                    await page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+                except Exception as exc:
+                    logger.warning(f"[NIT Rourkela] Nav warning {letter} (attempt {attempt+1}): {exc}")
+                    await asyncio.sleep(3)
+
+                # Wait for JS to inject the faculty cards
+                await page.wait_for_timeout(8_000)
+
+                try:
+                    html = await page.content()
+                    break  # success — stop retrying
+                except Exception as exc:
+                    logger.warning(f"[NIT Rourkela] content() error {letter} (attempt {attempt+1}): {exc}")
+                    await asyncio.sleep(3)
+
+            if not html:
+                logger.warning(f"[NIT Rourkela] Skipping letter {letter} after all retries")
+                continue
+
+            soup = BeautifulSoup(html, "html.parser")
+            cards = soup.find_all("div", class_=lambda c: c and "fac-item" in c and "card" in c if c else False)
+            logger.info(f"[NIT Rourkela] Letter {letter}: {len(cards)} cards")
+
+            for card in cards:
+                # Name + designation are in the card-body
+                body = card.find("div", class_="card-body")
+                if not body:
+                    body = card
+
+                # Profile link contains the department slug, e.g. /BM/~name/
+                profile_url = ""
+                link_tag = body.find("a", href=True)
+                if link_tag:
+                    href = link_tag.get("href", "")
+                    profile_url = urljoin("https://www.nitrkl.ac.in", href) if href else ""
+
+                # Extract text nodes: typically [name, designation, "View Profile"]
+                texts = [t.strip() for t in body.get_text(separator="\n").splitlines() if t.strip()]
+                # Remove "View Profile" and blank lines
+                texts = [t for t in texts if t.lower() not in ("view profile", "")]
+
+                if not texts:
+                    continue
+                name = _clean(texts[0])
+                designation = _classify_designation(texts[1]) if len(texts) > 1 else "Faculty"
+
+                if not name or name in seen:
+                    continue
+                seen.add(name)
+
+                member: dict[str, Any] = {"name": name, "designation": designation}
+                if profile_url:
+                    member["profile_url"] = profile_url
+
+                # Infer department from the URL path segment (e.g. /BM/ or /CS/)
+                dept_key = "Computer Science & Engineering"  # fallback
+                if profile_url:
+                    path_parts = [p for p in urlparse(profile_url).path.split("/") if p]
+                    for part in path_parts:
+                        slug_upper = part.upper()
+                        if slug_upper in slug_to_dept:
+                            dept_key = slug_to_dept[slug_upper]
+                            break
+
+                departments[dept_key]["faculty"].append(member)
+
+        await browser.close()
 
     result = []
     for dept_name, dept_data in departments.items():
@@ -424,8 +469,18 @@ def scrape_nit_rourkela() -> list[dict[str, Any]]:
             dept_data["faculty_count"] = len(fac)
             logger.info(f"[NIT Rourkela] {dept_name}: {len(fac)} faculty")
         result.append(dept_data)
-
     return result
+
+
+def scrape_nit_rourkela() -> list[dict[str, Any]]:
+    """Entry point — runs the async Playwright scraper synchronously."""
+    logger.info("[NIT Rourkela] Starting Playwright-based scrape (JS-rendered site)...")
+    try:
+        return asyncio.run(_scrape_nitr_playwright())
+    except Exception as exc:
+        logger.error(f"[NIT Rourkela] Playwright scrape failed: {exc}")
+        # Return empty department shells so the pipeline doesn't break
+        return [{"name": name} for name in _NITR_DEPT_SLUGS]
 
 
 # ══════════════════════════════════════════════════════════════════════════════

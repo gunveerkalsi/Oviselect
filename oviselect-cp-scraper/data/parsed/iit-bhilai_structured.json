@@ -33,8 +33,8 @@
   "total_hostel_fee": null,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": 72.22,
   "avg_package_lpa": 15.18,
@@ -86,7 +86,11 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "Centre for Career Planning and Services"
+    ]
+  },
   "infrastructure": null,
   "student_activities": null,
   "international_relations": null,

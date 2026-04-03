@@ -36,8 +36,8 @@
   "total_hostel_fee": 37572,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": null,
   "avg_package_lpa": null,
@@ -89,7 +89,7 @@
     "Undergraduate Programmes",
     "Postgraduate Programmes",
     "Research Programmes",
-    "International Masters\u2019 Program",
+    "International Masters’ Program",
     "Exchange Programmes",
     "Joint Degree Programmes",
     "{item.title.content|raw}}",
@@ -155,18 +155,45 @@
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
   "research": {
-    "active_projects": null,
+    "active_projects": 829,
     "funding_agencies": [
       "SERB"
     ],
     "total_funding_crores": null,
     "consultancy_projects": null,
-    "patents_filed": null,
+    "patents_filed": 146,
     "patents_granted": null,
     "publications_per_year": null,
-    "phd_students_enrolled": null,
+    "phd_students_enrolled": 2963,
     "phds_awarded": null,
-    "research_centres": null,
+    "research_centres": [
+      "Centre for Outreach and Digital Education (CODE)",
+      "Teaching Learning Centre",
+      "P G Senapathy Computer Centre",
+      "Indo-German Centre for Sustainability",
+      "National Centre for Combustion Research and Development (NCCRD)",
+      "National Technology Centre for Ports, Waterways and Coasts (NTCPWC)",
+      "Advanced Manufacturing Technology Development Centre (AMTDC)",
+      "Centre for Computational Brain Research",
+      "Centre of Excellence in Wireless Technology (CEWiT)",
+      "Centre for NEMS and Nanophotonics (CNNP)",
+      "Centre for Railway Research",
+      "Centre for Technology and Policy (CTAP)",
+      "Healthcare Technology Innovation Centre (HTIC)",
+      "IITM China Studies Centre",
+      "International Centre for Clean Water (ICCW)",
+      "Robert Bosch Centre for Data Science and Artificial Intelligence",
+      "TTK Center for Rehabilitation Research and Device Development (R2D2)",
+      "The Centre of Excellence for Zero Emission Trucking (CoEZET)",
+      "Sophisticated Analytical Instrumentation Centre (SAIF)",
+      "Central Electronic Centre (CEC)",
+      "Gopalakrishnan-Deshpande Centre",
+      "Centre for Innovation",
+      "Research Park",
+      "IITM Research Park",
+      "Wellness Community Centre",
+      "Heritage Centre"
+    ],
     "international_collaborations": null
   },
   "infrastructure": {
@@ -192,7 +219,7 @@
     ],
     "technical_societies": null,
     "technical_fests": [
-      "Academics Overview Study @ IITM Non-campus BS programmes Undergraduate Programmes Postgraduate Programmes Research Programmes International Masters\u2019 Program (I2MP) Joint Degree Programmes Exchange Programmes Departments Aerospace Engineering Applied Mechanics & Biomedical Engineering Biotechnology Chemical Engineering Chemistry Civil Engineering Computer Science and Engineering Data Science & Artificial Intelligence Electrical Engineering Engineering Design Humanities and Social Sciences Management Studies Mathematics Mechanical Engineering Medical Science and Technology Metallurgical and Materials Engineering Ocean Engineering Physics Learning for All Centre for Outreach and Digital Education (CODE) National Programme (NPTEL) Global Initiative (GIAN) Teaching Learning Centre Academic Calendar Academic Curricula Academic Facilities Central Library P G Senapathy Computer Centre Central Skill Training and Fabrication Facility (CSTF) Academic Services Timetable Fees Scholarships & Financial Assistance Ordinances Transcripts & Other Academic Services Duplicate Degree Orientation Programme Downloads Inclusive Education Services",
+      "Academics Overview Study @ IITM Non-campus BS programmes Undergraduate Programmes Postgraduate Programmes Research Programmes International Masters’ Program (I2MP) Joint Degree Programmes Exchange Programmes Departments Aerospace Engineering Applied Mechanics & Biomedical Engineering Biotechnology Chemical Engineering Chemistry Civil Engineering Computer Science and Engineering Data Science & Artificial Intelligence Electrical Engineering Engineering Design Humanities and Social Sciences Management Studies Mathematics Mechanical Engineering Medical Science and Technology Metallurgical and Materials Engineering Ocean Engineering Physics Learning for All Centre for Outreach and Digital Education (CODE) National Programme (NPTEL) Global Initiative (GIAN) Teaching Learning Centre Academic Calendar Academic Curricula Academic Facilities Central Library P G Senapathy Computer Centre Central Skill Training and Fabrication Facility (CSTF) Academic Services Timetable Fees Scholarships & Financial Assistance Ordinances Transcripts & Other Academic Services Duplicate Degree Orientation Programme Downloads Inclusive Education Services",
       "Departments Aerospace Engineering Applied Mechanics & Biomedical Engineering Biotechnology Chemical Engineering Chemistry Civil Engineering Computer Science and Engineering Data Science & Artificial Intelligence Electrical Engineering Engineering Design Humanities and Social Sciences Management Studies Mathematics Mechanical Engineering Medical Science and Technology Metallurgical and Materials Engineering Ocean Engineering Physics",
       "Biotechnology",
       "Medical Science and Technology",

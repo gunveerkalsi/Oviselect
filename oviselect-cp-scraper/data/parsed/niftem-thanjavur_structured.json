@@ -137,7 +137,207 @@
   "total_faculty_count": null,
   "faculty_with_phd_pct": null,
   "faculty_student_ratio": null,
-  "departments": null,
+  "departments": [
+    {
+      "name": "Food Business Management",
+      "faculty": [
+        {
+          "name": "Dr. D.V. Chidanand",
+          "designation": "Associate Professor",
+          "email": "chidanand@niftem-t.ac.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. Goutam Das",
+          "designation": "Associate Professor",
+          "email": "goutam@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. S.Praveena",
+          "designation": "Teaching Faculty (C) (Food and Agribusiness Management)",
+          "email": "iifpt@edu.in",
+          "research_interests": null
+        }
+      ],
+      "faculty_count": 3
+    },
+    {
+      "name": "Food Engineering",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Food Science and Technology",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Plantation Products Spices and Flavour Technology",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Food Process Engineering",
+      "faculty": [
+        {
+          "name": "Dr. N. Venkatachalapathy",
+          "designation": "Professor Dean (RC & IR)",
+          "email": "venkat@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. Ashish Rawson",
+          "designation": "Professor",
+          "email": "ashish.rawson@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. K.A. Athmaselvi",
+          "designation": "Professor",
+          "email": "athmaselvi@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. Sunil C.K",
+          "designation": "Associate Professor",
+          "email": "sunil.ck@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. Jeyan Arthur Moses",
+          "designation": "Assistant Professor",
+          "email": "moses.ja@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. M. Tito Anand",
+          "designation": "Assistant Professor",
+          "email": "tito@iifpt.edu.in",
+          "research_interests": [
+            "Food Process Engineering"
+          ]
+        },
+        {
+          "name": "Dr. R. Paranthaman Asst. Chief Technical Officer paranthhu@gmail.com Specialization : Biotechnology and Analytical Instrumentation Shri. K. Saminathan Technical",
+          "designation": null,
+          "email": "paranthhu@gmail.com",
+          "research_interests": [
+            "Biotechnology and Analytical Instrumentation"
+          ]
+        }
+      ],
+      "faculty_count": 7
+    },
+    {
+      "name": "Food Process Technology",
+      "faculty": [
+        {
+          "name": "Dr. R. Jaganmohan",
+          "designation": "Professor Dean (SW)",
+          "email": "jagan@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. S. Akalya",
+          "designation": "Professor",
+          "email": "akalya@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. V.Chandrasekar",
+          "designation": "Professor",
+          "email": "vchandrasekar@iifpt.edu.in",
+          "research_interests": null
+        }
+      ],
+      "faculty_count": 3
+    },
+    {
+      "name": "Food Safety and Quality Assurance",
+      "faculty": [
+        {
+          "name": "Dr. R. Vidyalakshmi",
+          "designation": "Professor and Quality Manager (Food Testing Laboratory)",
+          "email": "rvidya@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. S. Vignesh",
+          "designation": "Professor",
+          "email": "vignesh@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. S. Bhuvana",
+          "designation": "Professor",
+          "email": "bhuvana@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. N. Baskaran",
+          "designation": "Assistant Professor",
+          "email": "baskaran@iifpt.edu.in",
+          "research_interests": [
+            "Biochemistry"
+          ]
+        },
+        {
+          "name": "Dr. R. Karthikeyan Technical Officer krbiotech@gmail.com Specialization: Biotechnology and Analytical Instrumentation Shri. P. Rajendran Technical",
+          "designation": null,
+          "email": "krbiotech@gmail.com",
+          "research_interests": [
+            "Biotechnology and Analytical Instrumentation"
+          ]
+        }
+      ],
+      "faculty_count": 5
+    },
+    {
+      "name": "Food Packaging and Storage Tech",
+      "faculty": [
+        {
+          "name": "Dr. M. Loganathan",
+          "designation": "Professor and Dean (Academics)",
+          "email": "logu@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. R. Meenatchi",
+          "designation": "Professor",
+          "email": "meena@iifpt.edu.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. S. Anandakumar",
+          "designation": "Professor",
+          "email": "anand@iifpt.edu.in",
+          "research_interests": null
+        }
+      ],
+      "faculty_count": 3
+    },
+    {
+      "name": "Food Plant Operations",
+      "faculty": [
+        {
+          "name": "Dr. V.Eyarkai Nambi",
+          "designation": "Professor & In-charge (COE)",
+          "email": "eyarkainambi@niftem-t.ac.in",
+          "research_interests": null
+        },
+        {
+          "name": "Dr. V. Hema",
+          "designation": "Professor",
+          "email": "mariagorretti@iifpt.edu.in",
+          "research_interests": [
+            "Food Science & Nutrition"
+          ]
+        }
+      ],
+      "faculty_count": 2
+    }
+  ],
   "ug_programmes": null,
   "pg_programmes": null,
   "phd_available": true,
@@ -200,5 +400,7 @@
   "data_confidence_score": 67,
   "needs_review": false,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/niftem-thanjavur",
-  "last_scraped_at": "2026-03-31T16:25:18.990438"
+  "last_scraped_at": "2026-03-31T16:25:18.990438",
+  "department_count": 9,
+  "total_faculty": 23
 }

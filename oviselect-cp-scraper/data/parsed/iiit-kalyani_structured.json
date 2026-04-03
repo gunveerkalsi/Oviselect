@@ -421,6 +421,157 @@
           "courses_taught": null
         }
       ]
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "hod": null,
+      "faculty_count": 16,
+      "faculty": [
+        {
+          "name": "Prof. Santanu Chattopadhyay Professor",
+          "designation": "Professor",
+          "department": "",
+          "email": "director@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Amit Ranjan Azad Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "amitranjanazad@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Anirban Lakshman Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "anirban@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Bhaskar Biswas Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "bhaskar@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Dalia Nandi",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "dalia@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Debasish Bera Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "debasish@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Imon Mukherjee Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "imon@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Oishila Bandyopadhyay Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "oishila@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Pratik Chakraborty Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "pratik@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Rabindranath Bera",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "rbera@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Rinky Sha Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "rinky@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Sanjay Chatterji Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "sanjayc@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Sanjoy Pratihar Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "sanjoy@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Soumen Pandit Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "soumen@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Sudeshna Mondal Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "sudeshna@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        },
+        {
+          "name": "Dr. Uma Das Assistant Professor",
+          "designation": "Assistant Professor",
+          "department": "",
+          "email": "uma@iiitkalyani.ac.in",
+          "specialization": "",
+          "phd": null,
+          "experience_years": null
+        }
+      ]
     }
   ],
   "ug_programmes": null,
@@ -440,7 +591,11 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "Institute Innovation Council"
+    ]
+  },
   "infrastructure": {
     "labs": null,
     "central_instruments": null,
@@ -503,5 +658,7 @@
   "data_confidence_score": 71,
   "needs_review": false,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/iiit-kalyani",
-  "last_scraped_at": "2026-03-31T16:18:41.804770"
+  "last_scraped_at": "2026-03-31T16:18:41.804770",
+  "department_count": 2,
+  "total_faculty": 35
 }

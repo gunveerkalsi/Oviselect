@@ -13,6 +13,24 @@ import Team from './components/Team';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 
+/** Catches WebGL/Three.js crashes so the rest of the app still renders. */
+class ShaderErrorBoundary extends React.Component<
+  { children: React.ReactNode },
+  { hasError: boolean }
+> {
+  constructor(props: { children: React.ReactNode }) {
+    super(props);
+    this.state = { hasError: false };
+  }
+  static getDerivedStateFromError() {
+    return { hasError: true };
+  }
+  render() {
+    if (this.state.hasError) return null;
+    return this.props.children;
+  }
+}
+
 const App: React.FC = () => {
   useScrollReveal();
 
@@ -22,6 +40,7 @@ const App: React.FC = () => {
     <GoogleOAuthProvider clientId={GOOGLE_CLIENT_ID}>
     <ThemeProvider>
       {/* Fixed ShaderGradient background */}
+      <ShaderErrorBoundary>
       <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}>
         <ShaderGradientCanvas
           style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}
@@ -60,6 +79,7 @@ const App: React.FC = () => {
           />
         </ShaderGradientCanvas>
       </div>
+      </ShaderErrorBoundary>
 
       {/* Page content above the gradient */}
       <div className="relative z-10 min-h-screen text-ink font-sans selection:bg-accent-light selection:text-accent transition-colors duration-300">

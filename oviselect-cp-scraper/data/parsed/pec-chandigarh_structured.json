@@ -114,7 +114,60 @@
   "total_faculty_count": null,
   "faculty_with_phd_pct": null,
   "faculty_student_ratio": null,
-  "departments": null,
+  "departments": [
+    {
+      "name": "Aerospace Engineering",
+      "faculty": [
+        {
+          "name": "Dr. Tejinder Kumar Jindal",
+          "designation": "Professor & Head Aerospace Engineering B.E",
+          "email": null
+        }
+      ],
+      "faculty_count": 1
+    },
+    {
+      "name": "Chemistry",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Civil Engineering",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Electrical Engineering",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Electronics and Communication",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Mathematics",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Physics",
+      "faculty": [
+        {
+          "name": "Dr. Shilpi Chaudhary Shilpi Chaudhary",
+          "designation": "Assistant Professor Physics M. Tech. (IIT Delhi)",
+          "email": null
+        }
+      ],
+      "faculty_count": 1
+    }
+  ],
   "ug_programmes": null,
   "pg_programmes": null,
   "phd_available": true,
@@ -175,5 +228,7 @@
   "data_confidence_score": 58,
   "needs_review": true,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/pec-chandigarh",
-  "last_scraped_at": "2026-03-31T16:25:39.427924"
+  "last_scraped_at": "2026-03-31T16:25:39.427924",
+  "department_count": 8,
+  "total_faculty": 2
 }

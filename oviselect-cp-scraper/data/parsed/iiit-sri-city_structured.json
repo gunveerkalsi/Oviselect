@@ -79,7 +79,25 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "Academic Collaboration",
+      "Research Centers",
+      "Center for Smart Cities",
+      "Design and Innovation Center (Ministry of Education)",
+      "Research Groups",
+      "Human Movement Analysis Group",
+      "NextGen Cyber Security Research Group",
+      "Smart Transportation Group",
+      "Geospatial and Environmental Modeling Group",
+      "Human-Computer Interaction Lab",
+      "Bioinformatics_Lab",
+      "Secure Computing and Computer Vision Lab",
+      "Aerial Robotics Lab",
+      "Career Center",
+      "Innovation & TBI"
+    ]
+  },
   "infrastructure": null,
   "student_activities": null,
   "international_relations": null,

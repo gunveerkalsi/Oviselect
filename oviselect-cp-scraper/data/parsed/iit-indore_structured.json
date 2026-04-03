@@ -33,8 +33,8 @@
   "total_hostel_fee": null,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": 82.19,
   "avg_package_lpa": 23.61,
@@ -93,7 +93,18 @@
   "internet_charges_per_sem": null,
   "development_fund_per_sem": null,
   "alumni_fund_one_time": null,
-  "research": null,
+  "research": {
+    "research_centres": [
+      "Learning Resource Center (Library)",
+      "TEQIP Center",
+      "QIP Center",
+      "IITI Advanced Centre for Entrepreneurship (ACE) Foundation",
+      "Sophisticated Instrumentation Center (SIC) - A National Facility",
+      "Health Centre",
+      "Career Advancement and Mentoring Centre",
+      "Computer and Information Technology Center"
+    ]
+  },
   "infrastructure": {
     "labs": [
       "Construction of Shed and Utility space for CRDT Lab at IIT Indore"

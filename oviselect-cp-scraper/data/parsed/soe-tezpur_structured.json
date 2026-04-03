@@ -54,7 +54,7 @@
     "Juniper Networks": 1.0,
     "Modak": 3.0,
     "Oil India": 1.0,
-    "P.W.D. Roads \u2013 Assam": 1.0,
+    "P.W.D. Roads – Assam": 1.0,
     "SOROCO": 1.0,
     "Wipro": 4.0,
     "Zaloni Technologies": 4.0,
@@ -72,7 +72,421 @@
   "total_faculty_count": null,
   "faculty_with_phd_pct": null,
   "faculty_student_ratio": null,
-  "departments": null,
+  "departments": [
+    {
+      "name": "Civil Engineering",
+      "faculty": [
+        {
+          "name": "Dr. Kamal Uddin Ahamad",
+          "designation": "Professor, Head of the Department and Dean, Planning & Development",
+          "email": "kahamad@tezu.ernet.in",
+          "qualification": "B. Tech (NIT Bhopal), M. Tech (IIT G), Ph D (IIT G)",
+          "research_interests": [
+            "Groundwater contamination",
+            "Potable water",
+            "Low Cost Drinking water treatment technology"
+          ]
+        },
+        {
+          "name": "Dr. Utpal Kumar Das",
+          "designation": "Professor",
+          "email": "ukrdas@tezu.ernet.in",
+          "qualification": null,
+          "research_interests": [
+            "Landslides and Slope Stabilization",
+            "Unsaturated Soil Mechanics"
+          ]
+        },
+        {
+          "name": "Dr. Shailen Deka",
+          "designation": "Assistant Professor",
+          "email": "deka.s@tezu.ernet.in",
+          "qualification": null,
+          "research_interests": [
+            "Soil Improvement with Admixtures",
+            "Soil Bio-engineering"
+          ]
+        },
+        {
+          "name": "Dr. Ankurjyoti Saikia",
+          "designation": "Assistant Professor",
+          "email": "asaikia@tezu.ernet.in",
+          "qualification": "B.Tech (NIT Silchar), M. Tech (IIT Kharagpur), Ph.D (Tezpur University)",
+          "research_interests": [
+            "Constitutive Modeling",
+            "Soil Dynamics",
+            "Ground improvement",
+            "Soil Structure Interaction"
+          ]
+        },
+        {
+          "name": "Dr. Arunav Chakraborty",
+          "designation": "Assistant Professor",
+          "email": "aru243@tezu.ernet.in",
+          "qualification": "B.E. (Gauhati University); M.E. (Gauhati University); Ph.D. (Gauhati University); PGDDM (IGNOU)",
+          "research_interests": [
+            "Landslide Mitigation",
+            "Soil Improvement Techniques",
+            "Slope Stabilization"
+          ]
+        },
+        {
+          "name": "Dr. Hemanta Medhi",
+          "designation": "Assistant Professor",
+          "email": "hmedhi@tezu.ernet.in",
+          "qualification": "B.E (JEC), M.Tech (NIT Silchar)",
+          "research_interests": [
+            "PUBs",
+            "Regionalization",
+            "Scaling Exponent",
+            "Frequency Analysis"
+          ]
+        }
+      ],
+      "faculty_count": 6
+    },
+    {
+      "name": "Electronics and Communication Engg",
+      "faculty": [
+        {
+          "name": "Bhabesh Deka",
+          "designation": "Professor & Head of Department",
+          "email": "bdeka@tezu.ernet.in",
+          "research_interests": [
+            "Digital & Biomedical Signal/Image Processing",
+            "Machine & Computer Vision",
+            "ML & DL for Biomedical & Precision Agriculture Applications",
+            "Microwave & mmWave Biosensors for Healthcare",
+            "Embedded ML on FPGA for SoC."
+          ]
+        },
+        {
+          "name": "Partha Pratim Sahu",
+          "designation": "Professor (PhD, Jadavpur University)",
+          "email": "pps@tezu.ernet.in",
+          "research_interests": [
+            "Optical Networks",
+            "Integrated Optic Devices",
+            "Spread Spectrum",
+            "Technology for Wireless Communication",
+            "Neuro- Engineering"
+          ]
+        },
+        {
+          "name": "Jiten Ch. Dutta",
+          "designation": "Professor (PhD, Jadavpur University)",
+          "email": "jitend@tezu.ernet.in",
+          "research_interests": [
+            "Biosensors and Bioelectronics"
+          ]
+        },
+        {
+          "name": "Satyajib Bhattacharyya",
+          "designation": "Professor (PhD, University of Delhi)",
+          "email": "sb@tezu.ernet.in",
+          "research_interests": [
+            "Microstrip Antennas (MPA Substrates)",
+            "Corrugated Feeds",
+            "Broadband Antennas"
+          ]
+        },
+        {
+          "name": "Santanu Sharma",
+          "designation": "Professor (PhD, Tezpur University)",
+          "email": "sss@tezu.ernet.in",
+          "research_interests": [
+            "Power Electronics",
+            "Vehicular Electronics"
+          ]
+        },
+        {
+          "name": "Soumik Roy",
+          "designation": "Professor (PhD, Tezpur University)",
+          "email": "xoumik@tezu.ernet.in",
+          "research_interests": [
+            "Electronics Design and Technology"
+          ]
+        },
+        {
+          "name": "Vijay Kumar Nath",
+          "designation": "Professor (PhD, IIT Guwahati)",
+          "email": "vknath@tezu.ernet.in",
+          "research_interests": [
+            "Image Processing",
+            "Machine Learning",
+            "Computer Vision",
+            "Pattern Recognition",
+            "Deep Learning"
+          ]
+        },
+        {
+          "name": "Nayan Moni Kakoty",
+          "designation": "Professor (PhD, Tezpur University)",
+          "email": "nkakoty@tezu.ernet.in",
+          "research_interests": [
+            "Rehabilitation Robotics",
+            "Machine Learning",
+            "Bio-medical Signal Processing"
+          ]
+        },
+        {
+          "name": "Ratul Kumar Baruah",
+          "designation": "Professor (PhD, IIT Guwahati)",
+          "email": "ratulkr@tezu.ernet.in",
+          "research_interests": [
+            "Nanoelectronics",
+            "Biosensors",
+            "Flexible Electronics"
+          ]
+        },
+        {
+          "name": "Deepika Hazarika",
+          "designation": "Associate Professor (PhD, Tezpur University)",
+          "email": "deepika@tezu.ernet.in",
+          "research_interests": [
+            "Medical Image Processing Using Deep Learning",
+            "Machine Learning",
+            "Computer Vision",
+            "Image Processing"
+          ]
+        },
+        {
+          "name": "Biplob Mondal",
+          "designation": "Associate Professor (PhD, Jadavpur University)",
+          "email": "biplobm@tezu.ernet.in",
+          "research_interests": [
+            "Semiconductor Device Fabrication",
+            "Sensors",
+            "Flexible Biosensor"
+          ]
+        },
+        {
+          "name": "Riku Chutia",
+          "designation": "Assistant Professor (PhD, Tezpur University)",
+          "email": "riku@tezu.ernet.in",
+          "research_interests": [
+            "Instrumentation",
+            "Embedded System",
+            "ANN",
+            "Signal Processing"
+          ]
+        },
+        {
+          "name": "Durlav Sonowal",
+          "designation": "Assistant Professor (PhD, Tezpur University)",
+          "email": "dsn@tezu.ernet.in",
+          "research_interests": [
+            "Sensor Systems and Instrumentation",
+            "Embedded/IoT based System"
+          ]
+        },
+        {
+          "name": "Ananya Bonjyotsna",
+          "designation": "Assistant Professor (PhD, Tezpur University)",
+          "email": "ananyab@tezu.ernet.in",
+          "research_interests": [
+            "Electronics Design and Technology"
+          ]
+        },
+        {
+          "name": "Priyanka Kakoty",
+          "designation": "Assistant Professor (PhD, Tezpur University)",
+          "email": "priyankak@tezu.ernet.in",
+          "research_interests": [
+            "Gas sensors",
+            "Capacitive sensors",
+            "UV photodetectors",
+            "Microheaters",
+            "Nanomaterial preparation and characterization"
+          ]
+        },
+        {
+          "name": "Rupam Goswami",
+          "designation": null,
+          "email": "rupam21@tezu.ernet.in",
+          "research_interests": [
+            "Simulation and Modeling of Semiconductor Devices"
+          ]
+        },
+        {
+          "name": "Rewrewa Narzary",
+          "designation": null,
+          "email": "rewa325@tezu.ernet.in",
+          "research_interests": [
+            "Heterojunction Photovoltaic",
+            "Semiconductor Material Processing/Characterization"
+          ]
+        },
+        {
+          "name": "Kasturi Gogoi",
+          "designation": "Assistant Professor, Contractual (PhD IIT Guwahati)",
+          "email": "gogoi.kasturi@gmail.com",
+          "research_interests": [
+            "Semiconductor Devices",
+            "Nanoelectronics",
+            "Flexible Sensors"
+          ]
+        },
+        {
+          "name": "Ujjwol Barman",
+          "designation": "Assistant Professor, Contractual (PhD, IIT Guwahati)",
+          "email": "ujjwol@tezu.ernet.in",
+          "research_interests": [
+            "Semiconductor Devices",
+            "Biosensors"
+          ]
+        },
+        {
+          "name": "Visiting Dr. Roy P. Paily Visiting",
+          "designation": null,
+          "email": "roypaily@iitg.ac.in",
+          "research_interests": [
+            "Devices",
+            "MEMS and VLSI Circuits/System Design."
+          ]
+        },
+        {
+          "name": "Dr. Roy P. Paily Visiting",
+          "designation": null,
+          "email": "roypaily@iitg.ac.in",
+          "research_interests": [
+            "Devices",
+            "MEMS and VLSI Circuits/System Design."
+          ]
+        }
+      ],
+      "faculty_count": 21
+    },
+    {
+      "name": "Mechanical Engineering",
+      "faculty": [
+        {
+          "name": "Tapan Kumar Gogoi",
+          "designation": "Professor",
+          "email": "tapan_g@tezu.ernet.in",
+          "research_interests": [
+            "Thermal, Energy and Environment Engineering"
+          ]
+        },
+        {
+          "name": "Dilip Datta",
+          "designation": "Professor",
+          "email": "ddatta@tezu.ernet.in",
+          "research_interests": null
+        },
+        {
+          "name": "Partha Pratim Dutta",
+          "designation": "Associate Professor",
+          "email": "ppdutta@tezu.ernet.in",
+          "research_interests": null
+        },
+        {
+          "name": "Paragmoni Kalita",
+          "designation": "Assistant Professor",
+          "email": "paragmk@tezu.ernet.in",
+          "research_interests": [
+            "Heat Power Engineering"
+          ]
+        },
+        {
+          "name": "Polash Pratim Dutta",
+          "designation": "Assistant Professor",
+          "email": "polashd@tezu.ernet.in",
+          "research_interests": [
+            "Computer Aided Analysis & Design"
+          ]
+        },
+        {
+          "name": "Sushen Kirtania",
+          "designation": "Assistant Professor",
+          "email": "sushen@tezu.ernet.in",
+          "research_interests": [
+            "Machine Design"
+          ]
+        },
+        {
+          "name": "Prabin Haloi",
+          "designation": "Assistant Professor",
+          "email": "haloi_p@tezu.ernet.in",
+          "research_interests": [
+            "Mechanical Engineering."
+          ]
+        },
+        {
+          "name": "Sanjib Banerjee",
+          "designation": "Assistant Professor",
+          "email": "sanjibb@tezu.ernet.in",
+          "research_interests": [
+            "Dual phase steels, Aluminum Alloys, Microalloying, Mechanical Properties and Characterizations, High Temperature Deformation Behavior, Artificial Neural Networks."
+          ]
+        },
+        {
+          "name": "Monoj Bardalai",
+          "designation": "Assistant Professor",
+          "email": "monojb@tezu.ernet.in",
+          "research_interests": [
+            "Thermal Engineering, Renewal Energy Conversion."
+          ]
+        },
+        {
+          "name": "Satadru Kashyap",
+          "designation": "Assistant Professor",
+          "email": "satadru@tezu.ernet.in",
+          "research_interests": null
+        },
+        {
+          "name": "Seikh Mustafa Kamal",
+          "designation": "Assistant Professor",
+          "email": "smkmech@tezu.ernet.in",
+          "research_interests": [
+            "Machine Design"
+          ]
+        },
+        {
+          "name": "Vivek K Mehta",
+          "designation": "Assistant Professor",
+          "email": "vkmehta@tezu.ernet.in",
+          "research_interests": [
+            "Optimization: Classical and Evolutionary Algorithms, Multi-objective Optimization, Multi-modal Optimization. Robotics: Parallel Manipulators"
+          ]
+        },
+        {
+          "name": "Barnali Chowdhury",
+          "designation": "Assistant Professor",
+          "email": "barnali@tezu.ernet.in",
+          "research_interests": [
+            "Thermal Engineering."
+          ]
+        }
+      ],
+      "faculty_count": 13
+    },
+    {
+      "name": "Electrical Engineering",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Energy",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Food Engineering and Technology",
+      "faculty": [],
+      "faculty_count": 0
+    },
+    {
+      "name": "Design",
+      "faculty": [],
+      "faculty_count": 0
+    }
+  ],
   "ug_programmes": null,
   "pg_programmes": null,
   "phd_available": null,
@@ -105,5 +519,7 @@
   "data_confidence_score": 54,
   "needs_review": true,
   "collegepravesh_url": "https://www.collegepravesh.com/engineering-colleges/soe-tezpur",
-  "last_scraped_at": "2026-03-31T16:25:39.616092"
+  "last_scraped_at": "2026-03-31T16:25:39.616092",
+  "department_count": 8,
+  "total_faculty": 40
 }

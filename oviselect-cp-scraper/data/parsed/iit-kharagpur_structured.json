@@ -35,8 +35,8 @@
   "total_hostel_fee": 43350,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": null,
   "avg_package_lpa": null,
@@ -132,12 +132,19 @@
     ],
     "total_funding_crores": null,
     "consultancy_projects": null,
-    "patents_filed": null,
+    "patents_filed": 279,
     "patents_granted": null,
     "publications_per_year": null,
     "phd_students_enrolled": null,
     "phds_awarded": null,
-    "research_centres": null,
+    "research_centres": [
+      "Career Development Centre",
+      "Policy for Institute IT Infrastructure",
+      "Institute Overhead (Amendment) Rules",
+      "Lab to Market",
+      "Available Technology & TRL",
+      "Lab To Market"
+    ],
     "international_collaborations": null
   },
   "infrastructure": {

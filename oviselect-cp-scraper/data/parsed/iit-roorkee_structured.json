@@ -36,8 +36,8 @@
   "total_hostel_fee": 33750,
   "fee_waivers": [
     "100% Tuition Fee waiver for SC/ST/PwD students.",
-    "100% Tuition Fee remission for Most Economically Backward students with family income less than \u20b91 lakh per annum.",
-    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between \u20b91 lakh to \u20b95 lakh per annum."
+    "100% Tuition Fee remission for Most Economically Backward students with family income less than ₹1 lakh per annum.",
+    "2/3rd Tuition Fee remission for Other Economically Backward students with family income between ₹1 lakh to ₹5 lakh per annum."
   ],
   "overall_placement_pct": 71.24,
   "avg_package_lpa": null,
@@ -125,9 +125,11 @@
     "phd_students_enrolled": null,
     "phds_awarded": null,
     "research_centres": [
-      "INDIAN INSTITUTE OF TECHNOLOGY ROORKEE"
+      "INDIAN INSTITUTE OF TECHNOLOGY ROORKEE",
+      "09 CENTRES"
     ],
-    "international_collaborations": null
+    "international_collaborations": null,
+    "research_centres_count": 9
   },
   "infrastructure": null,
   "student_activities": null,
