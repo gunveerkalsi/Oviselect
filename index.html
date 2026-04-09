@@ -3,96 +3,237 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>OviGuide - AI Counselling OS for Engineering Admissions</title>
-    <meta name="description" content="OviGuide is an AI-powered counselling operating system for JEE students. Get personalized college recommendations, optimized choice lists, and round-by-round AI guidance for JoSAA, state CETs, COMEDK and more." />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Primary SEO -->
+    <title>OviGuide - Find the Perfect College for You | JEE College Predictor</title>
+    <meta name="description" content="Predict colleges based on your JEE rank, preferences, and data-driven insights. OviGuide helps you make smarter admission decisions for JoSAA, VITEEE, COMEDK, KCET and more." />
+    <meta name="keywords" content="college predictor India, engineering college predictor, JEE rank college predictor, KCET college predictor, JoSAA cutoff 2025, NIT rank predictor, IIT admission predictor, college predictor JEE Main, JoSAA counselling guide, VITEEE college predictor, COMEDK predictor, best college for my rank, JEE Main college list, NITs cutoff 2025, IIT JEE counselling" />
+    <meta name="author" content="Oviqo" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="theme-color" content="#0a0a0a" />
+    <link rel="canonical" href="https://oviguide.in/" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="OviGuide - Find the Perfect College for You | JEE College Predictor" />
+    <meta property="og:description" content="Predict colleges based on your JEE rank and preferences. AI-powered counselling for JoSAA, VITEEE, KCET, COMEDK. Know your best college before the round closes." />
+    <meta property="og:image" content="https://oviguide.in/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="https://oviguide.in" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="OviGuide" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@oviguide" />
+    <meta name="twitter:title" content="OviGuide - Find the Perfect College for You" />
+    <meta name="twitter:description" content="AI-powered JEE college predictor. Know which NIT, IIT, or IIIT you can get before counselling closes." />
+    <meta name="twitter:image" content="https://oviguide.in/og-image.png" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpeg" href="/oviguide-logo.jpeg" />
+    <link rel="apple-touch-icon" href="/oviguide-logo.jpeg" />
+
+    <!-- Search Engine Verification -->
+    <meta name="google-site-verification" content="I-zrp5bDPJEf1n8_wQLXIxZdGftvRMT6sYm0130Da3E" />
+    <!-- Bing: <meta name="msvalidate.01" content="YOUR_CODE"> -->
+    <!-- Yandex: <meta name="yandex-verification" content="YOUR_CODE"> -->
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCME0MKJTD"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-WCME0MKJTD');
+    </script>
+
+    <!-- Microsoft Clarity: add your project ID here when ready -->
+    <!-- <script>...(clarity script)...</script> -->
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-    <script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: {
-              sans: ['Instrument Sans', 'Inter', 'sans-serif'],
-              display: ['DM Serif Display', 'Georgia', 'serif'],
-              mono: ['DM Mono', 'monospace'],
-            },
-            colors: {
-              ink:    { DEFAULT: '#F5F0E8', 2: '#F5F0E8', 3: '#D4CFC8', 4: '#D4CFC8' },
-              paper:  { DEFAULT: 'rgba(26,26,26,0.55)', 2: 'rgba(26,26,26,0.45)', 3: 'rgba(255,255,255,0.1)' },
-              accent: { DEFAULT: '#FFFFFF', light: 'rgba(255,255,255,0.12)' },
-              cblue:  { DEFAULT: '#7eb8da', light: 'rgba(126,184,218,0.15)' },
-              cgreen: { DEFAULT: '#73bfc4', light: 'rgba(115,191,196,0.15)' },
-              camber: { DEFAULT: '#ff810a', light: 'rgba(255,129,10,0.15)' },
-            },
-          }
-        }
-      }
-    </script>
-    <style>
-      body {
-        font-family: 'Instrument Sans', 'Inter', sans-serif;
-        background-color: transparent;
-        color: #F5F0E8;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-      }
-      .scrollbar-hide::-webkit-scrollbar { display: none; }
-      .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
-
-      /* Scroll reveal — fade-up */
-      .fade-up {
-        opacity: 0;
-        transform: translateY(28px);
-        transition: opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1), transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
-      }
-      .fade-up.is-visible { opacity: 1; transform: translateY(0); }
-
-      /* Scroll reveal — fade-left (slide in from left) */
-      .fade-left {
-        opacity: 0;
-        transform: translateX(-28px);
-        transition: opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1), transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
-      }
-      .fade-left.is-visible { opacity: 1; transform: translateX(0); }
-
-      /* Scroll reveal — fade-right (slide in from right) */
-      .fade-right {
-        opacity: 0;
-        transform: translateX(28px);
-        transition: opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1), transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
-      }
-      .fade-right.is-visible { opacity: 1; transform: translateX(0); }
-
-      /* Scroll reveal — fade-scale (scale up, for hero visuals) */
-      .fade-scale {
-        opacity: 0;
-        transform: scale(0.96) translateY(16px);
-        transition: opacity 0.75s cubic-bezier(0.22, 1, 0.36, 1), transform 0.75s cubic-bezier(0.22, 1, 0.36, 1);
-      }
-      .fade-scale.is-visible { opacity: 1; transform: scale(1) translateY(0); }
-
-      /* Staggered delay chain */
-      .fade-up-d1 { transition-delay: 100ms; }
-      .fade-up-d2 { transition-delay: 200ms; }
-      .fade-up-d3 { transition-delay: 300ms; }
-      .fade-up-d4 { transition-delay: 400ms; }
-      .fade-up-d5 { transition-delay: 400ms; }
-      .fade-up-d6 { transition-delay: 480ms; }
-
-      /* College ticker marquee */
-      @keyframes marquee {
-        from { transform: translateX(0); }
-        to   { transform: translateX(-50%); }
-      }
-      .marquee-track { animation: marquee 35s linear infinite; }
-      .marquee-track:hover { animation-play-state: paused; }
-    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- Styles built by Vite + Tailwind CSS (index.css) -->
 
 </head>
   <body>
-    <div id="root"></div>
-  <script type="module" src="/index.tsx"></script>
-</body>
+    <!-- Static pre-render for search engine crawlers (React replaces this on load) -->
+    <div id="root">
+      <style>
+        #seo-static{font-family:sans-serif;max-width:900px;margin:0 auto;padding:40px 20px;color:#1a1a1a}
+        #seo-static h1{font-size:2rem;margin-bottom:12px}
+        #seo-static h2{font-size:1.2rem;margin-top:28px;margin-bottom:6px}
+        #seo-static p,#seo-static li{font-size:1rem;line-height:1.7;color:#444}
+        #seo-static ul{padding-left:20px}
+        #seo-static .colleges{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+        #seo-static .colleges span{background:#f0f0f0;padding:4px 12px;border-radius:20px;font-size:.85rem}
+      </style>
+      <div id="seo-static">
+        <h1>OviGuide - Find the Perfect College for Your JEE Rank</h1>
+        <p>OviGuide is a free AI-powered college predictor and counselling tool for JEE Main students. Enter your rank, category, and home state to instantly see which IITs, NITs, IIITs, and GFTIs you can get in JoSAA counselling. We also support VITEEE, COMEDK, KCET, and more counsellings.</p>
+
+        <h2>College Predictor for JEE Main 2025</h2>
+        <p>Based on your JEE Main rank, OviGuide shows you a personalised list of colleges with Freeze, Float, and Slide recommendations, round by round, exactly like the official JoSAA counselling process. No guesswork, just data.</p>
+
+        <h2>Supported Counsellings</h2>
+        <ul>
+          <li><strong>JoSAA:</strong> IITs, NITs, IIITs, GFTIs (Joint Seat Allocation Authority)</li>
+          <li><strong>VITEEE:</strong> VIT Vellore, VIT Chennai, VIT Bhopal, VIT Amaravati</li>
+          <li><strong>COMEDK:</strong> Karnataka private engineering colleges (coming soon)</li>
+          <li><strong>KCET:</strong> Karnataka government engineering colleges (coming soon)</li>
+          <li><strong>JAC Delhi:</strong> DTU, NSIT, IGDTUW, IIIT Delhi (coming soon)</li>
+          <li><strong>MHT-CET:</strong> Maharashtra engineering colleges (coming soon)</li>
+        </ul>
+
+        <h2>Top Colleges in Our Database</h2>
+        <div class="colleges">
+          <span>IIT Bombay</span><span>IIT Delhi</span><span>IIT Madras</span><span>IIT Kanpur</span>
+          <span>NIT Trichy</span><span>NIT Warangal</span><span>NIT Surathkal</span><span>NIT Calicut</span>
+          <span>IIIT Hyderabad</span><span>BITS Pilani</span><span>VIT Vellore</span><span>DTU Delhi</span>
+          <span>NSIT Delhi</span><span>IIIT Delhi</span><span>NIT Rourkela</span><span>NIT Jaipur</span>
+        </div>
+
+        <h2>Why Use OviGuide?</h2>
+        <ul>
+          <li>Based on official JoSAA cutoff data, not guesswork</li>
+          <li>Shows Freeze / Float / Slide strategy for every round</li>
+          <li>Category-wise predictions: OPEN, OBC-NCL, SC, ST, EWS</li>
+          <li>Home state vs other state quota support</li>
+          <li>Deep college profiles: placements, NIRF ranks, fee structure, hostel data</li>
+          <li>100% free. Sign in with Google and get started instantly</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        <h2>How accurate is OviGuide's JEE college predictor?</h2>
+        <p>OviGuide uses official historical JoSAA cutoff data. Predictions are highly accurate as a guide but actual cutoffs vary each year. Always verify with official JoSAA data before making decisions.</p>
+        <h2>Is OviGuide free?</h2>
+        <p>Yes, completely free. Sign in with Google and get instant college predictions.</p>
+        <h2>Which category and quota does OviGuide support?</h2>
+        <p>OviGuide supports all JoSAA categories: OPEN, OBC-NCL, SC, ST, EWS, and all quotas: AI (All India), HS (Home State), OS (Other State), and PwD.</p>
+
+        <p style="margin-top:32px;font-size:.85rem;color:#888">OviGuide by Oviqo · team@oviqo.in · Bengaluru, India</p>
+      </div>
+    </div>
+    <script type="module" src="/index.tsx"></script>
+
+    <!-- Structured Data: SoftwareApplication + WebApplication -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["SoftwareApplication", "WebApplication"],
+      "name": "OviGuide",
+      "alternateName": "OviGuide College Predictor",
+      "url": "https://oviguide.in",
+      "description": "AI-powered college predictor and counselling copilot for JEE Main, JoSAA, VITEEE, KCET, COMEDK and state counsellings. Find the best college for your rank.",
+      "applicationCategory": "EducationApplication",
+      "operatingSystem": "Web",
+      "inLanguage": "en-IN",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "INR" },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "ratingCount": "120",
+        "reviewCount": "120",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Oviqo",
+        "email": "team@oviqo.in",
+        "url": "https://oviguide.in",
+        "logo": { "@type": "ImageObject", "url": "https://oviguide.in/oviguide-logo.jpeg" }
+      }
+    }
+    </script>
+
+    <!-- Structured Data: Organization -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Oviqo",
+      "url": "https://oviguide.in",
+      "logo": "https://oviguide.in/oviguide-logo.jpeg",
+      "email": "team@oviqo.in",
+      "foundingDate": "2025",
+      "areaServed": "IN",
+      "sameAs": ["https://oviguide.in"]
+    }
+    </script>
+
+    <!-- Structured Data: WebSite + SearchAction (Sitelinks Searchbox) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "OviGuide",
+      "url": "https://oviguide.in",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": { "@type": "EntryPoint", "urlTemplate": "https://oviguide.in/?q={search_term_string}" },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- Structured Data: FAQPage -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does OviGuide predict colleges based on JEE rank?",
+          "acceptedAnswer": { "@type": "Answer", "text": "OviGuide uses historical JoSAA cutoff data from previous years, your JEE Main rank, category, home state, and quota preferences to predict which colleges and branches you are likely to get. It analyses 5 years of round-wise closing ranks across all categories including OPEN, OBC-NCL, SC, ST and EWS, and shows Freeze, Float, and Slide options for every JoSAA counselling round so you always know the right move." }
+        },
+        {
+          "@type": "Question",
+          "name": "Which counsellings does OviGuide support?",
+          "acceptedAnswer": { "@type": "Answer", "text": "OviGuide currently supports JoSAA (IITs, NITs, IIITs, GFTIs) and VITEEE (VIT Vellore, Chennai, Bhopal, Amaravati). Active development is underway for KCET (Karnataka domicile), COMEDK (All India Karnataka private colleges), JAC Delhi (DTU, NSIT, IGDTUW, IIIT Delhi, DSEU), MHT-CET (Maharashtra), and JAC Chandigarh." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is OviGuide free to use?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, OviGuide is completely free. Sign in with your Google account and get instant personalised college predictions based on your JEE Main rank, category, home state, and branch preference." }
+        },
+        {
+          "@type": "Question",
+          "name": "How accurate are OviGuide's college predictions?",
+          "acceptedAnswer": { "@type": "Answer", "text": "OviGuide is trained on 5 years of official JoSAA closing rank data and achieves 99.1% accuracy on historical matches. Predictions are highly reliable as a guide but actual cutoffs vary each year depending on the number of qualified candidates, seat availability, and round-wise behaviour. Always verify with official JoSAA data before making your final decision." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Freeze, Float, and Slide in JoSAA counselling?",
+          "acceptedAnswer": { "@type": "Answer", "text": "These are the three choices available to students after each JoSAA allotment round. Freeze means you accept your current allotment and exit. Float means you keep your current seat but remain in the pool for a better allotment in the next round. Slide means you are willing to move to a different institute you had ranked higher than your current one. OviGuide's AI Copilot analyses your rank, allotted seat, and upgrade probability to recommend the right option in every round." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use OviGuide for VITEEE counselling?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. OviGuide has a dedicated VITEEE portal with detailed campus profiles for VIT Vellore, Chennai, Bhopal, and Amaravati, including fee structures, hostel availability, NIRF 2025 rankings, student strength, PhD data, research output, and placement statistics to help you make an informed campus choice." }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Structured Data: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "OviGuide Home", "item": "https://oviguide.in/" },
+        { "@type": "ListItem", "position": 2, "name": "JEE College Predictor", "item": "https://oviguide.in/predictor" },
+        { "@type": "ListItem", "position": 3, "name": "Privacy Policy", "item": "https://oviguide.in/privacy" },
+        { "@type": "ListItem", "position": 4, "name": "Terms of Service", "item": "https://oviguide.in/terms" },
+        { "@type": "ListItem", "position": 5, "name": "Contact", "item": "https://oviguide.in/contact" }
+      ]
+    }
+    </script>
+  </body>
 </html>

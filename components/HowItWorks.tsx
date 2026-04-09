@@ -21,7 +21,7 @@ const steps = [
   {
     number: '03',
     title: 'Discover Real Insights',
-    description: 'Reddit threads, placement data, and campus reviews — aggregated honestly.',
+    description: 'Reddit threads, placement data, and campus reviews, aggregated honestly.',
     icon: <BookOpen size={20} />,
     color: 'text-cgreen',
     bg: 'bg-cgreen-light',
@@ -29,7 +29,7 @@ const steps = [
   {
     number: '04',
     title: 'Generate Choice List',
-    description: 'AI builds a risk-balanced, round-optimised list of choices — ready to submit.',
+    description: 'AI builds a risk-balanced, round-optimised list of choices, ready to submit.',
     icon: <ListChecks size={20} />,
     color: 'text-camber',
     bg: 'bg-camber-light',

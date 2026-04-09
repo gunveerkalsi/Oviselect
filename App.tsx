@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import { BrowserRouter, Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import { GoogleOAuthProvider } from '@react-oauth/google';
 import { ShaderGradientCanvas, ShaderGradient } from '@shadergradient/react';
 import { ThemeProvider } from './contexts/ThemeContext';
@@ -12,6 +13,11 @@ import About from './components/About';
 import Team from './components/Team';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
+import PrivacyPolicy from './components/PrivacyPolicy';
+import Terms from './components/Terms';
+import Contact from './components/Contact';
+import BugReport from './components/BugReport';
+import { trackPageView } from './lib/analytics';
 
 /** Catches WebGL/Three.js crashes so the rest of the app still renders. */
 class ShaderErrorBoundary extends React.Component<
@@ -22,19 +28,42 @@ class ShaderErrorBoundary extends React.Component<
     super(props);
     this.state = { hasError: false };
   }
-  static getDerivedStateFromError() {
-    return { hasError: true };
-  }
+  static getDerivedStateFromError() { return { hasError: true }; }
   render() {
     if (this.state.hasError) return null;
     return this.props.children;
   }
 }
 
-const App: React.FC = () => {
-  useScrollReveal();
+const ROUTE_TITLES: Record<string, string> = {
+  '/':        'OviGuide - Find the Perfect College for You | JEE College Predictor',
+  '/privacy': 'Privacy Policy | OviGuide',
+  '/terms':   'Terms of Service | OviGuide',
+  '/contact': 'Contact Us | OviGuide',
+};
 
-  const GOOGLE_CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID || '457690217048-4s9jvahgvk7dmfrsfrj19qfasbbb5gn5.apps.googleusercontent.com';
+/** Track page views, update title, scroll-to-top on route change */
+function RouteWatcher() {
+  const location = useLocation();
+  useEffect(() => {
+    const title = ROUTE_TITLES[location.pathname] ?? ROUTE_TITLES['/'];
+    document.title = title;
+    trackPageView(location.pathname);
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+  return null;
+}
+
+const GOOGLE_CLIENT_ID = '457690217048-4s9jvahgvk7dmfrsfrj19qfasbbb5gn5.apps.googleusercontent.com';
+
+/** Legal page wrapper — uses navigate() to go home */
+function LegalPage({ children }: { children: (onBack: () => void) => React.ReactNode }) {
+  const navigate = useNavigate();
+  return <>{children(() => navigate('/', { replace: true }))}<BugReport /></>;
+}
+
+const AppShell: React.FC = () => {
+  useScrollReveal();
 
   return (
     <GoogleOAuthProvider clientId={GOOGLE_CLIENT_ID}>
@@ -95,9 +124,26 @@ const App: React.FC = () => {
         </main>
         <Footer />
       </div>
+
+      {/* Global floating bug report */}
+      <BugReport />
     </ThemeProvider>
     </GoogleOAuthProvider>
   );
 };
+
+const App: React.FC = () => (
+  <BrowserRouter>
+    <RouteWatcher />
+    <Routes>
+      <Route path="/" element={<AppShell />} />
+      <Route path="/college/:slug" element={<AppShell />} />
+      <Route path="/privacy" element={<LegalPage>{(back) => <PrivacyPolicy onBack={back} />}</LegalPage>} />
+      <Route path="/terms"   element={<LegalPage>{(back) => <Terms onBack={back} />}</LegalPage>} />
+      <Route path="/contact" element={<LegalPage>{(back) => <Contact onBack={back} />}</LegalPage>} />
+      <Route path="*"        element={<AppShell />} />
+    </Routes>
+  </BrowserRouter>
+);
 
 export default App;

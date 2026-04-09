@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Target, LogOut } from 'lucide-react';
+import { Menu, X, LogOut } from 'lucide-react';
 import CollegeSearch from './CollegeSearch';
 
 const Navbar: React.FC = () => {
@@ -63,9 +63,11 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
 
         <a href="#" onClick={handleLogoClick} className="flex items-center gap-2.5 group cursor-pointer">
-          <div className="w-7 h-7 bg-accent rounded-lg flex items-center justify-center shadow-md shadow-accent/25">
-            <Target size={14} className="text-paper" />
-          </div>
+          <img
+            src="/oviguide-logo.jpeg"
+            alt="OviGuide"
+            className="w-8 h-8 rounded-lg object-cover shadow-md"
+          />
           <span className="text-lg font-semibold tracking-tight text-[#F5F0E8] font-display">
             Ovi<span className="text-white">Guide</span>
           </span>
@@ -89,8 +91,10 @@ const Navbar: React.FC = () => {
               <LogOut size={14} /> Logout
             </button>
           ) : (
-            <button className="bg-white hover:bg-white/90 text-[#1a1a1a] px-5 py-2.5 rounded-full text-sm font-semibold transition-all duration-200 hover:-translate-y-px shadow-md shadow-white/20">
-              Join Waitlist
+            <button
+              onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }); window.dispatchEvent(new Event('oviguide-trigger-login')); }}
+              className="bg-white hover:bg-white/90 text-[#1a1a1a] px-5 py-2.5 rounded-full text-sm font-semibold transition-all duration-200 hover:-translate-y-px shadow-md shadow-white/20">
+              Find the Perfect College
             </button>
           )}
         </div>

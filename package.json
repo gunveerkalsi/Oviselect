@@ -14,16 +14,22 @@
     "@shadergradient/react": "^2.4.20",
     "@supabase/supabase-js": "^2.100.1",
     "camera-controls": "^3.1.2",
+    "firebase": "^12.11.0",
     "lucide-react": "^0.563.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "react-router-dom": "^7.14.0",
     "three": "^0.183.2",
     "three-stdlib": "^2.36.1"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
     "@types/node": "^22.14.0",
     "@types/three": "^0.183.1",
     "@vitejs/plugin-react": "^5.0.0",
+    "autoprefixer": "^10.4.27",
+    "caniuse-lite": "^1.0.30001786",
+    "tailwindcss": "^4.2.2",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }

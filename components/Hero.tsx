@@ -1,10 +1,15 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { useNavigate, useLocation } from 'react-router-dom';
 import { ArrowRight, ChevronDown, ChevronUp, Loader2, MapPin, GraduationCap, TrendingDown, ChevronRight, GripVertical, ExternalLink, BookOpen, ArrowLeft } from 'lucide-react';
 import { useGoogleLogin } from '@react-oauth/google';
 import CopilotDashboard from './CopilotDashboard';
 import CollegeProfile from './CollegeProfile';
 import CounsellingHub from './CounsellingHub';
+import VITEEEPortal from './VITEEEPortal';
+import CounsellingOnboarding, { getStoredCounsellings, setStoredCounsellings } from './CounsellingOnboarding';
+import OviPopup from './OviPopup';
 import { supabase } from '../lib/supabase';
+import { track } from '../lib/analytics';
 
 const colleges = [
   'NIT Trichy', 'BITS Pilani', 'IIT Bombay', 'IIIT Hyderabad',
@@ -12,6 +17,17 @@ const colleges = [
   'NIT Calicut', 'VIT Vellore', 'NIT Rourkela', 'COEP Pune',
   'RVCE Bangalore', 'Jadavpur University', 'BIT Mesra', 'NSIT Delhi',
 ];
+
+/** Convert institute name to a clean URL slug */
+export function toCollegeSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[(),'`.]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '')
+    .replace(/-+/g, '-')
+    .replace(/(^-|-$)/g, '');
+}
 
 const CATEGORIES = ['General', 'OBC-NCL', 'SC', 'ST', 'EWS', 'PwD'];
 const GENDERS = ['Gender-Neutral', 'Female-Only'];
@@ -220,8 +236,8 @@ const CollegeTicker: React.FC = () => {
       <div className="marquee-track flex whitespace-nowrap">
         {all.map((c, i) => (
           <span key={i} className="flex-shrink-0 flex items-center">
-            <span className="text-sm text-[#D4CFC8]/60 mx-5">{c}</span>
-            <span className="text-white/20 text-xs">+</span>
+            <span className="text-sm text-white/80 mx-5 font-medium">{c}</span>
+            <span className="text-white/40 text-xs">+</span>
           </span>
         ))}
       </div>
@@ -351,12 +367,20 @@ const StateCombobox: React.FC<{ value: string; onChange: (v: string) => void }> 
 const STORAGE_KEY = 'oviguide_user';
 
 const Hero: React.FC = () => {
+  const navigate = useNavigate();
+  const location = useLocation();
+
   /* auth state */
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [userProfile, setUserProfile] = useState<{ email: string; name: string; picture: string } | null>(null);
 
   /* counselling hub state: null = show hub, 'josaa' = show prediction form */
   const [activeCounselling, setActiveCounselling] = useState<string | null>(null);
+  const [selectedCounsellings, setSelectedCounsellings] = useState<string[]>(getStoredCounsellings());
+  const [showOnboarding, setShowOnboarding] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
+  const popupTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
 
   /* form state */
   const [name, setName] = useState('');
@@ -380,9 +404,30 @@ const Hero: React.FC = () => {
   const [selectedCollege, setSelectedCollege] = useState<any | null>(null);
   const [activeBranches, setActiveBranches] = useState<string[]>(DEFAULT_BRANCH_ORDER);
 
+  /* ── Update document.title based on active view ─────────────── */
+  useEffect(() => {
+    if (!isLoggedIn) {
+      document.title = 'OviGuide - Find the Perfect College for You | JEE College Predictor';
+    } else if (selectedCollege) {
+      document.title = `${selectedCollege.inst} - College Profile | OviGuide`;
+    } else if (activeCounselling === 'viteee') {
+      document.title = 'VITEEE College Predictor 2025 - VIT Campuses | OviGuide';
+    } else if (activeCounselling === 'josaa') {
+      document.title = results && results.length > 0
+        ? `${results.length} College Matches - JoSAA Predictor | OviGuide`
+        : 'JoSAA College Predictor 2025 - Enter Your Rank | OviGuide';
+    } else if (showOnboarding) {
+      document.title = 'Select Your Counsellings | OviGuide';
+    } else {
+      document.title = 'Counselling Hub | OviGuide';
+    }
+  }, [isLoggedIn, selectedCollege, activeCounselling, results, showOnboarding]);
+
   /* ── Fetch college_info from Supabase and open profile ────── */
   const openCollegeProfile = async (college: any) => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
+    // Push a clean URL for this college
+    navigate(`/college/${toCollegeSlug(college.inst)}`, { replace: false });
     // Show the profile immediately with whatever we have
     setSelectedCollege({ ...college, collegeInfo: null, loadingInfo: true });
     try {
@@ -409,12 +454,65 @@ const Hero: React.FC = () => {
           setUserProfile(profile);
           setName(profile.name || '');
           setIsLoggedIn(true);
+          const stored = getStoredCounsellings();
+          if (stored.length > 0) setSelectedCounsellings(stored);
+          else setShowOnboarding(true);
         }
       }
     } catch {
       localStorage.removeItem(STORAGE_KEY);
     }
   }, []);
+
+  /* ── Sync state with browser navigation (back/forward + direct URLs) ── */
+  useEffect(() => {
+    if (location.pathname === '/') {
+      setSelectedCollege(null);
+      return;
+    }
+    // Handle /college/:slug — resolve slug → institute name → profile
+    const slugMatch = location.pathname.match(/^\/college\/(.+)$/);
+    if (slugMatch) {
+      const slug = slugMatch[1];
+      // Only fetch if we don't already have this college open
+      if (selectedCollege && toCollegeSlug(selectedCollege.inst) === slug) return;
+      (async () => {
+        // Fetch all institute names (small table ~130 rows), find by slug
+        const { data: allInsts } = await supabase
+          .from('institutes')
+          .select('id, name');
+        if (!allInsts) return;
+        const match = allInsts.find(i => toCollegeSlug(i.name) === slug);
+        if (!match) return;
+        const instName = match.name;
+        document.title = `${instName} - College Profile | OviGuide`;
+        const college = {
+          inst: instName,
+          type: classifyInstitute(instName),
+          state: getInstituteState(instName),
+          programs: [],
+          collegeInfo: null,
+          loadingInfo: true,
+        };
+        setSelectedCollege(college);
+        const { data: info } = await supabase
+          .from('college_info')
+          .select('*')
+          .eq('institute', instName)
+          .maybeSingle();
+        setSelectedCollege((prev: any) =>
+          prev ? { ...prev, collegeInfo: info || null, loadingInfo: false } : prev
+        );
+      })();
+    }
+  }, [location.pathname]);
+
+  /* ── Listen for "Find the Perfect College" navbar button ── */
+  useEffect(() => {
+    const handler = () => { if (!isLoggedIn) login(); };
+    window.addEventListener('oviguide-trigger-login', handler);
+    return () => window.removeEventListener('oviguide-trigger-login', handler);
+  }, [isLoggedIn]);
 
   /* ── Listen for logout from Navbar ────────── */
   useEffect(() => {
@@ -441,6 +539,9 @@ const Hero: React.FC = () => {
     window.addEventListener('oviguide-logout', handleLogout);
     return () => window.removeEventListener('oviguide-logout', handleLogout);
   }, []);
+
+  // Clear popup timer on unmount
+  useEffect(() => () => { if (popupTimerRef.current) clearTimeout(popupTimerRef.current); }, []);
 
   /* ── Listen for college search selection from Navbar ────────── */
   useEffect(() => {
@@ -476,24 +577,28 @@ const Hero: React.FC = () => {
   }, []);
 
   /* ── Helper: save user to Supabase users table ─────────── */
-  const upsertUserToSupabase = async (profile: { email: string; name: string; picture: string }) => {
+  const upsertUserToSupabase = async (
+    profile: { email: string; name: string; picture: string },
+    extra?: { selected_counsellings?: string[]; marketing_consent?: boolean }
+  ) => {
     try {
-      // Try upsert — if user exists, bump login_count
-      const { error: upsertErr } = await supabase.from('users').upsert(
-        {
-          email: profile.email,
-          name: profile.name,
-          picture: profile.picture,
-          last_login: new Date().toISOString(),
-        },
-        { onConflict: 'email' }
-      );
-      if (upsertErr) {
-        // Table might not exist yet — silently ignore
-        console.warn('Supabase user upsert:', upsertErr.message);
+      const payload: Record<string, unknown> = {
+        email: profile.email,
+        name: profile.name,
+        picture: profile.picture,
+        last_login: new Date().toISOString(),
+        source: 'google',
+      };
+      if (extra?.selected_counsellings !== undefined)
+        payload.selected_counsellings = extra.selected_counsellings;
+      if (extra?.marketing_consent !== undefined) {
+        payload.marketing_consent = extra.marketing_consent;
+        payload.consent_timestamp = new Date().toISOString();
       }
+      const { error } = await supabase.from('users').upsert(payload, { onConflict: 'email' });
+      if (error) console.warn('[Supabase] user upsert failed:', error.message);
     } catch (err) {
-      console.warn('Supabase user upsert failed:', err);
+      console.warn('[Supabase] user upsert exception:', err);
     }
   };
 
@@ -517,7 +622,13 @@ const Hero: React.FC = () => {
       setName(userInfo.name);
 
       // 2. Upsert to Supabase users table (fire-and-forget)
-      upsertUserToSupabase(userInfo);
+      const consentRaw = localStorage.getItem('oviguide_marketing_consent');
+      const consent = consentRaw ? JSON.parse(consentRaw) : null;
+      const counsellings = getStoredCounsellings();
+      upsertUserToSupabase(userInfo, {
+        selected_counsellings: counsellings.length > 0 ? counsellings : undefined,
+        marketing_consent: consent?.consented ?? false,
+      });
 
       // 3. Also notify FastAPI backend (fire-and-forget)
       try {
@@ -532,6 +643,9 @@ const Hero: React.FC = () => {
       }
 
       setIsLoggedIn(true);
+      const stored = getStoredCounsellings();
+      if (stored.length > 0) setSelectedCounsellings(stored);
+      else setShowOnboarding(true);
       window.dispatchEvent(new Event('oviguide-login'));
     },
     onError: () => console.error('Google login failed'),
@@ -539,6 +653,19 @@ const Hero: React.FC = () => {
 
   const handlePredict = async (e: React.FormEvent) => {
     e.preventDefault();
+
+    // Rate limiting: max 20 predictions per hour
+    const RL_KEY = 'oviguide_predict_timestamps';
+    const now = Date.now();
+    const hour = 60 * 60 * 1000;
+    const timestamps: number[] = JSON.parse(localStorage.getItem(RL_KEY) || '[]').filter((t: number) => now - t < hour);
+    if (timestamps.length >= 20) {
+      setError("You've made too many predictions. Please wait a few minutes before trying again.");
+      return;
+    }
+    timestamps.push(now);
+    localStorage.setItem(RL_KEY, JSON.stringify(timestamps));
+
     setLoading(true);
     setError('');
     setResults(null);
@@ -622,12 +749,21 @@ const Hero: React.FC = () => {
         ...iitRows.filter((r: any) => classifyInstitute(r.institutes?.name || '') === 'IIT'),
       ];
 
-      // Group by institute
+      // Group by institute — filter HS quota rows that don't match the user's home state
       const grouped: Record<string, any> = {};
       for (const r of allResults) {
         const inst = r.institutes?.name || 'Unknown';
+        const instState = getInstituteState(inst);
+
+        // Skip HS quota programs for colleges outside the user's home state
+        if (r.quota === 'HS') {
+          const sameState = homeState && instState &&
+            instState.toLowerCase() === homeState.toLowerCase();
+          if (!sameState) continue;
+        }
+
         if (!grouped[inst]) {
-          grouped[inst] = { inst, type: classifyInstitute(inst), state: getInstituteState(inst), programs: [] };
+          grouped[inst] = { inst, type: classifyInstitute(inst), state: instState, programs: [] };
         }
         grouped[inst].programs.push({
           name: r.programs?.name || '', deg: r.programs?.deg || '',
@@ -635,6 +771,9 @@ const Hero: React.FC = () => {
           open: r.open, close: r.close,
         });
       }
+
+      // Drop colleges that have no valid programs after HS filtering
+      Object.keys(grouped).forEach(k => { if (grouped[k].programs.length === 0) delete grouped[k]; });
 
       const noBranchPriority = branchMode === 'none';
       const effectiveBranches = noBranchPriority
@@ -673,6 +812,10 @@ const Hero: React.FC = () => {
       }
 
       setResults(colleges);
+      track('rank_prediction_submitted', { rank: Number(mainsRank), category, branch_count: colleges.length });
+
+      // Show free-trial popup immediately when results land
+      if (colleges.length > 0) setShowPopup(true);
     } catch (err) {
       console.error('Predict error:', err);
       setError('Failed to fetch predictions.');
@@ -715,16 +858,47 @@ const Hero: React.FC = () => {
               college={selectedCollege}
               homeState={homeState}
               priorityBranches={activeBranches}
-              onBack={() => setSelectedCollege(null)}
+              onBack={() => { setSelectedCollege(null); navigate(-1); }}
+
+            />
+          )}
+
+          {/* Counselling Onboarding — shown on first login */}
+          {!selectedCollege && activeCounselling === null && showOnboarding && (
+            <CounsellingOnboarding
+              userName={userProfile?.name || ''}
+              initial={selectedCounsellings}
+              onComplete={(ids) => {
+                setSelectedCounsellings(ids);
+                setShowOnboarding(false);
+                // Show free-trial popup 30 seconds after onboarding completes
+                popupTimerRef.current = setTimeout(() => setShowPopup(true), 30_000);
+                // Persist counsellings + consent to Supabase now that we have them
+                if (userProfile) {
+                  const consentRaw = localStorage.getItem('oviguide_marketing_consent');
+                  const consent = consentRaw ? JSON.parse(consentRaw) : null;
+                  upsertUserToSupabase(userProfile, {
+                    selected_counsellings: ids,
+                    marketing_consent: consent?.consented ?? false,
+                  });
+                }
+              }}
             />
           )}
 
           {/* Counselling Hub — shown when no counselling selected and no college profile */}
-          {!selectedCollege && activeCounselling === null && (
+          {!selectedCollege && activeCounselling === null && !showOnboarding && (
             <CounsellingHub
               userName={userProfile?.name || ''}
+              selectedCounsellings={selectedCounsellings}
               onSelect={(portalId) => setActiveCounselling(portalId)}
+              onAddMore={() => setShowOnboarding(true)}
             />
+          )}
+
+          {/* VITEEE Portal */}
+          {!selectedCollege && activeCounselling === 'viteee' && (
+            <VITEEEPortal onBack={() => setActiveCounselling(null)} />
           )}
 
           {/* JOSAA prediction form */}
@@ -1081,8 +1255,7 @@ const Hero: React.FC = () => {
 
         {/* Dashboard — full width showcase */}
         {!isLoggedIn && (
-          <div className="relative pb-16 sm:pb-20 md:pb-24 fade-scale">
-            <div className="absolute -inset-8 bg-gradient-to-b from-accent/5 via-transparent to-transparent rounded-3xl blur-3xl -z-10" />
+          <div className="relative pb-16 sm:pb-20 md:pb-24">
             <CopilotDashboard />
           </div>
         )}
@@ -1093,6 +1266,33 @@ const Hero: React.FC = () => {
 
       {/* Background */}
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-white/5 rounded-full -translate-y-1/2 translate-x-1/2 blur-3xl -z-10 pointer-events-none" />
+
+      {/* Free trial popup */}
+      {showPopup && (
+        <OviPopup
+          onClose={() => { setShowPopup(false); if (popupTimerRef.current) clearTimeout(popupTimerRef.current); }}
+          onVerified={async (phone) => {
+            setShowPopup(false);
+            // Persist phone + all entered form data against the logged-in user
+            try {
+              const stored = localStorage.getItem(STORAGE_KEY);
+              const email  = stored ? JSON.parse(stored).email : null;
+              if (!email) return;
+              const payload: Record<string, unknown> = { phone };
+              if (mainsRank)   payload.jee_rank      = Number(mainsRank);
+              if (advancedRank && !advancedNA) payload.adv_rank = Number(advancedRank);
+              if (category)    payload.category      = category;
+              if (categoryRank && !categoryRankNA) payload.category_rank = Number(categoryRank);
+              if (gender)      payload.gender        = gender;
+              if (homeState)   payload.home_state    = homeState;
+              if (branchOrder.length) payload.branch_order = branchOrder;
+              await supabase.from('users').update(payload).eq('email', email);
+            } catch (e) {
+              console.warn('[OviPopup] failed to save user data:', e);
+            }
+          }}
+        />
+      )}
     </section>
   );
 };

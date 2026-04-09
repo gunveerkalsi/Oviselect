@@ -1,135 +1,143 @@
 import React from 'react';
-import { ArrowRight, Lock } from 'lucide-react';
+import { ArrowRight, Lock, Plus } from 'lucide-react';
+import { ALL_COUNSELLINGS } from './CounsellingOnboarding';
 
-interface Portal {
-  id: string;
-  name: string;
-  fullName: string;
-  accent: string;
-  live: boolean;
-  description: string;
-  scope: string;
-}
+/* ── Design tokens ────────────────────────────────────────────────────── */
+const V = {
+  ink: '#0e0e0e', ink2: '#3a3a3a', ink3: '#6b6b6b', ink4: '#a8a8a8',
+  paper: '#f5f2ec', paper2: '#edeae3', paper3: '#e3dfd7',
+  green: '#2A6B4A', greenLt: '#d5ece1',
+  serif: "'DM Serif Display',Georgia,serif",
+  mono: "'DM Mono',monospace",
+  sans: "'Instrument Sans',sans-serif",
+};
 
-const PORTALS: Portal[] = [
-  { id: 'josaa',          name: 'JoSAA',          fullName: 'Joint Seat Allocation Authority',                      accent: '#4A9EFF', live: true,  description: 'IITs, NITs, IIITs & GFTIs',           scope: 'National' },
-  { id: 'csab',           name: 'CSAB',            fullName: 'Central Seat Allocation Board',                        accent: '#34D399', live: false, description: 'NIT+ System special rounds',            scope: 'National' },
-  { id: 'jac-delhi',      name: 'JAC Delhi',       fullName: 'Joint Admission Counselling — Delhi',                  accent: '#A78BFA', live: false, description: 'DTU, NSIT, IGDTUW, IIIT Delhi',         scope: 'Delhi' },
-  { id: 'jac-chandigarh', name: 'JAC Chandigarh',  fullName: 'Joint Admission Counselling — Chandigarh',             accent: '#38BDF8', live: false, description: 'PEC, UIET & Chandigarh colleges',        scope: 'Chandigarh' },
-  { id: 'comedk',         name: 'COMEDK',          fullName: 'Consortium of Medical & Dental Colleges of Karnataka', accent: '#F87171', live: false, description: 'Karnataka private engineering',          scope: 'Karnataka' },
-  { id: 'kcet',           name: 'KCET',            fullName: 'Karnataka Common Entrance Test',                       accent: '#C084FC', live: false, description: 'Karnataka government colleges',          scope: 'Karnataka' },
-  { id: 'mhtcet',         name: 'MHT-CET',         fullName: 'Maharashtra Common Entrance Test',                     accent: '#60A5FA', live: false, description: 'Maharashtra engineering colleges',        scope: 'Maharashtra' },
-  { id: 'wbjee',          name: 'WBJEE',           fullName: 'West Bengal Joint Entrance Exam',                      accent: '#4ADE80', live: false, description: 'West Bengal state colleges',             scope: 'West Bengal' },
-  { id: 'viteee',         name: 'VITEEE',          fullName: 'VIT Engineering Entrance Exam',                        accent: '#FBBF24', live: false, description: 'VIT Vellore, Chennai & others',           scope: 'Private' },
-  { id: 'met',            name: 'MET',             fullName: 'Manipal Entrance Test',                                accent: '#F472B6', live: false, description: 'Manipal Academy of Higher Ed.',          scope: 'Private' },
-  { id: 'tiet',           name: 'TIET',            fullName: 'Thapar Institute of Engg & Tech',                      accent: '#818CF8', live: false, description: 'Thapar University admissions',           scope: 'Private' },
-];
+/* Live portals that have actual working UIs */
+const LIVE_IDS = new Set(['josaa', 'viteee']);
 
 interface CounsellingHubProps {
   userName: string;
+  selectedCounsellings: string[];
   onSelect: (portalId: string) => void;
+  onAddMore: () => void;
 }
 
-const CounsellingHub: React.FC<CounsellingHubProps> = ({ userName, onSelect }) => {
+const CounsellingHub: React.FC<CounsellingHubProps> = ({ userName, selectedCounsellings, onSelect, onAddMore }) => {
   const firstName = userName?.split(' ')[0] || 'there';
+  const userPortals = ALL_COUNSELLINGS.filter(c => selectedCounsellings.includes(c.id));
+  const livePortals = userPortals.filter(c => LIVE_IDS.has(c.id));
+  const comingSoon  = userPortals.filter(c => !LIVE_IDS.has(c.id));
 
   return (
-    <div className="min-h-screen bg-[#0A0A0A] px-4 sm:px-8 py-12">
+    <div style={{ background: V.paper, fontFamily: V.sans, minHeight: '100vh' }} className="px-4 sm:px-8 py-12">
       <div className="max-w-6xl mx-auto">
 
         {/* Header */}
-        <div className="mb-14">
-          <p className="text-sm font-medium text-white/30 tracking-widest uppercase mb-4">Welcome back, {firstName}</p>
-          <h1 className="text-5xl sm:text-6xl font-bold text-white tracking-tight leading-none mb-4">
-            Choose your<br />
-            <span className="text-white/40">counselling portal.</span>
+        <div style={{ marginBottom: 48 }}>
+          <p style={{ fontFamily: V.mono, fontSize: 10, letterSpacing: '0.1em', textTransform: 'uppercase', color: V.ink4, marginBottom: 12 }}>
+            Welcome back, {firstName}
+          </p>
+          <h1 style={{ fontFamily: V.serif, fontSize: 'clamp(2rem, 5vw, 3rem)', color: V.ink, lineHeight: 1.1, marginBottom: 10 }}>
+            Your counselling<br />
+            <span style={{ color: V.ink4 }}>dashboard.</span>
           </h1>
-          <p className="text-lg text-white/50 max-w-lg leading-relaxed">
-            Get cutoff predictions, college comparisons, and seat availability — all in one place.
+          <p style={{ fontSize: 15, color: V.ink3, lineHeight: 1.6, maxWidth: 480 }}>
+            Cutoff predictions, college deep-dives, and Reddit insights, tailored to your counsellings.
           </p>
         </div>
 
-        {/* Live portal — featured full-width */}
-        {PORTALS.filter(p => p.live).map(portal => (
+        {/* Live portals — featured cards */}
+        {livePortals.length > 0 && livePortals.map(portal => (
           <button
             key={portal.id}
             onClick={() => onSelect(portal.id)}
-            className="group w-full mb-6 text-left rounded-2xl border border-white/10 bg-white/[0.03] hover:bg-white/[0.06] hover:border-white/20 transition-all duration-200 p-8 sm:p-10"
+            className="group w-full text-left hover:shadow-lg transition-all"
+            style={{ background: V.paper2, border: `1px solid ${V.paper3}`, borderRadius: 4, padding: '1.5rem 2rem', marginBottom: 12 }}
           >
-            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-6">
-              <div className="flex items-center gap-5">
-                <div
-                  className="w-16 h-16 rounded-2xl flex items-center justify-center text-xl font-black flex-shrink-0"
-                  style={{ background: `${portal.accent}18`, border: `1.5px solid ${portal.accent}40`, color: portal.accent }}
-                >
-                  {portal.name.slice(0, 2)}
-                </div>
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-5">
+              <div className="flex items-center gap-4">
+                <div style={{
+                  width: 52, height: 52, borderRadius: 4, flexShrink: 0,
+                  background: `${portal.color}15`, border: `1.5px solid ${portal.color}40`,
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  fontFamily: V.mono, fontSize: 15, fontWeight: 700, color: portal.color,
+                }}>{portal.abbr}</div>
                 <div>
-                  <div className="flex items-center gap-3 mb-1">
-                    <span className="text-2xl font-bold text-white tracking-tight">{portal.name}</span>
-                    <span
-                      className="flex items-center gap-1.5 text-xs font-semibold px-2.5 py-0.5 rounded-full"
-                      style={{ background: `${portal.accent}20`, color: portal.accent, border: `1px solid ${portal.accent}35` }}
-                    >
-                      <span className="w-1.5 h-1.5 rounded-full animate-pulse" style={{ background: portal.accent }} />
+                  <div className="flex items-center gap-3" style={{ marginBottom: 3 }}>
+                    <span style={{ fontFamily: V.serif, fontSize: 22, color: V.ink }}>{portal.name}</span>
+                    <span style={{
+                      fontSize: 10, fontFamily: V.mono, fontWeight: 600,
+                      padding: '2px 10px', borderRadius: 2,
+                      background: `${V.green}15`, color: V.green, border: `1px solid ${V.green}30`,
+                      display: 'flex', alignItems: 'center', gap: 5,
+                    }}>
+                      <span style={{ width: 5, height: 5, borderRadius: '50%', background: V.green }} className="animate-pulse" />
                       Live
                     </span>
                   </div>
-                  <p className="text-white/50 text-base">{portal.description}</p>
-                  <p className="text-white/25 text-sm mt-1">{portal.fullName}</p>
+                  <p style={{ fontSize: 13, color: V.ink3 }}>{portal.description}</p>
+                  <p style={{ fontSize: 11, fontFamily: V.mono, color: V.ink4, marginTop: 2 }}>{portal.fullName}</p>
                 </div>
               </div>
-              <div
-                className="flex items-center gap-2 text-sm font-semibold whitespace-nowrap flex-shrink-0"
-                style={{ color: portal.accent }}
-              >
-                Start Predicting
-                <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+              <div style={{ color: portal.color, fontFamily: V.mono, fontSize: 12, fontWeight: 600, flexShrink: 0, display: 'flex', alignItems: 'center', gap: 6 }}>
+                Open Portal
+                <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
               </div>
             </div>
           </button>
         ))}
 
-        {/* Section label */}
-        <p className="text-xs font-semibold text-white/20 uppercase tracking-widest mb-4">Coming Soon</p>
+        {/* Coming Soon */}
+        {comingSoon.length > 0 && <>
+          <p style={{ fontFamily: V.mono, fontSize: 9, letterSpacing: '0.1em', textTransform: 'uppercase', color: V.ink4, marginBottom: 10, marginTop: 28 }}>Coming Soon</p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3" style={{ marginBottom: 24 }}>
+            {comingSoon.map(portal => (
+              <div key={portal.id} style={{
+                background: V.paper2, border: `1px solid ${V.paper3}`, borderRadius: 4,
+                padding: '16px 18px', opacity: 0.6, cursor: 'not-allowed', position: 'relative',
+              }}>
+                <div className="flex items-start justify-between" style={{ marginBottom: 12 }}>
+                  <div style={{
+                    width: 40, height: 40, borderRadius: 4,
+                    background: `${portal.color}12`, border: `1px solid ${portal.color}20`,
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    fontFamily: V.mono, fontSize: 12, fontWeight: 700, color: portal.color,
+                  }}>{portal.abbr}</div>
+                  <span style={{ fontSize: 9, fontFamily: V.mono, color: V.ink4, padding: '2px 8px', borderRadius: 2, background: V.paper3, display: 'flex', alignItems: 'center', gap: 4 }}>
+                    <Lock size={8} /> Soon
+                  </span>
+                </div>
+                <p style={{ fontFamily: V.serif, fontSize: 15, color: V.ink, marginBottom: 2 }}>{portal.name}</p>
+                <p style={{ fontSize: 11, color: V.ink3, lineHeight: 1.4, marginBottom: 4 }}>{portal.description}</p>
+                <p style={{ fontSize: 10, fontFamily: V.mono, color: V.ink4 }}>{portal.scope}</p>
+              </div>
+            ))}
+          </div>
+        </>}
 
-        {/* Other portals grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
-          {PORTALS.filter(p => !p.live).map(portal => (
-            <PortalCard key={portal.id} portal={portal} onSelect={onSelect} />
-          ))}
-        </div>
+        {/* Add more counsellings button */}
+        <button
+          onClick={onAddMore}
+          className="group hover:shadow-md transition-all"
+          style={{
+            width: '100%', background: 'transparent', border: `1.5px dashed ${V.paper3}`,
+            borderRadius: 4, padding: '16px 20px', cursor: 'pointer',
+            display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+            marginTop: 12,
+          }}
+        >
+          <Plus size={16} style={{ color: V.ink4 }} />
+          <span style={{ fontFamily: V.mono, fontSize: 11, color: V.ink4, fontWeight: 600, letterSpacing: '0.05em' }}>
+            Add more counsellings
+          </span>
+        </button>
 
-        <p className="text-center text-xs text-white/15 mt-10 tracking-wide">
-          Oviselect · Data updated for JoSAA 2025
+        <p style={{ textAlign: 'center', fontSize: 10, fontFamily: V.mono, color: V.ink4, marginTop: 28, letterSpacing: '0.05em' }}>
+          Oviselect · Data updated for 2025–26 session
         </p>
       </div>
     </div>
   );
 };
 
-const PortalCard: React.FC<{ portal: Portal; onSelect: (id: string) => void }> = ({ portal }) => {
-  return (
-    <div className="relative text-left rounded-xl border border-white/[0.06] bg-white/[0.02] p-6 opacity-50 cursor-not-allowed select-none">
-      <div className="flex items-start justify-between mb-5">
-        <div
-          className="w-12 h-12 rounded-xl flex items-center justify-center text-sm font-black"
-          style={{ background: `${portal.accent}12`, border: `1px solid ${portal.accent}25`, color: portal.accent }}
-        >
-          {portal.name.slice(0, 2)}
-        </div>
-        <span className="flex items-center gap-1 text-[10px] font-medium text-white/25 uppercase tracking-wider px-2 py-0.5 rounded-full bg-white/5 border border-white/8">
-          <Lock size={8} /> Soon
-        </span>
-      </div>
-
-      <h3 className="text-base font-bold text-white/80 tracking-tight mb-1">{portal.name}</h3>
-      <p className="text-sm text-white/40 leading-snug mb-3">{portal.description}</p>
-      <p className="text-xs text-white/20">{portal.scope}</p>
-    </div>
-  );
-};
-
 export default CounsellingHub;
-
- 

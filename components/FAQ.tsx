@@ -49,11 +49,11 @@ const FAQ: React.FC = () => {
     },
     {
       question: 'How accurate are OviGuide\'s college admission predictions?',
-      answer: 'Our Prediction Engine is trained on 5+ years of historical JoSAA and state CET cutoff data, with 99.1% accuracy on historical matches. We combine probabilistic modeling with round-wise seat availability, category adjustments, and real-time cutoff trends — far more accurate than static cutoff tables.',
+      answer: 'Our Prediction Engine is trained on 5+ years of historical JoSAA and state CET cutoff data, with 99.1% accuracy on historical matches. We combine probabilistic modeling with round-wise seat availability, category adjustments, and real-time cutoff trends, far more accurate than static cutoff tables.',
     },
     {
       question: 'What does "Freeze, Float, or Slide" mean, and how does OviGuide help?',
-      answer: 'These are the three options available to students after each JoSAA allotment round. "Freeze" means you accept your current seat and exit. "Float" means you keep your seat but want an upgrade. "Slide" means you\'re willing to slide to a different institute you prefer. OviGuide\'s Copilot analyzes your specific situation — current seat, upgrade probabilities, risk tolerance — and recommends the best action with clear reasoning.',
+      answer: 'These are the three options available to students after each JoSAA allotment round. "Freeze" means you accept your current seat and exit. "Float" means you keep your seat but want an upgrade. "Slide" means you\'re willing to slide to a different institute you prefer. OviGuide\'s Copilot analyzes your specific situation: current seat, upgrade probabilities, risk tolerance, and recommends the best action with clear reasoning.',
     },
     {
       question: 'Is OviGuide useful even if I haven\'t received my JEE results yet?',
@@ -61,7 +61,7 @@ const FAQ: React.FC = () => {
     },
     {
       question: 'How does the Truth Engine differ from regular college review sites?',
-      answer: 'Regular review sites show curated or biased testimonials. OviGuide\'s Truth Engine aggregates real, unfiltered signals from Reddit threads, LinkedIn posts, Discord servers, anonymous student reports, and placement PDFs — then uses NLP to summarize the consensus view. You get the honest picture: coding culture strength, placement realities, hostel life, and more.',
+      answer: 'Regular review sites show curated or biased testimonials. OviGuide\'s Truth Engine aggregates real, unfiltered signals from Reddit threads, LinkedIn posts, Discord servers, anonymous student reports, and placement PDFs, then uses NLP to summarize the consensus view. You get the honest picture: coding culture strength, placement realities, hostel life, and more.',
     },
     {
       question: 'Is OviGuide free to use?',

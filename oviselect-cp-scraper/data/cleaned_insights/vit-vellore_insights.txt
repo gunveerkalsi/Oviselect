@@ -1,0 +1,2678 @@
+======================================================================
+  UNFILTERED REDDIT INSIGHTS — VIT VELLORE
+  Generated: 2026-04-04 16:36 UTC
+======================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 PLACEMENTS REALITY  (34 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [551] Life of a 2023 CS UG
+  r/developersIndia | 2023-09-05 | https://www.reddit.com/r/developersIndia/comments/16afubo/life_of_a_2023_cs_ug/
+
+  Just graduated in B.Tech CS from VIT Vellore 2 weeks ago and I'm not really able to enjoy the end result of all the hardwork I put in over the 4 years. I got a CG close to 9 with decent development skills and somewhat in DSA.
+Why?
+
+Got placed in a top MNC via campus as an intern only for a pretty good CTC. College didn't let us sit for other good or better companies and and I was also convinced wi
+
+    → [10] I interned at a top PB startup Jan-July. My FTE offer was 20+LPA. Heck I was one of the top performers. They appreciated it but last month they signalled the inevitable. We didn't get the PPO. All of the interns felt cheated. Out of 16 only 1 could get the FTE off campus offer in last 2 months and e
+
+    → [5] The pain is real. 
+I have similar GPA , joined a (not even tier 3 ) college at my hometown without much thought due to financial reasons. 
+Knew what I was getting into , so grinded the most in my college , also coz the environment here was really bad ( no one actually did Coding apart from 2 3 peopl
+
+    → [4] Here is an advice:
+
+It gets worse
+
+    → [3] Graduated in June 2023, been applying for jobs and internships since Jan 2023 kept updating my resume(no 70+ ATS score) for each job application but no reply from them. Be it LinkedIn, Wellfound or Referrals nothing seems to work for me despite having a great skill set. People I reach out to for ref
+
+    → [3] bruh same here,2024 batch. Recession fucked up our placements . Companies hardly coming and on top 2023 grads themselves are being asked to leave. I barely got one intern and yeah am applying off campus now but it seems so uncertain and off campus startups don't pay as well as most companies on camp
+
+    → [3] Your in which SRM bro? I am a grad from SRM, feel free to reach out!
+
+    → [3] Bhai mai bhi SRM se hun 4th year if you wanna know anything regarding placement you can DM me :)
+
+    → [3] They have also fired like 50% of their interns
+
+
+★ [343] VIT Vellore 2024 placement stats | BTech CSE median is 6LPA
+  r/Btechtards | 2025-01-04 | https://www.reddit.com/r/Btechtards/comments/1hte1on/vit_vellore_2024_placement_stats_btech_cse_median/
+
+  Hi all,
+
+Here is a app to view complete placement stats (branch wise & company wise) of 2024 The data is scraped from placements mail from July-18-2024. (job market recession)
+
+[https://vit-placements-tracker.streamlit.app/](https://vit-placements-tracker.streamlit.app/)
+
+median of BTech CSE is 6LPA
+
+No of students with above 20LPA: 292 out off 25k BTech students
+
+Top hiring companies:
+
+||
+||
+|**C
+
+    → [14] The worst part is many of these companies haven't even on boarded all 2022 grads till now
+
+    → [13] \> 25k BTech students
+
+![gif](emote|free_emotes_pack|surprise)
+
+  
+That's more B.Tech Students in one damn batch than our college has had students of all streams, degrees for the last 2 decades.
+
+    → [13] People studying in vita acts as if they r in iit or nit
+
+    → [12] I study CSE at a similar ranked college as vit (pes bangalore) and I pay 1 lakh per year in fees so 4 lakh in total (cet admission)
+
+    → [11] Bhai op ko marwana hai kya tujhe?
+
+    → [8] • Base: ₹ 29 lakhs.
+
+• Stock Options: Approximately ₹71 lakhs (Spread over 4 years. Value at the time of joining. This
+
+was for the batch of 2025. Stock numbers will change for the batch of 2026).
+
+• Total CTC: ₹ 1Cr
+
+    → [7] Vit vellore passout here, working in world largest bank as an software developer. A lot of people in vit are very poor in studies (50-60%) . If have you have 9+ cgpa ( not as difficult to get) and are in tune with dsa then you can easily get 12+ lpa job. In bits and iits almost all the students are 
+
+    → [7] Nah it's a pure private university, they just give lesser fees for KCET ppl cause the government caps the fees that can be charged
+
+
+★ [216] VIT Vellore 2025 placement stats | BTech CSE median is 6LPA | truth is here
+  r/Btechtards | 2025-05-10 | https://www.reddit.com/r/Btechtards/comments/1kjdn5u/vit_vellore_2025_placement_stats_btech_cse_median/
+
+  Hi,
+
+Here is a flask app to view complete placement stats (branch wise & company wise) of 2024-25 batch.. The data is scraped from placements mail...
+
+[https://vit-placements-tracker.streamlit.app/](https://vit-placements-tracker.streamlit.app/) (select checkbox to include WITCH offers)
+
+median of BTech CSE is 6LPA ! avg 8.13LPA.. Overall Median: 5.20 LPA
+
+No of students with above 20LPA: **315** 
+
+    → [3] Tf if VIT Chennai me placement mst nai ho rhe fir AP Bhopal toh cooked hai
+
+
+★ [155] Life seems kinda fucked right now
+  r/Btechtards | 2025-09-21 | https://www.reddit.com/r/Btechtards/comments/1nmpk4b/life_seems_kinda_fucked_right_now/
+
+  Let me keep this short and real. 
+
+I’m a fourth-year student at VIT Vellore. For years, I believed I was good at coding got a decent CGPA, picked up web dev, learnt and made projects in machine learning, pulled a lot of all-nighters. I thought a job above 10 LPA was within reach. Hell, I thought it was guaranteed. 
+
+This final year? It’s been humbling. Brutally so. Rejections, missed opportunities
+
+    → [59] In VIT I think 10 lpa is considered a dream package? Or was it 6 lpa? Anyways it'll still be a good job offer ig for VIT standards, and tbh 6-10 lpa is fine to begin with for a fresher.
+
+    → [46] Any job is better than no job. Keep the grind up. This is not the end but the start
+
+    → [33] You don't ask such questions rn bud
+
+    → [16] At this point I have accepted 4pla I am not expecting anything more. 
+
+Reality is cruel, I should have done dsa, I got too much into development and completely ignored dsa well hated it to begin with
+
+    → [14] Probably a first year kid with no situational awareness. Life will humble him also. 🙏🙏
+
+    → [7] Yeah man, be happy that you're getting a dream package atleast, and with time you'll be able to increase it as well.
+
+Btw don't lose hope, there is a chance I feel, for you to get >10 lpa as well, a senior guy I know recently got into microsoft and it was not like he was able to clear every company'
+
+    → [6] Going through the same in my second year, I have now decided to quit hackathons(dev) and just focus on DSA 
+
+Got great projects on my resume, did an internship but not started DSA yet
+
+    → [5] Would you be interested in doing headhunting?
+
+
+★ [133] Is paying 26 lakhs for a CS btech in VIT Vellore worth it or should i consider a lesser known government collge with total fee of 3-4 lakhs?
+  r/Indian_Academia | 2022-07-24 | https://www.reddit.com/r/Indian_Academia/comments/w6ln43/is_paying_26_lakhs_for_a_cs_btech_in_vit_vellore/
+
+  myquals- 23551 viteee rank, jee mains-87%ile
+
+was offered CSE in category 4 at VIT VELLORE
+
+    → [21] He means with the 22lakh you save
+
+    → [19] Absolutely not. Most people who land 10+LPA software jobs chill while getting good at software.
+
+The reason most engineering graduates end up with 3.6LPA mass recruiter jobs is because they:
+
+1) Drink away, do drugs, etc.
+
+2) Spend too much time on random shit.
+
+Not saying that you shouldn't enjoy y
+
+    → [15] OK BRO/SIS thank you for your suggestion
+
+    → [14] VIT is shady man.
+
+I was keeping it as a decent backup, but despite my decent performance in the exam, they gave me 49K rank💀💀.
+
+Doubt that I'll get even ECE cat2 at Chennai with that rank.
+
+    → [12] I'm in a similar situation, but i have chosen to go to VIT.
+
+My parents can afford till 15L, rest 10L they are taking as a loan (less interest as dad is a banker himself). 
+
+I decided to go to VIT instead of Drop/Local Govt. College because of these factors-
+
+1. I know a few people who joined a GEC 
+
+    → [11] Also inverter for interrupted electricity
+
+    → [11] yes bro, one of my friends got viteee rank -12,000 , his jee score was 67%ile
+
+    → [9] TLDR: VIT if you can afford the finances comfortably. If you do, you better work your ass off to make the investment worth it.
+
+The bottom line, you can easily get a great job in CS regardless of your college. All you need is a laptop, internet, and the willingness to learn.
+
+But a better college mi
+
+
+★ [132] Thapar is genuinely entering Amity/LPU territory — 40L degree, mass hiring, inflated stats, and barely 30% real placements
+  r/Btechtards | 2025-12-06 | https://www.reddit.com/r/Btechtards/comments/1pfonud/thapar_is_genuinely_entering_amitylpu_territory/
+
+  At this point, someone needs to say it straight: **Thapar is slowly transforming into an overpriced version of Amity/LPU with a better logo.** And before anyone cries “hAtE rs!!”, just look at the numbers and the trend.
+
+**40 LAKHS for a 4-year engineering degree.**  
+Yeah bro, totally normal. For that money I better graduate with WiFi in my brain and a PPO at NVIDIA, not fighting 1000+ students f
+
+    → [88] Firstly, thapar was never above tier 2,
+Secondly, its undergoing the same thing as vit, the increase of intake with no proper planning
+
+    → [31] Almost every tier-2 has fucked up placements this time, check for lnmiit. It has a similar placement percentage with a intake a barely 490 or something
+
+    → [22] Decent hi hain bhai, for a tier 2 clg ( it was never a tier 1.5)
+
+Aur 40 lakh kon de rha hai? Abhi ke 4th yr valo ki degree 23-25 lakh me hogyi h ( hostel vgera sb mila kr)
+
+Freshers ki total 30-32 hai ik its not worth it here
+
+TCS never mass hires here as very few fill out its form. Also, agar acce
+
+    → [20] every pvt college these days is doing that literally EVERY
+
+    → [19] new account se negative pr krne aya hai kya bhai😭
+
+    → [9] These stats are very good as compared to batch of 24 of the same college
+
+    → [9] Isnt this stat good considering it includes every branch ?
+
+    → [7] Mit is also increasing the intake
+
+
+★ [126] The guy who have cheated in ION Group Interview
+  r/Vit | 2025-08-08 | https://www.reddit.com/r/Vit/comments/1mkzbfn/the_guy_who_have_cheated_in_ion_group_interview/
+
+  Okay so I don't know how true it is. But the guy who have cheated in ion interview is from vit vellore and the placement cell decided that if ion comes back and recruit from vit then he will get blacklisted for the further placements but if not then he will get expelled from the college.
+
+Is it true?
+
+    → [45] its not true, they have stopped the recruitments in All other universities as well including iits. my friend’s brother works in ION he said a case has been going on against ION that is why it has been postponed
+
+    → [31] As much as I can tell you, it's undergoing some restructuring here. So safe to assume we won't be taking in a lot of new hires this time.
+
+    → [31] If ION doesn't come back then that single handedly stopped almost 100 people from getting placed for 15+ LPA job, which screwed both VIT and us students, expulsion is the easy way out
+
+    → [22] What's going on? What's the context please?
+
+    → [19] Expulsion seems too harsh. But then again nothing is too cruel in the eyes of the management
+
+    → [10] So as far as ik, there's a CS company called "ION" which takes in a lot of students with a decent package (super dream) , and this time during online test, someone was caught cheating. And that's why ion decided to postpone the interview till end of August, but there are multiple speculations that d
+
+    → [10] Nah i dont think they'll get expelled. Blacklisted yeah
+
+    → [8] Will refrain from commenting on that, but at least this decision was not a repercussion of the same.
+
+
+★ [97] How to move on?
+  r/Btechtards | 2025-08-03 | https://www.reddit.com/r/Btechtards/comments/1mgdc72/how_to_move_on/
+
+  4th year student of vit vellore.I had got chance in a lot of colleges other than vit. I had even got a seat in Bits. But my parents rejected Bits because according to them cse core was the best branch in the world and since I had got seat cs in Vellore, Vellore it was. Biggest regret of my life. Now placements have started and they are shortlisting only 9 pointers. I am an 8.8 pointer and am getti
+
+    → [44] You can write gate and try bro if not iits Or nits you can do masters in iiit hyderabad or bits pilani where u will get better placement opportunity
+
+    → [23] bhai ab to bohot der ho gayi
+
+1, try off campus but tbh bhot competition hai
+
+2, Gate / CAT ek aur very competitive path
+
+    → [13] I am done just done. Roz ek do baar rohti hoon. Aur kuch nahi accha lagta. Hostels bhi 3rd class hain
+
+    → [13] Dude atp my life feels ruined. It was not even my fault. All these years I struggled to maintain an okayish cgpa just to see this.  Life ka har ek second exam dene padha hai mujhko.
+
+    → [10] Mtech from IIIT H, IIIT B and BITS P>>>Mtech from most of the NITs
+
+    → [5] Yeah your right nit in the sence trichy, surathkal and warangal
+
+    → [5] it's okay don't regret your choices nothing ever comes out of it, let's try to make the best of us from what we can, did you try applying off campus? 8.8 is a solid gpa, I hope you can bag a really nice package!
+
+    → [5] I think you should work towards what matters. At the end of the day what's gone I gone and it is normal to forget your priorities in these times. If you can then you should try studying for whatever placements you get and then try to unskilled from there. If it is too overwhelming then I suggest vis
+
+
+★ [81] Stumbled upon this sub, thought I would share my story.
+  r/JEENEETards | 2024-04-25 | https://www.reddit.com/r/JEENEETards/comments/1cctzbk/stumbled_upon_this_sub_thought_i_would_share_my/
+
+  Hey everyone,
+I am a 2022 passout, didn't prepare much for JEE when I was in 11th-12th. Fucked up in the boards got less than 70%, failed miserably in JEE Mains (as long as I remember 20 marks less than the cutoff for General Category). Gave BITS and VITEEE, was getting BITS Hyderabad campus for some shitty branch and VIT Vellore any branch except CS. Gave MHT CET didn't do great there too got avg
+
+    → [16] Thanks for the motivation bhai
+
+    → [6] Nahi bhai mat le... Pls mat le bahot bura haal hoga next year... 18lakh aspirants rahenge aur 99 240 iss baar hi touch ho gayi next year norm ban jaega ye... Kitni aayi hai Teri?
+
+    → [5] Eligibility ki situation mein phas chuka huun isiliye iss saal NIOS deke mains dunga. Ik ki gaand phaad padna padega but padega
+
+    → [5] Thanks bhaiya but family conditions bhot kharaab ho gayi hain so taking another drop for getting a descent better college where giving fees may make some sense.
+
+    → [3] Agar paisa kamana hai toh software mei hi jana padta hai, financial growth nahi hai baki sectors mei, startıng salary itni kam hoti hai ki Bangalore ke Auto wale bhi jyada kama lenge. Also Software mei as long as you are having skills companies do not discriminate on the basis of branch atleast off 
+
+    → [3] Haan nahi aata result yaha lurk karke, mai to kehta hu block this subreddit for confirmed 300/300
+
+    → [3] you are being delusional if you think 200 at that time was similar to 200 this time, also even in past it wasnt any easy for people to get 99+ except jan attempt of 2023. check 2021 marks vs %ile, 245 marks were 99 in some shifts, also in 2019 the physics was deadly but still 230+ were needed for 99
+
+
+★ [52] VIT Vellore posted 2023-24 placements highlights
+  r/Vit | 2024-07-02 | https://www.reddit.com/r/Vit/comments/1dtewgl/vit_vellore_posted_202324_placements_highlights/
+
+  [https:\/\/blogs.vit.ac.in\/an-overview-of-campus-placements-vit-in-2023-24\/](
+
+    → [16] Bhailog marks bhi waise aane chahiye bhailog :)
+
+    → [15] I think it might be Chennai and Vellore since they have centralised placements
+
+    → [14] The numbers are correct, it includes all 4. Total people passing out would be \~15k, a huge chunk did not get placed. 40% was indeed above 10L because mass recruiters did not come
+
+    → [13] fun fact, these people have included internships too to add in numbers. So these are basically internship and full time offers. Also 90% interships don't come with a PPO this time!
+
+    → [13] looks kinda wrong to me. 40% placements above 10lacs in this recession period just from vellore? hell nah. either this includes vit c and v or includes all 4 tab the offer percentage might make sense but then placed percentage is just shit
+
+    → [11] While the average ctc looks higher than last year, I have a sneaking suspicion that the median would be the same or lower. There are also just lower offers this year. Concerning
+
+    → [9] ~20k students and just 6k placed FUCK
+
+    → [9] Is this combined data or vellore only?
+
+
+★ [45] VIT Vellore placements 2026 batch – mostly support roles, is this normal? What are my options now?
+  r/developersIndia | 2026-03-29 | https://www.reddit.com/r/developersIndia/comments/1s6nnz8/vit_vellore_placements_2026_batch_mostly_support/
+
+  Hi everyone,
+
+I’m a final year B.Sc Computer Science student from VIT Vellore (2026 batch), and placements this year have been quite slow.
+
+Placements started around Oct 2025, but so far only a couple of analyst trainee roles have come. Recently, Deloitte(US-ind) visited and I made it till the HR round but didn’t get selected.
+
+Most of the roles coming through the placement cell are call center, s
+
+    → [19] Hey I was from VIT vellore, 25 batch, placement wasn’t this bad for us. I did get one offer, but ended up accepting another one I found off campus. 
+
+Dont rely solely on placements for jobs. Don’t think MCA is the solution in your case. Please focus on off campus internships/jobs too. Getting real h
+
+    → [17] Bruh this is like the corporate rule for college placements in India, bca,bsc - support and testing
+
+    → [7] That’s not what I am talking about. Agree with your point completely. You can self-build yourself from anywhere. 
+
+The thing is most hiring managers will filter out BSc degree holders in the first phase itself.
+
+    → [6] Best path (acc to me) - take the job and grind dsa, leetcode while you’re working. After a year or two try to switch to a dev role. Lie in the resume that you were a dev in this role. Many people have done this!
+
+    → [6] I've been applying through online in many apps, but no reply from any. can you tell me how did you got off-campus??
+
+    → [5] Hey don't lose hope keep trying everywhere , if it makes you feel any better then I am Bsc. IT graduate from a state college have 4yoe with double digit ctc
+
+    → [4] yeah makes sense, Do you know if people usually switch from those roles to dev later, or is it difficult?
+
+    → [3] Got it, thanks. I’ll see how things go and decide.
+
+
+★ [38] ECE CORE PLACEMENTS (VIT VELLORE)
+  r/Vit | 2024-08-13 | https://www.reddit.com/r/Vit/comments/1eradn7/ece_core_placements_vit_vellore/
+
+  I asked a senior who gets like 9 CGPA and is in 4th year right now and he says that companies aren't coming. I myself am in ECE core and I am afraid that I will not get placed. He seemed serious when he said that 
+
+and in r/Btechtards everyone hates VIT vellore (in the context of placements) for some reason... why is that?
+
+    → [47] Well I asked one senior too who attended PPT just a few weeks back and he said ECE isn't a dead branch all together. EEE is properly dead. And during PPT itself, microsoft came and they had 4 alumni and 3 of them were from ECE. Now not sure if it was for this year's or previous years PPT. 
+
+So, ya I
+
+    → [33] Its the current economy thats fucked , 4 years ago that senior would have taken ece considering that there would be great placements. So basically anything could happen 4 years down the line . Just think positive and work hard
+
+    → [16] I'm in ECE. I have a 9.0x CGPA right now. So not exactly the highest but still a little over 9. 
+
+Your senior is right. There just aren't any actual ECE companies coming rn. You could get placed as a developer after clearing the DSA round, ECE students do get that privilege, but if you're like me an
+
+    → [14] bsdk placement coordinator hun, tere se zada hi pata hai merko
+
+    → [13] Second this. It's just become a trend to dunk on VIT at this point. It has truckloads of its own problems but there is a reason more and more students show up here every year regardless.
+
+    → [9] I don't wanna switch to IT sector. I really like learning about semiconductor tech and IoT sector in general. I wanna continue down this line only. But "want" doesn't feed me or my family, unfortunately
+
+    → [8] well idts, schneider, well fargo, rubrik, societe generale, ION, McDermott, Western Digital and some more these are companies till now where ece branches were elligible.
+
+    → [7] Thank you, dear senior for being straight to the point and not fear mongering.
+
+
+★ [28] Ground Reality of M.Tech VLSI at VIT Vellore (2025 Batch Experience)
+  r/Btechtards | 2026-01-08 | https://www.reddit.com/r/Btechtards/comments/1q765ih/ground_reality_of_mtech_vlsi_at_vit_vellore_2025/
+
+  Hi. I am an [M.Tech](http://M.Tech) VLSI student from VIT Vellore. I completed my two years in 2025. I am writing this to share the ground reality for future students.
+
+VIT advertises around 80% placement. Please understand that most of this includes internships and not full time jobs. In reality less than 20 to 25% of students get full time conversion. Most students are offered only internships w
+
+    → [14] One thing I will say not to demotivate you as you can still apply off campus or move to software roles but doing MTech in India is only worth it if it's from Top 10IITs, Top 3 NITs, IISC Bangalore, BITS Pilani and IIIT H, B from placement perspective
+
+    → [3] Hey hello there, i am planning for MTech this year, but I haven’t applied for gate. so looking for private institutions like VIT, Manipal, Tapar and amritha… could anyone help me with like which colleges should I join for good placements, by the way I am a 2024 BTech EEE graduate and some PD trainin
+
+
+★ [26] Didn't do so well in IIT/BITSAT , now I have gotten in a tier 3 college VIT Pune (Cs). What all should I do after this in 4 years?
+  r/Indian_Academia | 2019-07-19 | https://www.reddit.com/r/Indian_Academia/comments/cf30rx/didnt_do_so_well_in_iitbitsat_now_i_have_gotten/
+
+  Other than maintaining GPA ,What should I do to - build my cv, make sure I get better placement or for scholarship abroad etc . Any advice or help to better my prospects would be appreciated.
+
+Edit: VIT - Vishwakarma institute of technology btw, it has nothing to do with vellore institute of technology.
+
+    → [15] Well Listen Up then!
+
+* For starters learn how to program. Be fluent in at least C/C++ and Python/Java(Choosing between them depends on what core technologies you want to learn, Development? Java!, Machine Learning? Python!)
+* Start with Data Structures and Algorithms. CLRS is a great book. No one e
+
+    → [15] Hey I also got VIT Pune (Production). !
+
+    → [13] VIT is not Tier 3. I know few guys from CS there who got placed in Microsoft.
+
+    → [11] I was in a similar situation four years ago
+
+Listen carefully
+
+Make good friends who are similar minded and hardworking, Preferably more hardworking and focused than you are. This is the most important part
+
+If you want to land a well paying job in a good product based company then you need to clear
+
+    → [11] You just got admission. You'll figure things out on your own. At this point, no one can offer solid advice to you on how to build CV, get better placement (whatever that means) or scholarship abroad when you have other things to take care of. For the first 2 years, only focus on GPA and other opport
+
+    → [10] If you think VIT is tier 3 then I'm definitely completing my last year of CSE from Tier 69 college *-*
+
+    → [10] This is not a branch of Vellore Institute of Technology, just to be clear. It's Vishwakarma Institute of Technology, affiliated to SPPU.
+
+    → [9] He's not from the VIT where OP is getting a seat.
+
+
+★ [25] I am will later post a Placement Tracker for MTech 2026 batch. (5 years and 2 years). Here are some statistics for the MTech (5 Years) 2025 Batch Placements.
+  r/Vit | 2025-07-26 | https://www.reddit.com/r/Vit/comments/1m9uv0m/i_am_will_later_post_a_placement_tracker_for/
+
+  **Note:**  
+The placement season for MTech primarily refers to internships (10 months), which are undertaken in the **4th year, 2nd semester** for **5-year MTech** students, and in the **1st year, 2nd semester** for **2-year MTech** students.  
+They are also eligible for full-time placements later. However, these are very limited, and VIT sidelines most students once they secure an internship.  
+D
+
+    → [3] Please do read entire post. my previous post and replies I have given and then post a query or comment. Thanks. 
+
+This is a Alt Account and will not be active for most of the time.
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 HOSTEL AND FOOD  (33 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [379] To someone special.
+  r/Vit | 2025-07-21 | https://www.reddit.com/r/Vit/comments/1m59vcj/to_someone_special/
+
+  To people living in L block of Vellore Institute of Technology, Vellore Campus. This message is meant for those special maa ke lawde jo subah subah mujh jaise logo ke din ki maiyya chhod dete hai. Saale bhadwo ghar pe tumhari gaand tumhari maa dhoke deti hai kya? Agar aisa hai toh jaake baaju waali patri pe lota leke jaao aur waha kaam nipta ke aao. And mai dua karta hu ye kaam karte time peeche s
+
+    → [54] Upar se L block ke flush bhi chude hue hai...subha itni bekaar hoti hai bc
+
+    → [19] Inn maa ke lawdo ne legit ye tak theek nahi kiya hai bc. 😭 10 minute lag jaate hai ye samasya solve karne mein.
+
+    → [15] Lmaoo ikr these mofos...They legit broke T block washrooms for some reason 
+idek
+
+    → [13] Floor pe 4 bathroom mai, chaaro ka tour karna padhta hai roz subha. Bc flush lagwaado acche, aur flush karna bhi sikhaado in gaanduo ko.
+
+    → [12] Not just N-block bro ,  these mfs are in every damn block
+
+    → [9] I'll send it to you in the DMs lmao. Reddit flagged the comment as "threatening". 😭
+
+    → [7] Bc T block toh naya bana hai lekin- 😭
+
+    → [5] doesn't mean there are no savages
+
+
+★ [252] This clg is fkin crazy
+  r/Vit | 2025-03-13 | https://www.reddit.com/r/Vit/comments/1jae98h/this_clg_is_fkin_crazy/
+
+  VIT Vellore
+
+I was peacefully eating my dinner in my men's hostel mess and a disciplinary committee guy (red tag) along with 3 wardens came in and started walking around. They then came over to me and asked me to stand up. He apparently had an issue with me wearing a tank top. He was like people will be uncomfortable with seeing my armpits?!Firstly, it wasn't one of those tank tops with the wide a
+
+    → [124] i thought such hypocrisy only existed on the other side of the subway
+
+    → [82] This college is regressing backward instead of forward
+
+    → [64] I hope people like this who make students feel bad just to feel like they're in a high position get fucked.
+
+    → [62] i fell like this red tag comes to our hostel at night because at his home his wife dont give him s#x so this frustated dumb ass nigga come to hostel for harassing us.
+
+    → [22] I'm not even a fresher, im in my 3rd yr, man thinks idk how this place works (tbh no one does)
+
+    → [15] Just say there's no rules regarding this, and drop a mail on MH CW, they'll come begging and running. Encountered this nonchalance back in second year, literal took them 15mins to come rushing to say sorry.
+
+    → [15] Fuck with him next time when you are eating with friends all wear tanktops
+Also if you want more fuckery take off one of the shoulder parts of the tank top or better a take it off
+
+    → [11] People are just too weird here tbh
+
+
+★ [121] “From ‘16BME…’ to 2026: VIT Memories Hit Hard”
+  r/Vit | 2026-02-09 | https://www.reddit.com/r/Vit/comments/1qzy3b2/from_16bme_to_2026_vit_memories_hit_hard/
+
+  So it’s 2026… and damn, it’s been 10 years since I first stepped into VIT Vellore wearing that “16BME…” ID card.
+
+First year energy was something else — full excitement, new friends, and that crazy school se college ka safar where you suddenly feel like you’ve unlocked some superpower 😂.
+
+Today I was scrolling through Google Photos and suddenly it all hit me — Mess, DA, SJT, TT… sab kuch wapas yaa
+
+    → [54] ![gif](giphy|CWgAfZawb0kOujcFrp|downsized)
+
+    → [53] Reading this after getting completely cooked by cats and quizzes hits different 🥲.
+
+    → [39] I was taking a quiz, my seniors also helped me… and when I submitted the test I got a 10 and I was sooooo happy… but then I saw 10/100 🥲.
+
+    → [28] Haha, this happened when I was in college 🤣
+
+    → [19] For men's hostels, the new blocks are S and T. There's prp as a new block for academics, and we have a block for architecture and design students. The girls hostel has E,F,G,H,J, RGT(faculty quarters turned into LH). Two of the boys hostels are turned into girls hostels. And I don't know what teams 
+
+    → [16] Intake probably increased in exponential terms since 2016 so idk how would you feel rn in campus 
+Looks like a zoo tbh
+
+    → [12] Boys hotel turned into girls hostel…. Wow so no more railway line division between boys and girls hostel?
+
+    → [12] Yes I was placed after 70 rejections, I worked there for 2 years. And now I'm living my childhood dream… that's all I can say 🧔🏻‍♂️
+
+
+★ [95] Assholes
+  r/Vit | 2025-03-04 | https://www.reddit.com/r/Vit/comments/1j367at/assholes/
+
+  I went to the samsung shop for repairing my phone. After coming to my hostel back around 1:30 pm, one guy told me in the lift that something is stuck in my hair. There was a freaking chewing gum in my hair. It got stuck so hard, its not even getting out of my hair. Karma is gonna hit you so hard bitch. Guys are not having the basic ethics and roaming around in the campus.
+@vellore
+@vit vellore
+
+    → [90] Get some coconut oil and douse the area in that. Then gently rub it out. Chewing gum breaks down in oil. 
+
+I'm sorry this happened to you.
+
+    → [56] Why was the mentioning the Samsung repair shop necessary
+
+    → [42] At last saw somebody giving solutions rather than cursing.
+
+    → [13] We should form a secret group to make this indecent scum disappear
+
+    → [9] That's some peak sadist's work
+
+    → [8] I fail to see who would do this and why
+
+    → [4] It is possible he rested his head somewhere
+
+    → [3] A cult to worship the guy who did this. Either join this group or the other group.
+
+
+★ [80] Did something happen in q block?
+  r/Vit | 2025-03-03 | https://www.reddit.com/r/Vit/comments/1j2q2px/did_something_happen_in_q_block/
+
+  Saw a few gaurds and a warden (and I think red tag faculty) running by in a hurry when I was going to night mess. They went into an elevator and stopped kids from entering it. They seemed in an unusual rush and I saw one of the wardens slam the hostel office door shut before going too.
+
+Vit vellore | First Year | q block
+
+    → [42] Bro what? How is this related to Q block warden rushing?
+
+    → [33] Yeah bro they were even checking washrooms for cigarettes and some red tag was there too
+
+    → [23] Is it just me or does this sounds like black money for the warden?
+
+    → [12] I saw cigaratte packet lying on qblock gate yesterday
+
+    → [7] My friend came to my room yesterday and said that he's frnd blabbered about some suicide, prolly not true
+
+    → [7] They're taking ₹100 in K Block
+
+    → [5] Good I changed my room and block, because I had this frequent habit of missing attendance and causing trouble to the wardens😂😂.
+
+    → [4] shit shows always happens in Q-block that too especially in the 6th floor.... seriously... sometimes it's regarding smoking and stuff and maximum times it's regarding gang wars and fights....lol...
+
+
+★ [63] Found a FRIED CATERPILLAR in bhindi ki sabzi
+  r/Vit | 2025-03-04 | https://www.reddit.com/r/Vit/comments/1j3ep91/found_a_fried_caterpillar_in_bhindi_ki_sabzi/
+
+  H block ladies hostel vit vellore
+
+    → [33] They don’t even care about boys. Always providing extra proteins to girls😭
+
+    → [20] High protein source, don't avoid it 🙇‍♂️
+
+    → [6] Damn they provide extra protein in LH
+
+    → [3] At this point, i don't even care.
+
+    → [3] Bodybuilders running after them, the moment they heard that these contain proteins.
+
+
+★ [60] Switching off power 
+  r/Vit | 2024-09-19 | https://www.reddit.com/r/Vit/comments/1fkn0u2/switching_off_power/
+
+  Vit vellore
+T block Men's Hostel 5th floor
+Bhai ye jo bhi baar baar bahr se light band krke bhhag raha. Ya toh bhag mt ya toh band Mt kr..Bhai pakda mt jaiyo kabhi ...mere admission ka toh pata nhi tera hath pair zarur nhi rhega tere sath.
+
+Thank you -
+
+    → [22] Snitch to warden , he will check cctv, then give him a Ramos treatment
+
+    → [17] "mere admission ka toh pata nhi tera hath pair zarur nhi rahega tere sath" goes hard ngl 🥶🥶
+
+    → [17] brother t block is under construction and no cctvs are installed yet
+
+    → [3] I'm sorry 😔 wapas nahi karunga
+
+    → [3] This is the only way to let him know how hard he will be fucked when caught... just trying to make him aware nothing else
+
+
+★ [47] Fucking Lost
+  r/Vit | 2024-06-27 | https://www.reddit.com/r/Vit/comments/1dppph0/fucking_lost/
+
+  I got adm into VIT Vellore ECE Cat-1 but didnt follow up on shit after that. Ive paid the first year fees already. Have there been any updates on the admission process?
+
+I thought i was too cool to join VIT and kept it as backup turns out I got my ass handed to me by other exams so here I am. Please enlgihten Ive done precisely fuckall since paying those fees.
+
+(Hostel booking and shit idk?)
+
+    → [17] Hostel booking for vellore is over , so you gotta go to vellore on 21st and book it offline
+
+    → [9] So you gotta upload your boards marks and book a hostel from the website check your mail you may have a few emails from vit do upload boards marksheet today itself cos tomorrow is the last day.
+
+    → [7] Nah man pg system doesn't work in vit when ur a fresher, u gotta prove ur parents residence or a relatives residence or some shit. Proves from ur lines that u are a fresher
+
+    → [5] single bed rooms are given from next year on the basis of cgpa priorities 👽
+
+    → [5] what is the block lore which is the best one
+
+also are there single beds
+
+    → [5] fuck does that mean ill get some shit hostel
+
+    → [4] Its first come first serve, even i have to go early
+
+    → [3] I've heard 3 bed AC is the best room but don't know about blocks
+
+
+★ [41] VIT VELLORE HOSTEL FEE & MESS FEE
+  r/Vit | 2025-06-04 | https://www.reddit.com/r/Vit/comments/1l390te/vit_vellore_hostel_fee_mess_fee/
+
+  # WHICH ONE IS BEST?
+
+    → [13] Damn the price rise 💹💹
+
+This is what we paid back in 2022 for the hostel and mess Just a comparison
+
+    → [6] For vegetarian is normal veg better or special veg
+( also let me know the differences)
+And which type of room is better in deluxe type?
+
+    → [5] Chennai me cost of living is high
+
+    → [5] why is the chennai campus hostel fee expensive than vellore?
+
+    → [4] Take special mess and normal room
+
+    → [4] Being from Chennai, I feel like crying after seeing these fees
+
+    → [3] Yea I'm gonna prob take non veg
+
+
+★ [40] Good non-veg / North Indian food near VIT Vellore?
+  r/Vit | 2026-01-29 | https://www.reddit.com/r/Vit/comments/1qqipqd/good_nonveg_north_indian_food_near_vit_vellore/
+
+  Hey guys,
+
+New here / bored of mess food 😭
+
+Looking for good North Indian food near VIT Vellore.
+
+Mainly craving:
+
+	•	Good biryani
+
+	•	Lunch spots (chicken / mutton)
+
+	•	Rolls, shawarma, snacks
+
+	•	Chinese / Indo-Chinese
+
+Stalls, small shops, proper restaurants — anything works as long as it tastes good 😅
+
+Nearby areas around campus / Katpadi / Gandhi Road are fine.
+
+Drop your go-to places 🙏
+
+    → [15] Jaisha for Biryani
+While it's not mentioned in your list, I'd recommend Dal Makhani from Apna Dhaba (non veg) as well as Masaledaar Dhaba (pure veg)
+AAAA I'M HUNGRY NOW
+
+    → [13] Biryani - Saleem Punjabi Dhaba 
+Gravies and Naan - Tara Maa
+Shawarma - One Food World / Zaitoon
+Fried Chicken - Chick-In
+Roasted Chicken - Salt n Pepper ( Try Al-Faham)
+
+    → [9] None of the items you've mentioned are North Indian 💀
+Saleem dhaba has decent biryanis, hart lounge has good shawarmas ( people have contradicting views on this place tho ).
+
+    → [5] Jaisha got nice tandoori chicken tikka / kebabs
+
+    → [5] That's great, I'll give it a try, thank you so much!
+
+    → [5] Yum yum, is there any other good places near the main gate apart from these?
+
+    → [4] Can't think of anything else nearby, but check out Hive Food Street which is about the same distance as McDonald's but towards the left.
+Then there's the food corner of Fresh Mart too which has great street food.
+
+    → [3] Alfaham (honey / peri peri)  from Salt and pepper, Chicken roll from Limra, Hot fried chicken burger from The High Joint.
+
+
+★ [29] Hostel Room
+  r/Vit | 2025-04-30 | https://www.reddit.com/r/Vit/comments/1kbbln9/hostel_room/
+
+  hey guys! I'm joining VIT Vellore for masters, and we need to choose a hostel room by tomorrow, which one should I pick? And on what basis? These are the options I have, and is "Veg" mess better or "Special" mess?
+
+    → [24] Apt is APT APT APT APT APT APT UH HUH UH HUH /s
+
+Apartment and non apartment type
+
+    → [24] take 4 AC or 4 APT
+
+you'll make friends fast
+
+NEVER TAKE NON-AC
+
+    → [6] NAPT is deluxe, whereas normal 4ac is non deluxe. 
+
+Idk for ladies hostel but for men's hostel it means deluxe only, deluxe has bigger rooms than non deluxe
+
+    → [3] Shouldn't non apartment and the rooms mentioned above be the same then? Apologies if i sound like a stupid person
+
+
+★ [23] Assholes again
+  r/Vit | 2025-03-22 | https://www.reddit.com/r/Vit/comments/1jh51z5/assholes_again/
+
+  Guys living in T-Block
+To the guy or guys who dont flush (flush is working properly), bruh why do you stay in the deluxe hostels if you dont have basic civic sense. Have some manners dude, you are a 20 yo male gonna be adult in 1 year and doing such shitty things. Shame on u 
+@vit vellore
+
+    → [22] Your talking about flush today morning in N block I was brushing my teeth I saw 7 people coming out of toilet n going to room without washing their own hands few were from Indian style also , So u think they clean public property 😆
+
+    → [21] Sometimes I wash my hands inside the cubicle only. Don't want to wear pants or a towel with poop hands
+
+    → [6] Bhai koi matlab nhi hai in logo ko bolne ka literally vit ko ek subject rakhna chahiye Developing basic civics sense karke aur woh bhi compulsory saale kuch itne gawaar log hai flush nhi karte hai aur kuch flush bus formality ke liye karte hai atleast dekh toh lo properly flush hua hai yaa nhi pata 
+
+    → [5] imo hands can be washed inside the stall itself
+
+    → [4] >bruh why do you stay in the deluxe hostels if you dont have basic civic sense.
+
+What kinda casual narcissism is this duh. As if it's okay for a guy in other blocks to not flush their dump??😮‍💨
+
+    → [4] Yeah it gets cleaned every 12-15 hrs
+
+    → [3] I'm pretty sure he meant that ppl paid extra to stay in deluxe cuz it's "deluxe" but don't treat it as such
+
+    → [3] Bruh I have literally seen people come to the urinal, pee and leave without washing their hands. Like at least rinse it with water man. Have some civic sense ffs.
+
+
+★ [21] Regarding the Hostel Situation at VIT
+  r/Vit | 2025-05-20 | https://www.reddit.com/r/Vit/comments/1kr0dz0/regarding_the_hostel_situation_at_vit/
+
+  (Boys hostels btw...) I got CSE in VIT Vellore, and there's a good chance that's where I'll be going. I have a few questions regarding the hostels in the Vellore Campus. 
+
+1. Are smaller (2 or 3 bed) rooms possible for freshers? The 4 and 6 bed rooms look very crowded. 
+
+2. When does the hostel counselling begin? Is it fully online or do I need to go to the campus for any reason?
+
+3. How are the r
+
+    → [16] 1. yes it's available for freshers.
+
+2. hostel counselling will begin soon and vit will mail you regarding it. it is FULLY ONLINE, you don't have to go to the campus for any reason. Just go directly for the orientation.
+
+3. from my experience, they are clean and properly maintained.
+
+4. initially th
+
+    → [8] You will mostly be allotted q block
+My suggestion: take 4 bed cuz it's spacious and the perfect number of people to share a room , 
+Avoid three bed it is so Conjusted. 
+The campus is walkable avoid buying bicycle in hurry. 
+If u feel u still want it after few weeks then buy it.
+
+    → [5] Had Q block 4 bed in first year loved it tbh spacious room and 4 seemed like best ampunt of ppl in the room
+
+    → [4] Naah, you can from the 2nd year but that also depends upon the gpa ofc
+
+    → [4] bro can u choose ur roomates initially ??
+
+    → [3] If you are lucky enough u may get 4bed room with attached bathroom as well in each floor of q block there is atleast one room like that room no like 256,456,556 etc are all with attached bathrooms
+
+    → [3] Bro ndlx isn't worth it at all trust me, always take dlx
+
+    → [3] Which is better for 4 bed DLX or NDLX in terms of is it worth the extra money?
+
+
+★ [18] Quick Help Needed for Hostel Packing: VIT Vellore Campus
+  r/Vit | 2025-06-13 | https://www.reddit.com/r/Vit/comments/1la9dv5/quick_help_needed_for_hostel_packing_vit_vellore/
+
+  Hey everyone
+
+So I haven’t been assigned a hostel block yet but I’ve started packing and I have a few questions. Would really appreciate some help from current students or anyone who’s been through this recently.
+
+1. Do I need to bring a mosquito net? Is that something people usually use?
+2. I heard we have laundry facilities, but I’m guessing most of you wash underwear yourselves. Where do you dr
+
+
+★ [17] Summer Sem Queries
+  r/Vit | 2025-04-14 | https://www.reddit.com/r/Vit/comments/1jyvpdh/summer_sem_queries/
+
+  VIT Vellore
+
+I am gonna stay here for the summer and mostly they will give P&Q blocks. I may prefer Q.
+
+What shops will be open insider VIT, like enzo,benzo, Qblock shop etc?
+
+What restaurants will be open outside VIT like tarama, jaishah, saleems, andhra spice, apna dabha, kerala parotta places etc?
+
+Will there be a gym registration for summer alone? which gym will be alloted?
+
+Some review on Q b
+
+    → [7] Q block shop will be open, likewise for enzo too i guess  
+  
+Yeah all gym registrations will be there, better take fitty if you take Q block
+
+Special mess and night canteen are okay, but not great
+
+    → [3] Take fitty for gym... Best and closest to all fresher blocks... Others are mainly used by seniors
+
+    → [3] Yes sirrr..... We had something called fast track for our entire batch to complete courses
+
+    → [3] Spl mess isn't that great tbh, the night mess is good tho
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 FEES AND MONEY  (14 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [102] THE FINAL BATTLE: MIT VS VIT
+  r/Manipal_Academics | 2025-05-06 | https://www.reddit.com/r/Manipal_Academics/comments/1kg44ru/the_final_battle_mit_vs_vit/
+
+  So yeah I have seen a couple of posts on this sub on MIT vs VIT
+
+In this post I am going to list all the pros and cons of MIT and VIT and then you decide for yourself then
+
+Lets start with
+
+MIT MANIPAL
+
+PROS: ERROR 404 NOT FOUND
+
+CONS:
+
+1)Very high fees 
+
+2)Bad nirf rankings
+
+ 3)college location (not that great nearby ocean so major threats of cyclones)
+
+ 4)bad weather always raining (who loves ra
+
+    → [52] bro pls don't compare these both. Your comparing VIT a tire 1 college with Manipal Tier 3 college. Thoda sharam karo
+
+    → [30] Final sarcastic paglu here guyz
+
+    → [20] Sorry saar bhari mistake ho gya😥
+
+VIT power💪
+
+    → [16] my comment from another post ridiculing vit and praising mit  
+  
+altho i got 175 marks in met😢😢😢i think i will finalise vit-bhopal cat5 civil engineering🎉🎉  
+afterall vit tag is worth it🏆🏆🏆
+
+    → [11] bro why are so many posts like this being made, i cant tell if its satire or serious 😭
+
+    → [9] Tu adivasi hair oil lagane wala tha na idhar kya kr rha 😡
+
+    → [7] it's Satire. Colleges like Manipal, BITS etc hate on VIT a lot because of its NIRF ranking. And even tho I agree that VIT is in no way better than BITS Pilani its still a good college.
+
+As for comparison with MIT, the debate is endless so imma stay out. peace
+
+    → [6] VIT actually better   
+less drugs more placements  
+\#letsgovit
+
+
+★ [40] BANNED IN VIT SUB FOR SPEAKING THE TRUTH 💀
+  r/JEENEETards | 2024-05-23 | https://www.reddit.com/r/JEENEETards/comments/1cyn7yq/banned_in_vit_sub_for_speaking_the_truth/
+
+  Mujhe bas un bando ko warn kardna tha ..Jo unka fake placements aur advertising dekkhe join ho rhe hai ..bas wo 4 saal ke bad regret na kade ..there are many 97 percentilers who chose vit vellore just bcoz people think vit Is a brand and is better than mid nit s 
+
+What I found is this sub is full of people leaving high on copium 💀
+
+    → [25] I agree it might be strict there but kya hi karu , my other options are amritha type colleges
+
+    → [10] bhai mene toh fees bhi bardi cat 3 ki csbs me, kya karu should i wait for mahtcet , i still have bitsat :(
+
+    → [5] Oh lmao maybe yeah, If I'm going I'm not going with that mindset and all, the marketing is bs I agree, it's just that as I said my other options are worse as of now and since I'm getting cse in vellore I think its alright, ofc bitsat is left (let's see what happens tmrw ) , but mostly I'm not too su
+
+    → [4] My mom seems to love this coz of the strict rules she's like "acha hai tu zyada masti nhi kr payega" .  
+I'm pretty sure NIT Nagpur Mech is also miles miles ahead of a VIT CSE so will withdraw my fees as soon as I get my MHTCET results so that I have another backup
+
+    → [4] vit was good before 2014, less fees less batch strength and all. now its just another scam.
+
+(source - trust my research)
+
+    → [4] All of this is true , I have been there and felt every emotion I shouldn't have felt , I left that college for good . Fucking played with my mental health
+
+    → [4] i feel like everyone joining vit will already know this, they joined cause they didnt have any other choices
+
+    → [3] yeah but this year specially ranks have been bizarre. do you think one can get nit or iiit cse at 99%ile ? if no, then isn't vit the second best private option? Or you can give some other suggestions
+
+
+★ [27] THAPAR VS VIT VELLORE VS PESU (ALL 3 CSE)
+  r/Btechtards | 2026-02-13 | https://www.reddit.com/r/Btechtards/comments/1r3iqk9/thapar_vs_vit_vellore_vs_pesu_all_3_cse/
+
+  WHICH ABOVE 3 WOULD BE BEST CONSIDERING THE FACT THAPAR FEES HAS GONE 35 LAKHS AND THE PUNJAB CROWD IS GETTING ADMISSIONS IN COE EVEN AT 83%ILE   
+I AM TOO FROM PUNJAB (GETTING 95.5%ILE IN JEE MAINS)
+
+    → [20] Thapar and PES are good (also really expensive) 
+
+VIT?? Why is that even on the list.
+
+    → [14] bruhh study for 2nd attempt you are already at 95 you can get 99 by 2nd...
+
+    → [9] thapar fees 35lakhs  
+pesu fees 25 lakh  
+and crowd of thapar is getting worse  
+pesu is in blr
+
+    → [8] Bhai, jo log VITV ke baare mai bura bol rahe hain. Wo log bilkul sahi bol rahe hain, mera ek dost hai and ab wo mujhse puch raha hai ki lateral entry kahan kahan available hai.
+
+    → [7] bina scholarship ke jane wale bano, non eu students se 20-30k eur fees per year lete hai ye. admission mil jata hai
+
+    → [6] Jitna bura log bolte hain utna bura bhi nhi hai. Haan, ye hai ki crowd bauhaut jada hai and logo ko mainly placements mai baithna hai jo apne mai koi buri baat nhi hai, that's why. Mainly due to the crowd, then school like temprament. But ye reasons valid bhi hai agar sach boluin mai, lekin ye bhi h
+
+    → [6] its including hostel goes 35l and i am from punjab only i have asked on ground from people like punjab quota seh coe 83%ile peh milrha like wtf sirf 50-60 marks in jee mains seh   
+thapar was good till its fees was 25lakh now its going very up also they have increased cse seats  this year
+
+    → [5] Choose Thapar Or PES , if you want a cultural shift go to PESU or if you want stay close to home choose Thapar. Also consider LNMIIT you might get CS their
+
+
+★ [26] Common Doubt among all Btech Final Years around me! Mtech in India or Job?
+  r/developersIndia | 2024-07-11 | https://www.reddit.com/r/developersIndia/comments/1e0qphq/common_doubt_among_all_btech_final_years_around/
+
+  Me and my friends can't decide what to do. Any suggestions!
+
+Note: We are from Vellore Institute of Technology, BTech CSE AI/ML and can't afford MS.
+
+    → [21] Considering the market unless M.Tech is from Tier1 college like IIT choose a Job .
+
+    → [17] If you're Interested in research then do Mtech. If you want to work then go for job.
+
+    → [9] Hell no, don't waste money on mtech here
+
+    → [8] Hi, If you have a job in hand, go for it and prepare for gate in the side.Get 1-2 years experience and then pursue Mtech.   
+Since you are in final year use it to start the gate preparation, as it might get a little tricky during jobs.   
+If you dont have a job in hand, doing GATE prep will anyways 
+
+    → [6] If your end goal is to land a job, then going for a job is significantly beneficial than M.Tech, especially if it's not an IIT. Although there's not much hope even in IITs lately. 
+There is no better way to get ready for a job than to do a job.
+
+    → [5] Yea around 12000 if you clear gate. Not just iits, other unis too ig
+
+    → [4] Please try and join a job even if it is for less salary, Go for M.Tech in India only if you are passionate about teaching and even then I would suggest to work for at least a year in a job and then go for M.Tech...
+
+    → [3] I think it's something to do with the market not being very good. People who are unable to secure job offers keep returning to academia, without considering the lost opportunity cost
+
+
+★ [18] OPINION on VIT VELLORE
+  r/JEENEETards | 2022-08-31 | https://www.reddit.com/r/JEENEETards/comments/x24x6m/opinion_on_vit_vellore/
+
+  I heard a lot of negative stuff about VIT Vellore in this  subreddit.. I didn't do well in JEE MAINS(CRL:- 66K) and ADVANCE but got ECE in VIT Vellore and thinking to join...
+
+I even searched on GOOGLE but most of them told that they were FAKE REVIEWS
+
+I'm confused now....
+
+Is it advisable to go there??? Pls help!!
+
+    → [19] Best advice is to get off this sub and ask people IRL because none of us truly have any experience.
+
+But tbh, VIT is probably not worth it for anything other than CS. I’m personally going there since I got CS, and I was in a similar dilemma as you. As far as I’ve researched, it’s honestly a decent c
+
+    → [16] bhai please ye chutiya "grind" wli advice mt choda kr
+
+    → [12] My senior who was in vit vellore took the ECE course, he had a decent offer of some 10+ lpa.. not sure abt the exact amount, but he chose to study abroad
+
+He is in Waterloo University studying for his masters right now.
+
+He told me to just manage time properly there, study well and enjoy life as wel
+
+    → [12] If you are in the top 5% of your college, you'll get good placement
+
+If you're not, then you'll end up wasting that high fees for nothing
+
+    → [10] VIT seems only worth it for CSE . It will be very hard to justify 19-22L for ECE branch in a non BITS private college 
+
+Being in top 2% of VIT V , among 25,000 VITians is the only option left for you , especially in a non CS branch.
+
+    → [6] There’s 75% attendance but if you’re a 9 pointer you don’t have to attend any classes at all. And it’s relative grading so there’s nothing to worry about.
+
+    → [5] Kahan se itna galat info milti hai??? It will be 8L only if you get Cat 1 group A. All the other fees are way above 2LPa and hostel and mess fee combined is 1lpa minimum. PG me rehna allowed nahi hota vit main, you have to stay in their hostels
+
+    → [4] If you work hard vit will provide you a good amount of opportunities. Though vit is overrated but still better than any random private college .
+
+
+★ [9] IS TAKING LOAN OF 15LAKHS IS WORTH FOR CS IN MITM
+  r/Manipal_Academics | 2025-05-13 | https://www.reddit.com/r/Manipal_Academics/comments/1klfqch/is_taking_loan_of_15lakhs_is_worth_for_cs_in_mitm/
+
+  After Bits,Manipal is the only big option for me so is taking 15loan is worth for manipal and rest will be managed by my parents....Will I be able to clear my loan after graduating provided I'll have immense intrest on cs and work hard?And I can't pay 25lakhs for cse in shit vit vellore even after getting 25k in viteee. So seniors plz help me..
+
+    → [9] Not at all imo, 15 lakhs is too much.
+
+    → [5] yeah but packages are decent right and that too I'll get a good peer group and my other college choices are cs in AU(3-4 TIER),ANDHRA EAMCET CLGS(3-4TIER) AND SOME OF THEM DON'T EVEN HAVE CSE AVG ABOVE 3LPA..And joining vit by paying 25lakhs is not worth for sure no matter what ...So manipal has a c
+
+    → [5] bro competition kam karne ka style thoda kesual tha
+
+    → [4] Jaipur mein direct hojata Don't worry but it's definitely not worth it, bekar hai.
+
+    → [4] Idk about loan but manipal > vit
+
+    → [4] what vit has more placements than mit ? I know vit has more strength but still mit has good placements isn'it..like i mean quality placements
+
+    → [4] Yeah but what if i get recruited by mass recruiter even if I maintain good cgpa..?
+
+    → [4] vro only take loan till 10 lakh max to max well otherwise it's your choice considering if you can spend 7+ years repaying loan after graduating
+
+
+★ [8] Doubt regarding fees refund in VIT Vellore
+  r/Btechtards | 2024-05-15 | https://www.reddit.com/r/Btechtards/comments/1csgasp/doubt_regarding_fees_refund_in_vit_vellore/
+
+  I secured cat 2 ece in vellore. But I am not sure about the refund. When I spoke to them, they said sept 11 is the last date for 100% refund. But other students that I spoke to, they told me ki paise rakh lete hai 20% roughly. Please anyone here who asked for refund from VIT, can you tell me your experience. Thank you so much 🙏🏻🙏🏻
+
+
+★ [7] Can't imagine it has come down to this but...
+  r/JEENEETards | 2022-07-27 | https://www.reddit.com/r/JEENEETards/comments/w9mr0d/cant_imagine_it_has_come_down_to_this_but/
+
+  What are some tier 2 colleges that accept donations? Also can I get vit Vellore cs at 73K rank(fees is not a problem)?
+
+    → [29] It's flex for parents but embarrassing for me
+
+    → [14] Proud to be Amitians 🥰 
+
+(ironically use kiya emoji ko downvote matt karna bc)
+
+    → [13] RVCE chla jaa bhai management quota se, bas 64 Lakh lagenge CSE k!
+
+    → [13] i want to flex this hard in life
+fees is not a problem bitch
+
+    → [8] 20 Lakh development fees hai(non refundable). Aur 11 Lakh annual. Bc kya soch k aisa rakha hai, itne me banda foreign jaake na padh le!
+
+    → [7] bas kitni sundar tareeqe se lagaya hai 8x hai ye IIT ke seat ke
+
+    → [7] ik man, but dont worry things will get better
+
+    → [4] bhaisahab
+
+parents se kitna paisa choos lete hai bs education ke naam pe jo bachha vaise bhi vahan khud hi krta hai, aur naive parents de bhi dete h
+
+
+★ [6] Doubt regarding fee payment
+  r/Vit | 2024-05-14 | https://www.reddit.com/r/Vit/comments/1crj6jm/doubt_regarding_fee_payment/
+
+  I have already paid my 1 year fees of vit vellore but it  is still showing me the payment option in the online payment section of freshers portal  
+[https://i.imgur.com/grhWoWV.png](https://i.imgur.com/grhWoWV.png)
+
+[https://i.imgur.com/YOvidrg.png](https://i.imgur.com/YOvidrg.png)
+
+Also when can I register for hostels?
+
+
+★ [6] Admission
+  r/Vit | 2025-05-06 | https://www.reddit.com/r/Vit/comments/1kg053o/admission/
+
+  If I get admission in vit vellore and I pay the fees and later on get admission in bits or something so will the fees be refunded or not?
+
+
+★ [6] No VTOP ID or Email Received (For EPT or Orientation)
+  r/Vit | 2025-06-16 | https://www.reddit.com/r/Vit/comments/1ld7udn/no_vtop_id_or_email_received_for_ept_or/
+
+  Title. What should I do? Paid the fees and everything.
+
+VIT Vellore btw.
+
+    → [7] Wait for atleast 1 month. You will get your credentials within a month.
+
+
+★ [6] Does VIT allow to transfer colleges in second year?
+  r/Indian_Academia | 2022-07-18 | https://www.reddit.com/r/Indian_Academia/comments/w1qcbr/does_vit_allow_to_transfer_colleges_in_second_year/
+
+  My_qualifications: 12th completed. Awaiting result.
+10th: 96.8%
+Board:CBSE
+Will most probably get CSE in VIT Vellore.
+
+Basically the title. I was planning to apply abroad for second year as a transfer student. However, I have read a few reviews online stating that I need to pay the whole 4 year fees if I need to leave VIT in second year.
+
+Is it true?!?
+
+
+★ [5] Can VIT vellore be good for studying animation?
+  r/Indian_Academia | 2022-08-19 | https://www.reddit.com/r/Indian_Academia/comments/wsoizi/can_vit_vellore_be_good_for_studying_animation/
+
+  qualifications: 12th grade
+
+My sister finished her grade 12 this year and is very passionate about 2D animation. I applied both UCEED And NID for her. Sadly, she couldn't get in. I've been hunting colleges for her, so we've started to look for design colleges where she'd have a bright future with. And a lot of the people in the animation industry are telling it's not worth a lot of money to get in
+
+
+★ [5] Total fees for category 3 at VIT Vellore
+  r/Btechtards | 2022-09-23 | https://www.reddit.com/r/Btechtards/comments/xltus7/total_fees_for_category_3_at_vit_vellore/
+
+  What is the total fees(rough estimate)for completing a 4 year btech course in CS ( category 3) @ VIT , Vellore including hostel and mess charges (assuming single occupency ac room)(exclude personal expenses and travel)
+
+educational_info: ofc I aced JEE 
+
+Thanks
+
+    → [3] 20 lakh + tak lag jayega poora kharcha 4 saal ka milake
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 FACULTY AND ACADEMICS  (25 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [96] [12th Pass here] How to choose for future IIITH LEEE, ITP or LEET
+  r/Indian_Academia | 2021-06-22 | https://www.reddit.com/r/Indian_Academia/comments/o5f6p6/12th_pass_here_how_to_choose_for_future_iiith/
+
+  I'll start off straight by saying that I'm jealous of the people going abroad for UG for so less effort. 3 hours of study. Nitwits like who used to fail the weekly math test in 8th grade are going to those universities. I'm freaking jealous.
+
+I joined weekend JEE foundation classes since when I was 12 years old. Until 10th I was in foundation classes. Then I joined a residential integrated JEE coa
+
+    → [14] >I joined weekend JEE foundation classes since when I was 12 years old
+
+Lmao wtf. If I was in your place I would have fucking ran away from home. Your parents are either very selfish and want you to fulfill there dreams at your cost or they are worried about your future. Honestly speaking I think th
+
+    → [12] It's sad that you have to ask this man :/ I feel bad for Telugu kids
+
+    → [12] > If I was in your place I would have fucking ran away from home.
+
+believe me not run away from home, I wanted to run away from life. I was mentally unstable. I used to go cry in the bath rooms. Whenever I saw a knife I used to hide it, cuz you know, I didn't want to leave this world, but also I wan
+
+    → [11] I have graduated from one of the IISERs. Ping me if you want any info.
+
+    → [11] If you are Interested in Physics (Astronomy) and don't mind persuing a career in research, IISER is a good option.
+
+I'm preparing for IISER 2022
+
+    → [10] Why does this sound so similar to me? OP are you from the Telugu States?LEEE is very tough and highly competitive from what I've heard. I've given UGEE and fell short by 8 marks for the interview round.
+
+If you can afford the ITP by VIT, I think it's okay, however there a lot of answers on Quora and
+
+    → [10] Look I might sound crazy, but if you learn Finnish/Swedish, and appear their version of SATs, you'll qualify for all round free education.
+
+They have a criteria for foreign nationals who know their language, and can qualify for socialised education. Else pay 9k Euros upto 21k Euros, convert karke yo
+
+    → [9] Well, I'm telugu too. Just never grew up there and I'm soo glad about it, I'm better off this way.
+
+
+★ [67] Student lives don't matter. Welcome to VIT Vellore.
+  r/Indian_Academia | 2025-10-02 | https://www.reddit.com/r/Indian_Academia/comments/1nwc5i8/student_lives_dont_matter_welcome_to_vit_vellore/
+
+  Regarded as a top 20 institution in India as per nirf. After a year I now get why people still chose other colleges with lesser rankings. Myquals Pg. 
+
+It is an institution that lives and breathes for its own brand value in an totalitarian way. 
+
+Recently a girl committed su*c*de after getting threatened to be debarred from exams, by a female prof for dressing that is slightly improper as per uni 
+
+    → [6] Go to online DS from iitm. Just depends on your will and toughness. No useless professors, not useless content.
+
+
+★ [54] What to choose between VIT Vellore CSE and SRM KTR CSE with spl. in Software Engineering?
+  r/Indian_Academia | 2021-07-10 | https://www.reddit.com/r/Indian_Academia/comments/ohnj1t/what_to_choose_between_vit_vellore_cse_and_srm/
+
+  my_qualifications: Currently in class 12th, about to join a college.
+
+So I messed up Jee prep and got around 85%ile in my first two attempts. I am not too confident about the remaining attempts and BITSAT. 
+
+I want to go for masters abroad after my BTech so I want a comparision between the two in that context. Fees is almost the same in both for me and its not that big of a concern for me. I am cu
+
+    → [26] Join VIT. Not sure about the rules (SRM is definitely more relaxed, though), but VIT seems to have better placements and a higher % of folks heading abroad for MS, based on anecdotal evidence.
+
+    → [12] VIT is generally better in most aspects tbh but also keep in mind that VIT has a higher student intake(almost 2k people in just CSE) so it makes it harder for you to set yourself apart from the crowd and build connections with professors etc. SRM is also somewhat like that though. They have maybe 20
+
+    → [6] Exchange program in SRM is more. Besides, SRM has tie-ups with foreign unis where you can do 2 years here and 2 there. And most of the non-CS programs are certified by Foreign unis so you can get a MS seat much easier than in other colleges.
+
+&#x200B;
+
+Source: I am from SRM.
+
+    → [6] From what i hear brand value barely matters when you're applying abroad for ms or mtech
+Even if it does, VIT def has more brand value than SRM
+
+    → [6] There are some exchange programs in vit. Do research that. In general vit is a better college
+
+    → [5] Does VIT really have any brand value outside India.
+
+    → [4] \> VIT courses are already ABET certified, and last I heard, they're in the last stage for NBA certification (which means recognition by the Washington Accord), so my bet is that VIT is better for foreign cou
+
+&#x200B;
+
+1. Not all courses are.
+
+2. SRM also
+&#x200B;
+
+Infact, here is a list of certifi
+
+    → [4] Vit is definitely a better college. But college life and knternational exchange program is better at srm
+
+
+★ [33] confused between vit vellore or mit manipal!!!help me decide
+  r/Vit | 2025-05-01 | https://www.reddit.com/r/Vit/comments/1kc87cf/confused_between_vit_vellore_or_mit_manipalhelp/
+
+  Hello guys i have given both met and viteee, met results for phase 1 are out i will most likely get eee in main campus or cse spec. in blr campus. results for viteee will be out by 5th may most likely ece milna chaiye...please help me decide based on my requirements which colleges to choose   
+1. are there consulting firms  visiting in vit vellore if so then whats the range of avg package and plea
+
+    → [15] Considering you want to pursue MBA or something later on, come to VIT if you get a lower category. Manipal is too expensive, so unless you're getting Category 5 here, you'll easily save more money.
+
+    → [15] bhai ngl management agar tu abhi se soch rha hai like then why to pursue btech in first place tbh? choose an easy course at a college jaha attendance ka maamla nai ho, acads light ho phir CAT ka taiyari kro
+
+    → [12] choose manipal one of my friend reads there......crowd is less so placements are good
+
+    → [10] Reyansh College of Hotel Management
+
+    → [9] I mean ngl izzat yah sab random abstract concept hai
+
+dekh first of all u are disadvantaged for CAT atleast since u will be clubbed with engineering profile, B schools love diversity 
+
+phir idk how are u at studies ya kaisa tumhara aptitude hai but ngl btech mein achhe grades laana is also a difficu
+
+    → [6] VIT for education 
+
+Manipal for College life
+
+    → [6] See from my pov , i had rather strict parents growing up , so joining here gave me pretty much conplete freedom, sure it is strict but if your not a complete retard you can live college life to the fullest . So imma say 8.5/10 for me
+
+    → [5] I think LKM london something woh company aati hai but u have to be super good at coding to clear those or cgpa above 9 rakhna hai
+
+Bain consulting group bhi aati hai but that is also again tech wala
+
+ION karke ek aata hai
+
+mainly analyst profile tarhet karna placement mein
+
+
+★ [32] No Breaks Between Exams for Integrated M.Tech Students?
+  r/Vit | 2024-10-27 | https://www.reddit.com/r/Vit/comments/1gdg51q/no_breaks_between_exams_for_integrated_mtech/
+
+  Hey everyone,
+
+I noticed something concerning about the exam schedule for this semester’s FATs. While B.Tech students are getting two-day gaps between exams, it looks like us Integrated M.Tech students have exams back-to-back with no breaks in between. This means we’re expected to finish one exam, review, and prepare for the next, all within 24 hours, which is pretty intense given the volume of co
+
+    → [18] Feeling unfair how? Your batchmates will also give exams on same day with no breaks, so doesn't matter (relative grading )
+
+    → [16] Funny how some think asking for fair treatment means you're not ready for the 'real world.' College should be a place to learn, not burn out. Real resilience isn’t about enduring unfair treatment,it’s about knowing when to push back. 
+Maybe society should rethink mindsets like yours
+
+    → [15] For mtech freshers and btech freshers there is no gap but for seniors gap is there
+
+    → [7] Wild how some people think they can judge others based on their own insecurities. You’re out here trying to feel superior by mocking other people’s choices and acting like you know their lives. 
+
+But here’s a reality check: no one needs your shallow opinions, and this attitude says more about your o
+
+    → [6] Don't worry these guys are idiots. Who likes being treated like humans anyway?
+
+    → [6] Experienced same in 1st year. 1st time offline after half sem in online.
+
+Study before itself. Get avg marks and great grade.
+
+Almost everyone had backlog that sem i got avg marks and great grades
+
+    → [5] Btech freshers ke liye gap hai bhai 2 days for each exam
+
+    → [3] Hey I am your senior might be super senior for you.
+The exam schedule will be same as for you for btech students also.
+The gap you are talking about will happen if your slots are in.
+The exam schedule will start on day one with A1 slot and ends with G2 slot at end.
+I don't think this will change to 
+
+
+★ [27] Another "which engineering college should I pick" post - VIT and Bangalore colleges
+  r/Indian_Academia | 2021-09-26 | https://www.reddit.com/r/Indian_Academia/comments/pvql9g/another_which_engineering_college_should_i_pick/
+
+  Hey everyone!
+
+my\_qualifications: The comedk results were just announced and I got a rank of 5.5k.
+
+Right now I have to basically decide between continuing with ECE at VIT Vellore, taking up ECE at Bangalore institute of technology, or ENI at like an MSRIT.
+
+Now, of course, I wanted to pick CS since that is what I've been interested in for over 6 years, however, clearly that is out of the questio
+
+    → [13] Between these two, I feel VIT has stronger industry relations. The infrastructure is really good. And although intense, I feel it's a good program. I would stick with it. That being said, all the best in what you finally do decide.
+
+    → [10] You might get AI at BIT. Do keep an eye out for that! Also CS at SMVIT isn't too bad.
+
+    → [9] I have friends in 4th yr at Vit CS and can share some placement data. 
+
+Last time the college had around 60℅ 8-12 Lpa packages. 20℅ 12-17 Lpa packages for on campus placements. There were better packages being thrown around by the companies but they all had very high gpa requirements + 5 rounds sele
+
+    → [5] Yeah cgpa is a really big issue in VIT. You have to get like a 9 at least for most things - especially now with online exams.
+
+    → [5] AI at BIT closed at about 3.8k in round 3 last year though. Round 4 ranks are a bit skewed since it was a surprise round and not a lot of people applied.
+
+    → [4] I am a VTU student thats why. Although I don't study in those colleges. My college is also under VTU.
+
+    → [4] Naa its better you stick with VIT. Unless you are getting a autonomous college like RV/MSRIT, VIT is better than or I say way better than these colleges you have mentioned which are under VTU, probably the worst university in this country.
+
+    → [4] Bro that's the harsh reality everywhere. I study CS in a top 5 IIT and even here, 9+ CG was imperative for many of the well-regarded placements.
+
+The CGPA bar exists **everywhere**. What matters is if opportunities exist alongside it too. The (anecdotal) stats SnooPaintings9043 says are really reall
+
+
+★ [22] Seniors, Kindy share your views on this issue of VIT Placements with low CGPA of my scenario
+  r/Vit | 2024-11-16 | https://www.reddit.com/r/Vit/comments/1gshite/seniors_kindy_share_your_views_on_this_issue_of/
+
+  I am 3rd year student of CSE Core at VIT Vellore , After a lot of analysis i come to an conclusion that after i boost my CGPA  till 6th sem will be around 8.2 - 8.4 max, So am i cooked in placements season in 7th sem in final year 😥? Am i able to crack Super Dream offers with cgpa range from 8.2 - 8.4 with decent DSA and projects ? 
+
+If anyone got super dream offer from CSE with cgpa range from 8.
+
+    → [15] As a CSE student it's much easier to crack super dream offers with a lower CGPA. You've to have at least one great project that you know inside out. You have to be great at DSA. And you have to have good interviewing skills. 
+
+On your alternate side, you can also try cracking non-tech super dream of
+
+    → [5] Grade Improvement is not offered in semmer term ig
+
+    → [5] seniors should I stay for summersem in the end of third year ?? I am planning to increase my cgpa in summer sem by doing grade improvement is it worth it.
+
+
+★ [19] vit vellore fresher doubt
+  r/Vit | 2025-06-02 | https://www.reddit.com/r/Vit/comments/1l1cyw6/vit_vellore_fresher_doubt/
+
+  hi, so im a fresher at vit vellore cse(core), and im looking at ways i can go abroad from here. my understanding is either via the STP 2+2 programme ( i need a scolarship in this) or going abroad for masters. how can i actually get to going abroad from here as clg starts in 30 days, and specifically for eth zurich. kya kya karna padega and what cgpa/extracurriculars do i need? also how does the cr
+
+
+★ [18] Any vit mtech students? Pleaseee helpppp
+  r/Btechtards | 2025-05-01 | https://www.reddit.com/r/Btechtards/comments/1kc9kii/any_vit_mtech_students_pleaseee_helpppp/
+
+  I am planning to join VIT integrated mtech  course. Does anyone know more about it ?I heard it has a hectic schedule. If anyone knows anything about these courses please do replyyyt
+
+"Integrated M.Tech. Program at VIT (Vellore Institute of Technology) is a distinguished 5-year course tailored for students who have completed their 10+2 (or equivalent) with a strong foundation in science, particular
+
+
+★ [16] VIT 1st year CS, what's the criteria for transferring to an American institute in a 2+2 program?
+  r/Indian_Academia | 2022-09-15 | https://www.reddit.com/r/Indian_Academia/comments/xf0qss/vit_1st_year_cs_whats_the_criteria_for/
+
+  My university VIT Vellore has a 2+2 program in which i study for 2 years at vit and final 2 years at a foreign institute. I also think I'll get opt because because I'll get degree from only the American institute and I'm spending more than 1 academic year there (2 years) so this program is quite appealing. I was wondering on what criteria does the American institute evulate the student? I'm thinki
+
+    → [12] I'm a fresher at VIT Chennai.
+They briefed us about the semester abroad program today.
+
+It was confusing ngl, so best would be to get in touch with the IR at Vellore.
+
+All the best!
+
+    → [5] Yeah. But semester abroad program won't get a u an American degree. What ur looking for is the international transfer program. I know this exists in vellore it should exist in Chennai as well.
+
+
+★ [15] Is vit vellore a good option for a girl student?
+  r/Vit | 2026-04-01 | https://www.reddit.com/r/Vit/comments/1s96zm8/is_vit_vellore_a_good_option_for_a_girl_student/
+
+  I am a girl and i just passed my 12th from Bihar. I want to study in a really good college whose degree is valuable but I couldn't study for jee or any such exams so I have to rely on good private colleges such as VIT. 
+
+But vellore is very far from my home town Bihar and I've never left my home town to travel or done anything so I'm a bit skeptical and confused if it's a good option, and if I'll 
+
+    → [38] The amount of North Indians here is much more than south indians ngl, so for your aspect there's no disadvantages
+
+    → [14] Same guy btw, who wrote this when someone committed  su1c1d3
+
+    → [8] I'm in fourth year too and i would disagree, it's not that people can't handle the "pressure of exams or da's", for a course like engineering, students need to be given time for personal projects and research especially when the curriculum is shit. I did end up with a good offer but the 4 year journ
+
+    → [7] VIT moles everywhere, trust me don't come here girl and don't listen to propagandists
+
+    → [6] you need 900-2k rank in viteee for cse out of 2.5 lakh.
+
+    → [4] Daddy sirf ek hai vo hai daddy vishwanathan
+
+    → [4] Sure, despite all the negatives, yeah it's shit but better than quite a lot of colleges. But being a girl student, you'd have lots of restrictions compared to boys. Especially outing (it means leaving the college campus). You need to enter campus by 7 otherwise you'll be fined. You have a limited ti
+
+    → [3] This comment is genuinely so ignorant it's frustrating
+
+
+★ [13] Currently Open Applications (Jan 8 Update)
+  r/JEENEETards | 2025-01-07 | https://www.reddit.com/r/JEENEETards/comments/1hw05ix/currently_open_applications_jan_8_update/
+
+  Hola people, in my continuous effort to keep everyone aware of open forms, I'm herewith starting with the 1st list below for 2025.
+
+* **AEEE:**
+   * Amrita University exam. Good Private University with ample Scholarships.
+   * Can be kept as backup.
+   * Exam on Feb 1-2. Last date Jan 25.
+* **AMUEEE:**
+   * Aligarh Muslim University exam. Nothing great, but if you may keep as backup.
+   * Last dat
+
+
+★ [9] How to apply for Examination Appellate Committee
+  r/Vit | 2025-01-07 | https://www.reddit.com/r/Vit/comments/1hvom2g/how_to_apply_for_examination_appellate_committee/
+
+  I'm 4th year student from vit vellore, I got 15 in My fat exam my faculty marked me zero in my 5 question even though he could have awareded some marks for attending it because it was in concept. If the same paper was corrected by other little lenient faculties means they would have given me 40 50 marks. I got my topper frd to see the paper and he said he could have awarded marks based on answer b
+
+
+★ [9] Is VIT Vellore actually good ??
+  r/Vit | 2025-08-27 | https://www.reddit.com/r/Vit/comments/1n1a56g/is_vit_vellore_actually_good/
+
+  if i am unable to score 98+%ile in JEE mains , leave alone adv , should i consider VIT Vellore ??? the placements and packages are descent its a tier 2 clg ig also the visitng companies are great , like if i actually work hard and gain skills other than what will be taught in clg , can i get a good package in a good company ?? or will me efforts be wasted coz of the clg ??
+
+    → [12] It's good if you get and maintain 9cg..youll have more opportunities and better infra compared to tier 2 nits and iiits
+
+    → [12] You wont get time here to learn new skills unless you are a 9 pointer
+
+    → [5] so , is the college curriculum good enough to secure a good package ??
+
+    → [3] Almost all colleges have same curriculum, all of them follow the guidelines given by UGC. But yes vit will give you a lot of opportunities if yk how to grab it. But it'll fuck you up a lot with absurd rules and shit, gets very frustrating at times. Idk why people say they don't get time to work on s
+
+    → [3] 9.3+ CGPA, And you constantly work on your DSA and development skills yourself , you can get placed in very good company
+
+
+★ [8] Need Advice from passouts or seniors
+  r/Vit | 2024-12-28 | https://www.reddit.com/r/Vit/comments/1ho82m1/need_advice_from_passouts_or_seniors/
+
+  I'm a 3rd year(2nd sem now) student in VIT Vellore, IT Branch. I got 9.3 in my 1st sem but I gradually fucked up and now it is 8.77. What do you think my chances are of sitting in placements or getting jobs? Is it sufficient if I just maintain this or I have to cross 9. Honestly 9 seems very tough now. Please help me
+
+    → [7] I am in 2nd year in a similar situation as yours ..but I want to know did you get any internship in ur 3rd year through oncampus ..and how many OAs you have given
+
+    → [6] You get to sit for all the companies given your cgpa is above 8.5(even 8 is fine) the problem is they will let you sit for all the exams for companies but your name will not be shortlisted.
+
+Think of it this way, a companies comes to vit, 6000 people apply for the role, out of this the company has t
+
+    → [3] bro i dont even have 8.5 i am really scared...its something 8.4 ish
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 CAMPUS LIFE AND CULTURE  (19 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [168] ICPC Prelims Results Analysis
+  r/Btechtards | 2025-11-16 | https://www.reddit.com/r/Btechtards/comments/1oytxug/icpc_prelims_results_analysis/
+
+  No. of teams in top 30 :
+
+* **IIT Patna — 4 teams**
+* **IIT Indore — 3 teams**
+* **IIT Roorkee — 3 teams**
+* **IIT BHU Varanasi — 3 teams**
+* **IIT Madras — 2 teams**
+* **IIT (ISM) Dhanbad — 2 teams**
+* **IIT Delhi — 2 teams**
+* **IIT Kanpur — 2 teams**
+* **IIIT Delhi — 1 team**
+* **International Institute of Information Technology, Hyderabad — 1 team**
+* **IIT Kharagpur — 1 team**
+* **IIT Hyderab
+
+    → [138] Where is the India's stanford -scaler school of technology?
+
+    → [42] Im a fresher here at IIT Patna. Did some research before and after coming here, since I have liked CP for a while now. IITP has been doing pretty well in all the competitive programming competitions like
+
+- Qualified for ICPC World Finals 6 times in the last 7 years (Better than few 1st gen IITs)
+- 
+
+    → [35] Vnr vjiet crazy my friend is from there
+
+    → [19] Nice to see my college performing again 😁
+
+    → [10] No competitive programming culture here :(
+
+    → [9] In top 30, no. Very few even in top 150.
+
+    → [6] 2 Highest rated people in CF from IITP are from Mech
+
+    → [6] Our clg's not there in the top 150 this year. Last yr our clg had an ICPC Aisa-West rank 19 team. Hopefully I'll be able to witness my clg in the top 150 next year as we have a soon to be Codeforces Master in the clg
+
+
+★ [72] Rant about my parents.
+  r/JEENEETards | 2025-05-11 | https://www.reddit.com/r/JEENEETards/comments/1kjxus2/rant_about_my_parents/
+
+  So after doing not so well in JEE 2025, I decided to take a drop. Now my friend's mother and my mother are very close friends. Today in the afternoon, my friend's mother calls my mother saying that my friend has got chance in VIT Vellore and he has taken admission. 
+
+I decided not to give VITEEE this year coz why waste money on exam fees when I know I will take drop either way and will try another
+
+    → [54] Chhoti chhoti baato pe tension le lete ho
+
+    → [14] Bhai koi na mummy ko bharosa dilwao that you can deserve better than vit, study hard and crack a good government college.
+
+    → [13] Life is so big to get tensed brother
+
+Time ke saath sab normal hojayega tension mat le
+
+Nhi to Mera profile dekh skta hai
+
+    → [9] Abe hojayega tera tension mat le bas mehnat kar.
+
+    → [7] abhi kuch mat bol aur padhne pe dhyan de .... Agle saal jab better college milega tab unko khud smjh aa jaega 
+
+Aur nahi mila to tujhe smjh aa jaega
+
+    → [3] Unki baat bhi sahi hai cuz she is tensed ki agar galti se kum aaye ya kuch toh pura saal waste hoga
+
+    → [3] jb kuch bda krne ka socho toh koi na koi rokega hi tension mt lo aur aage badh jao aur dekho yaad rakhna kaun support kiya tumko tumhare low point pe 
+
+  
+from a dropper
+
+
+★ [67] week Experience !!
+  r/Vit | 2024-08-04 | https://www.reddit.com/r/Vit/comments/1ejomuo/week_experience/
+
+  So..I'm a fresher at vellore campus from cs core..
+just a week has been passed attending all classes and all...first of all the schedule like wtf is this...
+50 mins classes 2 hour break again 50 min class lab soo on...run from prp to hostel have your lunch breakfast and again walk to classes..
+Freshers not allowed to Go out for 3 months i asked Proctor why he said cause u all don't know about the 
+
+    → [43] and that's why i like being alone :)
+
+    → [35] What else are people supposed to ask on first day
+
+    → [27] bros got an issue with people shaving 💀
+
+    → [25] Nah man wants to make shaving illegal ffs
+
+    → [23] "beautiful not handsome" bro stop pls💀😭
+
+    → [17] i realised and doing the same :)
+
+    → [13] The only real problem in this entire rant is probably the 3 months ban. That's it, everything else is same every where. Not something specific to vit
+
+    → [13] oh boy you're gon have a bad bad college experience with this brain structure
+
+
+★ [44] Fake withdrawal submission, need urgent help
+  r/Bitsatards | 2024-07-31 | https://www.reddit.com/r/Bitsatards/comments/1egfc9t/fake_withdrawal_submission_need_urgent_help/
+
+  I had just been a victim of fraud that lead to my seat cancellation in  
+bits.I was alloted Bits Rmit Cs programme and had paid the fees.But  
+somehow my details got leaked and someone known applied for withdrawal  
+of my seat out of jealousy.And that someone was my cousin who took my phone for a few mintues saying that he was just loggin into his insta, I believed him but later that evening when 
+
+    → [31] Gaand maarde apne cousin ki bhai. Mein hota 5oh maar daal ta , uske maa baap ko bhi nahi chodhta.
+
+    → [22] Head to the nearest BITs campus. Call and emails are risky
+
+    → [14] 👺CONTACT BITS OFFICE ASAP POSSIBLY THE NEAREST CAMPUS AND HAVE A TALK WITH THE MOST SENIOR PERSON OF ADMINSTRATION THERE
+
+Also beat your cousin's ass first and tell his parents and demand monetary fees and also tell your parents itself
+
+    → [13] Woh toh maarli lekin admission ka kya krun 🥲 atleast 24hrs mein withdrawal cancel ya fir next round mein wapis register ka option toh dena chahiye bits ko like other pvt institutes...
+
+    → [12] Aisa chodu cousin toh dushman ko bhi naa mile.
+
+    → [12] First of all beat the shit out of that cousin. BC aisa kaun hota hai.
+
+Secondly BITS GOA jaana padega shayad karwaane ke lie...
+
+    → [11] you should rush to the nearest bits campus, no one here is 100%sure that this can be prevented and your visit to the campus might give an impression to the authorities that you are serious for your admission.
+
+    → [9] But campus mein jaake bhi kuch ho skta haii?? and  i am from jaipur so nearest is pilani
+
+
+★ [27] College Tier (but a better and more descriptive ones)
+  r/JEENEETards | 2022-08-19 | https://www.reddit.com/r/JEENEETards/comments/ws99zi/college_tier_but_a_better_and_more_descriptive/
+
+  ## Engineering College List in India
+
+### Tier-I Colleges
+
+#### 1.1 (Old IITs, IIIT H, BITS Pilani)
+
+* IIT Bombay
+* IIT Delhi
+* IIT Kharagpur
+* IIT Madras
+* IIT Kanpur
+* IIT Roorkee
+* IIT Guwahati
+* IIIT Hyderabad
+* BITS Pilani (Pilani Campus)
+
+#### 1.2 (Not so old IITs)
+
+* IIT Indore
+* IIT Ropar
+* IIT BHU (Varanasi)
+* IIT ISM Dhanbad
+
+#### 1.3 (Other IITs and Top Govt. Colleges)
+
+* DTU
+* NSUT Del
+
+    → [13] Placements dekhle bhai MAIT,USICT ki
+
+    → [10] Sare private walo ki gaand jaL rahi hai comments me
+
+    → [8] IF U MAKE ONE FOR MEDICAL COLLEGES, i will MYSELF buy a reddit award from my pocket money of 2.5k and gift u
+
+    → [7] Makes sense but, IIT hyderabad beats IITG in almost everything except alumni. And all of this in constructing phase. Its cutoffs are already better than IITG if not above it. Also glad to see MKBHD enjoyer here 🤝
+
+    → [6] Dtu(1941) has no campus lol
+
+Bro thik to hai nah 160 acre ke college ko campus hi bolte hai bhai
+
+    → [5] Iit Hyderabad should atleast be 1.2.
+
+    → [4] and since when did we start to compare colleges on basis of just the Highest package?
+
+    → [4] I need to know how much "decent" companies will pay
+
+
+★ [23] Vellore Institute Of Technology 🌇
+  r/Vit | 2024-05-16 | https://www.reddit.com/r/Vit/comments/1ct6q0k/vellore_institute_of_technology/
+
+    → [3] damnn beautiful which campus tho
+
+
+★ [17] any girls planning to go to mit manipal for cse?
+  r/Btechtards | 2023-06-09 | https://www.reddit.com/r/Btechtards/comments/1450pc6/any_girls_planning_to_go_to_mit_manipal_for_cse/
+
+  im getting core cse in both mit manipal and vit vellore, now all that matters is overall experience of 4 years because academically i think they're mostly similar.
+
+but ive only heard that mit manipal culture is bad(esp for girls) and all that even though all the seniors i spoke to are saying the drug situation is not that bad.
+
+so help me choose which one would be the best option(vit vellore or m
+
+    → [17] How is this even an argument ? Second year CSE at Manipal when you hopefully join  .
+
+Manipal has an extremely liberal culture . Nobody will ask you anything about the way you dress , the people you talk to , the clubs you join . This will allow you to explore all parts of life and meet all differen
+
+    → [11] >That might be the only drawback.
+
+or is it?
+
+    → [10] either youre lying abt your mains core or your exams went real bad. dude you have very high marks in viteee and met. either way try for bitsat 2nd attempt if you have registered, otherwise go for manipal if you want to be treated as a human being and not a criminal.
+
+    → [9] I believe it's important to grow . School like strictness isn't suited for college where you're making a transition from childhood to adulthood. You should be put in a situation where you make decisions for yourself and evaluate the consequences of your decision . 
+
+The party culture and drugs are o
+
+    → [9] Bits do bhai pkka acha kr jayoge
+
+    → [7] Bro you are 18... You need to start taking decisions by yourself... The school system won't work..
+
+    → [6] 294 vit rank damn mere 10 guna aaye hein wtf
+
+met mein mere 145 aye hain, are u on drugs bro like wtf 
+
+context (bitsat 303)
+
+    → [6] Yeah. MIT is way better than VIT and i highly suggest you to join there. You'll get way better exposure there and obviously better peer group. 
+
+Vit is too crowded and it's highly competitive, i won't really suggest that when you have mit has an option
+
+
+★ [16] Details on college life
+  r/Vit | 2025-03-27 | https://www.reddit.com/r/Vit/comments/1jlgjjs/details_on_college_life/
+
+  So guys I will be joining vit vellore most probably this year can anyone give a detailed review on college life be honest pls every detail matter! And how is the hostel and mess ? I plan on having a good time here anything i should be seriously worried Abt all the mix comments are driving me crazy for real !
+
+    → [18] Good luck kiddo, your “plan of having a good time” here is a dream
+
+    → [15] VIT Vellore: A place to grow frustration and a chance to learn how to be slaves.
+
+    → [8] Restrictions are unreal. These fuckers try to cover everything up and If we complain or talk about it on social media, they remove it and might expel you from the college as well. They impose whatever the fuck they want and we can't do shit about it since we signed the student code of conduct.
+I'm n
+
+    → [7] If you are joining this college, then I wouldn't talk shit(truth) about it
+
+    → [4] It's even worse for girls. They can't go on trips or visit places from the college. They should go home first and then they can go wherever they want to.
+
+    → [4] It depends on u how ur college life gonna be 
+Luck matters a lot also
+Mine is horrible sadly
+I tried though
+
+    → [3] Don't take it personally but after seeing many posts from all the Freshers joined in 2024 I am telling.
+You guys are not mentally strong at all. Till now you might be from a school and or college that has been populated with 1000 or max 10000 but in vit the population is nearly 40-50k. When there ar
+
+    → [3] Damn ! But it does not matter to me I am a boy ! So genuinely asking as I want a mix of both college life and a safe career and after all I am out of options now so my best bet are vit or manipal ( manipal depends on board marks ) rest all colleges are low tier so is it worth considering or not ?
+
+
+★ [13] ChocoBerry Near VIT Gate 3 Straight Outta My Car Dikki 🍓🚗
+  r/Vit | 2026-03-04 | https://www.reddit.com/r/Vit/comments/1rkv91c/chocoberry_near_vit_gate_3_straight_outta_my_car/
+
+  Hey guys! 🚗🍓
+
+Just started a small ChocoBerry stall near VIT Gate 3 Straight Outta My Car Dikki 🍓🚗
+
+If you’re around campus and craving something sweet, come try:
+🍓 Fresh strawberries dipped in rich chocolate
+🍫 Loaded choco cups
+✨ Budget-friendly & made fresh!
+
+Perfect for post-class cravings or late evening sweet runs 👀
+
+Would really love your support ❤️
+Drop by, bring your friends, and let me kn
+
+    → [4] It’s ₹140 😊
+Fresh strawberries layered with Nutella and topped with crushed Almond. Made right in front of u....with fresh strawberries 😋
+
+    → [3] Make money ofc what is this question😭
+
+
+★ [12] How are the living conditions at VIT vellore? The city and general student hostel life.
+  r/Indian_Academia | 2020-07-31 | https://www.reddit.com/r/Indian_Academia/comments/i1ejok/how_are_the_living_conditions_at_vit_vellore_the/
+
+  Ive applied to VIT, MIT and MUJ.
+I already got in MUJ and will appear for MET on 11th which I'm not sure I'll crack.
+My 12th result is 95% so I'm thinking I'll get in VIT. 
+My preference is MIT>MUJ>VIT
+Altho I'm not sure, VIT is supposed to be better but the hostel images and details I could find online make it look like living in hell. Okay, me being a lil bitch, I need a certain lifestyle and st
+
+    → [8] Dude the grills don't exist so that they don't fall on you. They exist to stop people from committing suicides. But I still  hear a few suicides happen every year:(
+
+    → [6] Bruh this "im a sobo ocd guy" attitude won't work when you'll have to inevitably adjust in college
+
+    → [5] VIT CSE (1st cat) > MUJ imo, I've got them both too but I'm choosing VIT. If I get MIT I'll go for that obvio. VIT is better than MUJ recruitment wise, but if social life is really a priority then MUJ is also good. Its unees-bees ka farak tbh.
+
+    → [4] I am in the exact same situation as you. Got 95 percent in 12th and applied for VIT and MIT but not sure of cracking MIT as my preparation has been down for the past 3 months.
+
+As you said I too believe hostel life is better in MIT than VIT from various reports not sure though. 
+
+Btw on a side note 
+
+    → [4] Ok first of all, I LOVE YOU 
+Been worrying for a while now. Tanks :)
+
+Also if you gonna be dropping at MUJ, hmu yo
+Never actually met a fellow redditor
+
+    → [3] I will be honest to you I don't study in VIT. That's what my friends who study there told me. I genuinely had never thought about it now that you mention it. I had just taken their words at face value
+
+
+★ [10] Need Blood Donors from VIT Vellore Campus Students
+  r/Vit | 2026-02-19 | https://www.reddit.com/r/Vit/comments/1r8l3n4/need_blood_donors_from_vit_vellore_campus_students/
+
+  Urgently need 2 Any Blood Group Donors at Sri Narayani Hospital, Vellore
+
+Please respond if you can or know any friend who can donate.
+
+
+★ [9] Unpopular opinion (?) - SRM, VIT Vellore and many such ridiculed colleges are way better than you think.
+  r/JEENEETards | 2023-08-03 | https://www.reddit.com/r/JEENEETards/comments/15h1110/unpopular_opinion_srm_vit_vellore_and_many_such/
+
+  For context - l am a dropper who scored -95.6 percentile in JEE mains last year, average ik, was getting msc type branches at IITR, but left it and took a drop and scored 98.8 percentile in MHCET this year, l am getting entc at VIT Pune which is apparently among the top 3 colleges this year, so far, even though you might feel my scores aren't anything extraordinary, l have wasted all 3 years only 
+
+    → [27] Mht cet ke liye drop liya tha bass? Bhai jee mains, adv, bitsat, ugee, wbjee, kcet pata nahi kitne saare exam aur tune bad mht cet dedi?
+
+    → [21] 💀bro dropped for jee and didnt give jee
+
+    → [7] Those are good colleges for someone who doesn't study as much or isn't that intelligent but in the grand scheme of things there are probably 70-80 colleges better than them and way more colleges which are worse than them
+
+    → [6] you can get IIIT Allahabad at 99.1, EE/ECE in first 5 NITs. CS in Durgapur or etc. Don't know who told you this lol.
+
+    → [6] l didn't drop for JEE because last year the mhcet counselling processes were delayed till November leaving only 2 months for JEE mains, and l knew my luck isn't good enough either to cover up for JEE in just 2 months, l only appeared for MHCET this year and Gujarat CET. I also started having breathi
+
+    → [5] bhai what, that's absolutely not true 💀
++ Female Supernumerary Quota
+
+    → [4] try researching about incidents about srm girl students
+
+    → [3] Yeah absolutely right 👍 no one is waiting at iits and nits to welcome you with your so called dream package when you are going to tier 1 clg every other person there is competition oriented as toppers also study there your competition becomes more fierce
+
+
+★ [9] Club's in vit vellore
+  r/Vit | 2024-07-20 | https://www.reddit.com/r/Vit/comments/1e7ynzo/clubs_in_vit_vellore/
+
+  I'm a fresher of ECE in vit vellore and I want to know what club's will be beneficial for me later on in 3 rd or 4 th year and if there of any club fees and if so what will be the range of fees
+
+    → [6] Well there are no fees for joining clubs
+
+
+★ [9] Buying access of VTOP of a 2nd/3rd year CSE Core senior from Vellore Campus for 3 hours for 300 rupees.
+  r/Vit | 2025-05-17 | https://www.reddit.com/r/Vit/comments/1kok699/buying_access_of_vtop_of_a_2nd3rd_year_cse_core/
+
+  I want the VTOP of a senior of CSE Core senior from Vellore Campus for 3 hours. I am willing to pay 300 rupees. 
+
+My credentials :-
+
+Just completed 1st year, CSE Core , VIT Vellore.
+
+    → [15] nigga what 😂, why tf u want that?
+
+    → [4] Vit's official academic site for their students and teachers, everything related to the college can be accessed there
+
+    → [4] Just go to ur vtop and get full 4 yrs courses list , if the course number starting with 2 then it's a 2nd year course. U can prepare on that if u need any materials just ping in chats or posts seniors may dm you
+
+    → [3] According to my sources ,people have started preparing for 3rd sem. That's the reason.
+
+Source:- Trusted.
+
+
+★ [9] Which laptop to buy? (Vellore CSE)
+  r/Vit | 2025-06-20 | https://www.reddit.com/r/Vit/comments/1lg46on/which_laptop_to_buy_vellore_cse/
+
+  I'm joining VIT Vellore CSE this year, and am probably gonna need a new laptop. Currently I have 2019 Lenovo Legion 5 (i7-10750H 2.60GHz, 16GB RAM, GTX 1650Ti), which I bought in 2020. The only problem is the battery life is absolutely terrible now (1.5-2hrs max). So which new laptop would y'all recommend? I still want to be able to game properly, so maybe a gaming pc (RTX 50 series) with good bat
+
+    → [8] buying a macbook is a violation to one's freedom in many ways. it is definitely easier and convenient; but that's it.
+
+For people who dont or cant care to change settings, run batch scripts, or install another OS; it might be a not-so-bad decision; but for those who can.. its hard to justify in most
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 SAFETY AND CONTROVERSY  (2 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [31] VIT Vellore refund fee scam.
+  r/india | 2020-09-20 | https://www.reddit.com/r/india/comments/iwlx3n/vit_vellore_refund_fee_scam/
+
+  [deleted]
+
+    → [17] They are known scammers. Accidently joining the college would've been the scam of your life , so be grateful you didn't fall into the trap and go after these idiots.
+
+    → [8] First take the admission in the new college. Then ask  them nicely to payback your complete fees. If they do not give you your fees back then lodge an FIR and take police men with you. Just remember they can not force you to follow there own created rules. They have to follow the set rules by AICTE 
+
+
+★ [5] I need some advice.
+  r/JEENEETards | 2023-07-18 | https://www.reddit.com/r/JEENEETards/comments/152rbnu/i_need_some_advice/
+
+  This is my first time posting on reddit so please be helpful.
+
+I am getting VIT-AP CSE but i know from all the reviews out here that it is not as good of a college as VIT Vellore. I seriously want an opinion from members of this subreddit if i should convince my parents for letting me try again as a dropper or should i just take this option and go to VIT. I secured 68%ile in Jee Mains and I want t
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 INFRASTRUCTURE  (69 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [618] How IIT feels after studying at VIT
+  r/Btechtards | 2025-10-23 | https://www.reddit.com/r/Btechtards/comments/1odvfah/how_iit_feels_after_studying_at_vit/
+
+  I've done my btech at VIT Vellore and now finally IIT. The first thing I've noticed is how less crowded this place is. It's twice as big as my previous campus but 6 times less crowded. Great infrastructure great campus.
+Every research I see is something bigger and deeper than I have ever heard or seen at VIT. Here they make solutions for industry and it needs to solve a real problem. Lot of learni
+
+    → [49] After gate, few IITs have their own exam as well. (Very branch specific exams)
+
+    → [25] If you're gate score is not good enough for that branch but your subjects related to the branch are strong then this is an option
+
+    → [13] He did what every guy who goes into private college dreams
+"Private college se btech karke master iit se karunga"
+
+    → [13] For right reasons, Guwahati is the 7th best IIT, followed by BHU and then comes Hyderabad.
+
+    → [10] Imagine ur whole identity being an exam you passed years ago. Since we're asking pointless questions where's your acceptance letter from Harvard? We all have our disappointments
+
+    → [8] Why don't you win a Nobel prize and talk
+
+    → [7] ig btechtards in IITs take everything for granted. they have nothing to compare it with.
+
+    → [7] U joined immediately after btech?
+
+
+★ [445] Ethics module of Vellore institute of technology
+  r/india | 2018-12-21 | https://www.reddit.com/r/india/comments/a875om/ethics_module_of_vellore_institute_of_technology/
+
+    → [37] > leads to aadhar cancellation
+
+I can't stop laughing
+
+    → [14] This guy be thinking South India is like the West or something
+
+    → [14] 'cause men never regret having sex. Every man just wants unlimited pussy.
+
+Right? RIGHT?
+
+    → [11] It's not like men have emotions are anything
+
+    → [10] Its an average college that thrives on having a rich politician as its Chairman/Owner & a ridiculously good marketing team.
+There are atleast 7-8 Engg. colleges in Tamil Nadu alone that are better than VIT
+
+    → [10] I'm just saying people don't realize how British neglected UP/Bihar and totally destroyed their economy.
+
+And even after Independence these states have gotten the least funding compared to all other states for development from our central govt.
+
+    → [10] Why is it that these days, colleges from the South behave like complete prudes. I don't think such shit would fly in Bombay where I am from.
+
+    → [9] What the fuck is a mini-divorce? Wait, never mind. I added it to urbandictionary. Should show up soon
+
+edit: https://www.urbandictionary.com/define.php?term=mini-divorce
+
+
+★ [428] VIT placements Scam
+  r/Btechtards | 2025-10-07 | https://www.reddit.com/r/Btechtards/comments/1o07h1j/vit_placements_scam/
+
+  I joined VIT vellore in 2022 in hopes of getting decent placements, I studied hard maintained 9 cgpa, developed real world skills , and the ground reality of vit is so so bad in terms of placements, literally in 3 months around 100 companies came , because I was 9 pointer so I was able to give every test but my non 9 pointers friends aren't Even allowed to give tests, just pure disaster. The real 
+
+    → [80] I am from VIT 2022 batch and can second this, it's just too worse for the amount of fees they take. Apart from fuccked up placements, the college life is too worse. Don't come here, join local college instead.
+
+    → [45] There are 200-350 mtech cse students there. When life will leave you at a moment that what ever the opportunity i will get i shall grasp it, then you’ll remember who tf joins vit for mtech. No one enters into college be it mtech/btech with the dream of getting placed at service based company with a 
+
+    → [29] You don’t know a thing about me bro. How many hackathons i won or the publications i published or the projects i made or how much did i code. Know matter how hard i tried, i was always pulled down. I was the kind of person about whom everyone thought that “iski placement nahi lagi to bhai kisko mile
+
+    → [27] This has been a norm in VIT for a very long time. Only now, because of the sheer volume of kids they are shoving in, the impact is much more prevalent. When we saw the intake for the 2025 batch and 2026 batch, we were very happy..... Because accommodating such an ungodly number of kids, without the 
+
+    → [17] My dad told me to apply for the viteee councelling and I told him that I would rather commit a crime and go to prison than go to vit. Although I believe they are the same thing. Seems like it was the right choice
+
+    → [14] Who tf joins VIT for m.tech ? Are you that dumb ? Leave engineering
+
+    → [12] Bro there are 9k people only 1600 ppl placed lmao
+
+    → [10] But the scene of local colleges is not so good bro . Atleast you have 100 companies that have visited here at the local college you don't have any exposure. Literally 0 companies have visited college. I am currently in final year at a tier 4 college in Maharashtra. No exposure to new environments no
+
+
+★ [411] Father lost job and I have 10 months left for placements to start
+  r/developersIndia | 2025-07-26 | https://www.reddit.com/r/developersIndia/comments/1ma10nd/father_lost_job_and_i_have_10_months_left_for/
+
+  Hi y’all, I’m pursuing BTech CSE in VIT Vellore and just discovered that my dad lost his job 1 month ago and in his field the market is terrible. Financially, we can survive for 2–3 years more with the savings.
+
+My mom told me this today and said I’m the only hope, and this made me feel like shit for wasting 2 complete years of my college. Now I just want to do something for them.
+
+I have no clue 
+
+    → [5] Solid advice.
+
+OP big words and projects work for screening but actual conceptual clarity will take you places.
+
+Work hard- get used to it.
+
+Your life will be well.
+
+    → [4] Have learnt complete java core se 17, thank you for everything tho
+
+    → [3] There are various kinds of project domains like mobile applications Ai applications, data science analysis,  pure front end ,pure backend . Do projects as per your interest.Make sure it is innovative and try to complete it.
+
+Also ull have to change the projects on your resume based on the job descri
+
+    → [3] Hellow in ats friendly resumes do u need very good projects like some hing end with many techstack.
+What I have don't on my project si simple node express mongo db. A ecommerce site basically.
+
+Then a project which is a online social media reporting made uisng simple html css but integrated again wi
+
+
+★ [278] !!!THE APRIL STARTEGY!!!
+  r/JEENEETards | 2025-01-26 | https://www.reddit.com/r/JEENEETards/comments/1iai2sw/the_april_startegy/
+
+  I have some few pointers to make taaki ham directly point pe jaa sake 
+
+This is not a strategy but more of a ab agar tumne jan attempt hagg diya hai toh ab what can you do better and what other options you have 
+
+1)Alternatives ya phir JEE ke alawa tum konse exams de sakte ho 
+
+**1)Priority Exams** \-
+
+JEE Mains - For Selection in NIT's, IIIT's, GFTI's etc.
+
+JEE Advance - For Selection in IIT's, I
+
+    → [14] Can you suggest something for non-hindi speakers?
+
+I know most of them are shit but is there any underrated ones?
+
+    → [7] backup nahi hai bhau , logo ko pata hii nahi hota ki aise bhi entrance hote hai , it is good agar ham log logo ko atleast bataye toh , jo khali jee ka form bhar dete hai and agar nahi hota toh koi bhi college nahi milta becharo ko , then they regret , ki woh exam ka entrance bhar lete
+
+    → [7] nah , uss aadmi se mai inspired hu
+
+    → [6] Sir aap wohi ho kya jo dec end me 90+ %ile and April me 97+ %ile ka roadmap diya tha 🥺
+
+    → [5] Underrated only english speaking channels? eh very hard to find... tho try to find shree chaitanya's covid time lectures
+
+    → [4] koina bhai , hojata hai kabhi kabhi
+
+    → [4] well let me try finding something i do have some friends in south , let me ask and tell you
+
+    → [3] finally someone speaking up about it, i think I learnt more Hindi from these lectures than I did from my school (1st-10th) XD  
+for chem I use- general organic chemistry tutor (for concepts I used ncert to study) and   
+phy eduniti- I suggest if u don't understand any word then translate it and writ
+
+
+★ [275] Feeling Surreal now
+  r/Vit | 2025-06-18 | https://www.reddit.com/r/Vit/comments/1le9kwy/feeling_surreal_now/
+
+  Hey guys I'm 22M from VIT Vellore. Honestly I feel so overwhelming now. I remember when I entered College hopelessly with so much anger that why should I study engineering and I am gonna stay unemployed like that. I got so many backs in my first and second year and got admitted in hospital due to Acute Pancreatitis and Food Poisoning and I was facing so much mental health issues. Only after end of
+
+    → [92] Bro got a whole redemption arc
+
+    → [24] I thought only negative comments would get the upvote .I don't know reddit has a wholesome side .btw thanks for the upvote
+
+    → [22] please post more content like this, seriously need feel good stories.  
+Helpless and out of options, VIT is only hope, but when people start ranting I feel like I am doomed
+
+    → [17] The important thing is you got up again and didn't accept failure. This is the most important lesson. Many would just give up because that is the easier option. You are an example for many youth out there and your story needs to be heard.
+
+    → [17] ![gif](giphy|POyQhPuTeDTIGOOln6)
+
+    → [15] Good job brother
+Welcome to the club. I still have 3 backs, 7th sem starting soon. I don't want to stay for 8th. But from 1st year having 5.8 cgpa to present 7.04, it's also not very good but hearing your story of slow gains and doing your best is great
+
+All the best with your life ahead. Never give
+
+    → [8] I think this is irrelevant in this context.
+
+    → [6] ig there's nothing here to add lol at the end. People just be making fun of someone else's story!
+
+
+★ [255] Vellore Institute of Technology, Bhopal, suspends Neeraj Bishnoi from the University with immediate effect until further notice. Bishnoi had been arrested by the Delhi Police Special Cell's IFSO team for the alleged involvement in the Bulli Bai case [ANI]
+  r/india | 2022-01-06 | https://www.reddit.com/r/india/comments/rxfj4q/vellore_institute_of_technology_bhopal_suspends/
+
+    → [188] At least someone  from my university got famous. As a Alumni I am impressed.
+
+    → [92] In a local interview, Bishno's parent say... My son is innocent, he is being framed. He passed metric with 86% for which he got a govt. laptop, then passed HS with 86%, we are very poor. He is not capable of this.
+
+Yeah, and Hitler was a vegan.
+
+    → [86] Wot, there is a VIT in Bhopal?
+
+    → [65] Yeah. Noone is poor if they can afford a VIT fee structure. 
+
+Source: My college debt
+
+    → [51] [Meanwhile, Dayanand Sagar College of Engineering in Bengaluru:](https://www.thenewsminute.com/article/dont-drag-our-name-it-bengaluru-college-student-accused-bulli-bai-case-159506)
+
+> We Don't wAnt oUR colLEge name dRAgGeD INtO ThiS. unLeSS iT's prOVeD, LEt Us not briNg CErTAiN thINGs Into The Pict
+
+    → [41] Badnam hoga par naam toh hoga! #Sigma_Rule
+
+    → [37] As clear as the accused it I believe colleges should not take any disciplinary action untill convicted. If they do they should take the disciplinary action back incase the accused is innocent. 
+
+Think it in this way an innocent has been rounded up for investigation and gets suspended. But later trut
+
+    → [31] Whats Vellore doing in Bhopal?
+
+
+★ [197] Why me, rather, why not me?
+  r/developersIndia | 2023-12-16 | https://www.reddit.com/r/developersIndia/comments/18ju4il/why_me_rather_why_not_me/
+
+  Hi... Folks.
+
+I am talking about brilliance of the brain, miracles of highly intelligent minds, scattered across the world, but not known to anyone.
+
+To introduce myself, I'd just say that I did some things before anyone did, perhaps on this planet. Trust me, I'm not writing to flatter myself.
+
+Before Apple created their apple tags, I had the POC of a product called 'Finder' ready in my home.
+
+In 
+
+    → [140] idk post your inventions demos on linkedin communities
+
+    → [99] Never been that intelligent. So sorry, can't understand your situation. But I guess achievement doesn't just mean building something in your room. Getting it out to the people is when it's called a success.
+
+    → [50] 10years back I wrote a film story on how one vote matters and shared it with a director. Peepli love and Martin Luther king and two movies based on same plot. I haven’t seen the movie, my brother who was watching Martin Luther king movie (south) came up to me and said this is what you had written.
+T
+
+    → [40] Several possibilities:
+
+1. You’re a genius but not visible. In which case learn copywriting and public speaking. Ton of ROI
+2. You’re not really a genius and know it… In that case, you need to understand that you can not be a genius, but still super successful.
+
+PS: It takes a lot more than POCs to 
+
+    → [36] Actually a good idea. Paper trails are important. Some form of tangible proof of concept is always good to have.
+
+    → [28] I want to be your friend. My advice to you is show off your work in public, make YouTube videos, post your work on LinkedIn. If you don't show off and sell yourself highly, nobody will notice you.
+
+    → [21] >Before Apple created their apple tags, I had the POC of a product called 'Finder' ready in my home.
+
+No big deal, many people have these ideas but implementation is more important 
+
+>In Vellore Institute of Technology, in 2017, I created an Antenna that could listen on WiFi bands as well as the mil
+
+    → [18] Man looks like this shit happens to many people, it's unfortunate isn't it but to look at it in a easy way, people do say
+
+"Ideas are cheap, it's the implementation that matters"
+
+After all, half of indias "unicorns" are just copycats of other ideas (ola, swiggy, etc etc)
+
+
+★ [159] BASIC CIVIC SENSE IN VIT
+  r/Vit | 2025-02-02 | https://www.reddit.com/r/Vit/comments/1ifly09/basic_civic_sense_in_vit/
+
+  Vellore 
+It's been 3 years living in VIT university, changed the hostel thrice.......I don't know why the fuck the so called high standard, rich, and educated students of vit don't even FLUSH after using toilet. 
+Idk from where they belong to........"bhai tu khet me hi chala jaa"
+Each and every day since last 3 years......I am supposed to see unflushed toilet seats after waking up 😑
+
+    → [150] Personally I like to flush and leave the cover down so whoever comes in after is like "oh no" but then sees it clean and that makes their day just a little better😊
+
+    → [39] Are you that F block god?, I pray to god hai mata di and open the lid to see that spotless pot and then I say bless that soul
+
+    → [39] i don't understand how ppl are comfortable with someone else seeing your poop
+
+    → [32] I could replace South Indian with North Indian and it won't make any difference. Quit being racist dawg.
+
+    → [16] I hope you get 10 cgpa this semester
+
+    → [16] ![gif](giphy|1xkbYORkrtKNdJkPgT|downsized)
+
+    → [15] Bhai ab to har roj ka hogaya hai 
+
+Subah subah darshan hojata hai 😭
+
+    → [13] Quit it with the saar bro. You just reinforcing hate to each side. Both parties have people who don't flush.
+
+
+★ [143] Darkshit of VIT, is it true!? r/redtaganna . ANON POST
+  r/JEENEETards | 2024-03-29 | https://www.reddit.com/r/JEENEETards/comments/1bqjd9c/darkshit_of_vit_is_it_true_rredtaganna_anon_post/
+
+  If you saw that message, it was from a burner account because I don't want to be suspended or debarred from placements when I'm so close to getting my degree and leaving this hell. I'm 20 yo.
+
+I'm a student at VIT Vellore which is an autonomous private college in Vellore, Tamil Nadu owned by G Vishwanathan(who was a politician). If I use my right to freedom of speech and dare to post something aga
+
+    → [53] Fuck vit mein toh manipal jaunga
+
+    → [41] Why this post didn't get attention? Kya kar lega G vishwanath bsdka yaha par? OP dm me, we'll do the post again and I'll pin it. Someone needs to blow the whistle.
+
+    → [37] Upload this from a burner account from a random internet cage so you don't get traced
+
+    → [17] Bhai, wiki pe dalne se VIT ke dark secrets aur bhi viral ho jayenge. Spread the word, bro! 🤘
+
+^(i am a bot ˃ ᵕ ˂)
+
+    → [8] Man vit is shit I knew it from starting Acha hua aur bhi forms bhare h mne
+
+    → [7] Baaki time bachee vit se upar ke sapne hi leke bethe hote hai end ke time mei jinhone backup nahi rakha thaa unko vit hi dikhta hai isliye bachee faste hai
+
+    → [6] Thank God Maine vit ka form nahi bhara
+
+    → [6] Mai to phele hi kha tha ki vit tier 3 garbage hai
+
+
+★ [123] HoD needs to chill.
+  r/Vit | 2025-01-03 | https://www.reddit.com/r/Vit/comments/1hsggjm/hod_needs_to_chill/
+
+  Hi,  
+So I am a senior in VIT Vellore. I have not taken part in placements and don't have an internship atm to leave this clg. Went to the hostel office in MB to ask them if I could go to my home instead of staying in clg(as I have completed all my courses). The person there told me to just write a letter stating my purpose and to take the signature from HoD and Dean and upload it on VTop. 
+
+I did
+
+    → [77] Give her a peoper lesson as soon as you get your degree. First explain the scenario and then slap that bitch if she tries to interrupt in the middle of the crowd . That'll be purely satisfying
+
+    → [34] Switch from being a hosteller to a day scholar by using a nearby friend's house as proof, pretending it is your relative's house. This allows you to register as a day scholar while continuing to stay in your actual home.
+
+    → [25] This is one of the biggest problems in VIT administration. No one there knows anything. It's a waste of time explaining anything to anyone in the office. They just keep saying "We don't have any information about it, you will get a mail regarding that" I know I will but then what are you here for?
+
+    → [24] Dont u have to do project 2? I don't think u can go home as of now
+
+    → [22] I wish you slapped the shit out of that bitch
+
+    → [20] *Tell me you met Uma devi without telling me you met Uma devi* 
+
+Idk what on her laptop that she can't leave for a second even when talking to parents. It's so pretentious. No u r not busy when you are talking to someone you scheduled a meeting with. If u r busy that's ur problem not mine.
+
+    → [11] UMADEVI should make her way to the SJT terrace , stand on the edge and move a step ahead and die . I swear , VIT will become bit better.
+
+    → [10] I do... but you can get permission from your guide(depending on the guide if they allow for an online project or not) to do your project from home, provided you have no backlogs and are a Non-PAT student.
+
+
+★ [121] Thapar first round cutoffs 2025 💀
+  r/Btechtards | 2025-05-19 | https://www.reddit.com/r/Btechtards/comments/1kq89sx/thapar_first_round_cutoffs_2025/
+
+  For a second I was in disbelief , the crowd quality in thapar has reduced significantly, 2.5 lakhs for cse branch at a tier 2 college is not acceptable, 2022 batch would be the last batch which would have a good placement season , after that thapar is going for a downfall and would most likely be saturated like Vit vellore . Colleges should not increase intake just for their benefit , also I think
+
+    → [81] lmao ye fir shuru ho gya , toxic ahh ex , 2 saal ho gye tujhe thapar chodhe , move on bhai
+
+    → [79] fir aa gye thapar ke matter mein apni unnecessary opinion dene stick to LNM bhai😭😭🙏🏿
+
+    → [31] Haa lnniit ke 24 passout vale kitne unplaced hai sab ki sab
+
+    → [25] bhai harr cheez mein itni problem ek college se why are you so insecure about LNMIIT ki Thapar ko saare time bash krna hota h tujhe 
+Also it is freedom of speech and freedom to speak
+
+    → [15] you left thapar 2 years ago yet cry everyday. Kitna bhi accha college ho tera LNMIIT lekin teri waha bhi placement nhi hone wali
+
+    → [15] ik why you do this you left Thapar COE for a significantly worse option LNMIIT CCE and you come up with this hate to justify your choice and to make you ego satisfied that you left Thapar because it was worse accept this reality too
+
+    → [14] my percentile is close to 98 you dumbass the only one satisfying their ego here is you so stfu I can get LNMIIT CSE any fucking day I want
+
+    → [13] Fucked up ROI. It's now the MOST expensive engineering college, even surpassing BITS, still nowhere near BITS.
+
+
+★ [120] [Rant] [VIT] Joined with high hopes, but my life is getting screwed. Pretty bad experience.
+  r/Indian_Academia | 2022-09-08 | https://www.reddit.com/r/Indian_Academia/comments/x973bg/rant_vit_joined_with_high_hopes_but_my_life_is/
+
+  Posting on behalf of my friend's sister. 
+
+Joined VIT vellore with high hopes. Good hardworking student. Everything was going great.
+
+Charged with malpractice as walked to the exam hall with her mobile phone by mistake. No one agrees to listen anything.
+And now they have offered a full semester backlog.
+No one's caring to give a damn and life is kind of ruined as college placements wouldn't accept
+
+    → [103] My brother in CBSE, no one "accidentally" brings a phone into an exam hall.
+
+    → [89] Exam ke din hall mein phone glti se nhi jaaya krte 😶😶
+
+    → [86] Go to highest authorities and beg for no backlog. Sem backlog reflects poorly not only in academic record but for future as well. Get her parents to beg the VC or something
+
+    → [49] The documents they’ve asked for clearly mentioned that in case you’re found cheating you’ll face strict action. Nobody takes a mobile by mistake to the exam hall. Ask anybody and they’ll tell you VIT is indeed strict about 3-4 things and this seems to be one of them
+
+    → [31] The most indian solution I've ever heard lol
+
+    → [29] i mean its still pretty harsh for the "intent" to cheat
+
+    → [26] Came here to say this. All our invigilators warn us 2 times at the very minimum to keep our phones and other plausible material that could potentially be considered as malpractice in our bags or to give it to the invigilators and collect it once the exam is done.
+
+I legit have no idea how it's possi
+
+    → [23] I honestly don’t get why VIT has been so strict about non academic stuff like this when other good colleges have went by easily and do way better, much better than VIT without these draconian laws.
+
+
+★ [106] CSE Specialization scam
+  r/Vit | 2024-10-12 | https://www.reddit.com/r/Vit/comments/1g2033g/cse_specialization_scam/
+
+  VIT is running a scam in the name of specializations. Don’t even consider taking them as they all are a scam. They don’t even make sense. I am from CSE spec. In IOT. It was a hot piece of cake everyone wants to take when I was joining the college. This and Data Science. Now I agree data science is good but IoT is waste asf. Upto third year we and CSE core people study together, there’s no differen
+
+    → [28] Fuck man i should have taken chennai campus
+
+    → [22] my friend from vit ap got placed and here i'm still unplaced in vit vellore data science specialisation
+
+    → [12] Oh well I shit myself in the foot. At the end of my first year I had the option to switch to core from data analytics (VIT-AP). And I didn't switch, thinking we had the same opportunities
+
+    → [8] I like this scam helped reduce competition and helped me get placed. Thanks other spec people🤗 (jk)
+
+    → [8] You should’ve taken core. Core has more opportunities than vit vellore specializations and specialization in vit-ap except than ai/ml is worst
+
+    → [5] Do companies dont know what subjects the students are being taught are they looking for CSE major and ignoring specialization. And are they looking only candidate cgpa + as achievement like inter9 projects LC  etc badge and other certificates like AWS devops etc Java certificate anything else but I 
+
+    → [5] And what category are you in? Like it or not VITC is an extension of Vellore unlike AP and Bhopal which are different.
+
+    → [5] ngl you are just a little kid who does bad shitty research before you join the college, every body out there knows what would happen if you take specialization at VIT, tadah you get less preferred   in placements.... look at you chasing the wild hot race of AI bla bla bla ML, IOT what ever the fuck,
+
+
+★ [102] I am the biggest idiot
+  r/Vit | 2025-04-21 | https://www.reddit.com/r/Vit/comments/1k4fqog/i_am_the_biggest_idiot/
+
+  Hey guys I am from VIT Vellore final yr. I was supposed to do a project review today it is my final capstone review.  I was supposed to go there. I had my Fat exam today. After all exhaustion from Fat I went to fine tune my report while my team mate was focusing on technical part. Both of us were extremely exhausted. But still we tried to make the best project and rectify all its flaws and I was t
+
+    → [76] Another victim of VIT Quality, never ending policy😢
+
+    → [37] it’s okay don’t worry about it. they’ll mostly reschedule it for you, just explain your circumstances again. they’re not going to leave you hanging dry just because of a capstone review bruh. it’s more or less a formality anyway. just explain what happened and afaik the reviews are still going on. s
+
+    → [27] ngl this situation is quite scary.
+
+    → [24] Why the fuck are these retards keeping capstone reviews during fats?
+
+    → [16] clear backs. dont think of it as waiting but instead use that time to hone your skills. goodluck.
+
+    → [14] Genuinely, I fail to understand how it’s the management’s fault here. 2-5 window for review isn’t exactly short.
+
+    → [12] Bro, don't worry, I was almost in a similar situation for my capstone project. I am in M.Tech, and the capstone project is individual, i.e... no groups. What happened was that before the final review, we needed to get a plagiarism report generated by the guide (<15% plagiarism) along with the guides
+
+    → [9] You know right how VIT can be 🙂
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 ADMISSION REALITY  (85 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [278] All exams for PCM students
+  r/JEENEETards | 2024-11-14 | https://www.reddit.com/r/JEENEETards/comments/1gra62h/all_exams_for_pcm_students/
+
+  This is the final list, tum logo ke suggestions + meri past research se I have made the final list for all exams a PCM student can give.
+
+# 1)Priority Exams -
+
+**JEE Mains -** For Selection in NIT's, IIIT's, GFTI's etc.
+
+**JEE Advance -** For Selection in IIT's, IISc, IIST, RGIPT etc.
+
+**BITSAT -** For Selection in BITS(All Campuses)
+
+**UGEE -** 2 Round Exam for direct admission in IIIT H
+
+# 2)Sta
+
+    → [8] NEET, BITSAT, VITEEE, CUET, IAT, NEST, ICAR
+
+bas yahin hai jinmein bitsat se bas B pharma milta hai aur viteee se 3-4 degree ke liye eligible hain. 
+
+for an Italian MBBS - IMAT
+
+    → [3] Board wise cutoff alag alag hoti check karlena
+
+    → [3] Aree bhai tu fir aagya PADHLE LAWDE midsem jan mein hai
+
+    → [3] Avg rehta hai, matlab mere 90%ile vale dost aaj BMS me hai, zyada crowd nahi hai
+
+
+★ [266] Is Indian government aware of the negative effects of its dubious rankings of engineering and MBA colleges on students and parents?
+  r/india | 2023-08-30 | https://www.reddit.com/r/india/comments/165685n/is_indian_government_aware_of_the_negative/
+
+  This year in a bizarre incident, my relative asked me to choose between Vellore institute of technology and IIT BHU for his son. His logic was NIRF rankings being better for VIT, Vellore. Later, I was having some random discussions with my senior colleague. He also told me that his son was insisting on selecting colleges which were not even under considerations personally. 
+There are many more fam
+
+    → [212] A student who got a seat in IIT BHU but don't know whether to choose IIT BHU or VIT is more bizarre.
+
+    → [109] nirf rankings are wild lmao   
+amity, lpu, vit are ranked above tier 2 iit's and bits (non pilani campuses)   
+
+recommend that relative vit coz IIT's ke liye competition kam ho jaayega   
+
+ofc the same case with medical  
+dy patil and ms ramaiya are ranked above MAMC and other peripheral aiims (exce
+
+    → [75] NiRF ranking is irrelevant and stupid. There parameters are absurd. I have heard they ranked tier-1 colleges like BITS lower because it doesn't have enough Dustbins or something like that.
+
+    → [57] No one will come and tell you. IIT BHU is great because you see how great their alumni turned out to be. This is word of mouth. No need to see any lists.
+
+    → [35] Manipal university, Jaipur is better than NSUT delhi according to Nirf
+
+    → [29] Lol you expect this form.uneducated ministers. They just know how to create division and fight for them that's politics.
+
+    → [28] You assume that. Village kids whose family have yet to join corporate India or formal higher education won't know details, including their parents.. Most parents don't know what their kids should do.. don't assume everything
+
+    → [24] There is not a single person in entire world who will pick VIT over BITS
+
+
+★ [185] THE JOKE THAT IS OUR INDIAN EDUCATION SYSTEM. PLEASE GIVE THIS A READ.
+  r/JEENEETards | 2024-06-08 | https://www.reddit.com/r/JEENEETards/comments/1datzia/the_joke_that_is_our_indian_education_system/
+
+  So hi everyone, I am a 24tard now going to VIT VELLORE this year. For the 6 past months i.e since January, I've been seeing posts about suicides and kids running away and what not. I've always felt that the way the education system is designed, it will always be the reason for kid's deaths.
+
+# 1. SCHOOL LIFE
+
+Mostly what happens in school life for an average kid is that they end up studying weeks 
+
+    → [13] no no, The "person who love coding more" had exposure to it...the computers the languages,  
+but the less privileged one has to prepare this shitty exam to get that exposure,and after that some do good, and some just get to know its not a cake walk for them,
+
+what should be done is, at least every1 
+
+    → [12] Jab Tak bits ka hookah bar motivation edit nahi aayega,ye log bits ko aise hi vit Aur srm se compare krenge 🐺
+
+    → [12] Kitni baar samjau bits ko vits, srm se compare mat karo
+
+    → [11] BITS is clearly better than all top NITs, in 11th we just didnt know much, toh sapna IIT NIT ka hi hota hai
+
+    → [10] The chemistry being roasted mid between was personal (and funny too xD)  
+  
+He really conveyed such a serious msg, that we all have deep inside our heads, but no one cared to speak, as we all thought its been since decades, and it will be.  
+but if its not for us, lets make it easier/fair for our J
+
+    → [9] Tu jara chutiya hai kya ? Har baat pe "computer science, computer science" karte jaa rha hai. Engineering mai aur bohot branches hai aur sabko cse nahi milta. Ye sab chize dusro branches ko kam aati hai. Source ? Mere papa ko bhi yehi lagta tha. Phir unhone unke ek dost se baat ki, jo ek Engineering
+
+    → [9] Bro casually named BITS with VIT and SRM
+
+    → [8] That attitude of wasting a CSE seat will take you nowhere kiddo, better to drop this sense of privilege early on…
+
+
+★ [168] QS World University Rankings 2026 - Indian universities ranked
+  r/Btechtards | 2025-06-19 | https://www.reddit.com/r/Btechtards/comments/1lfa58x/qs_world_university_rankings_2026_indian/
+
+  Just saw the QS 2026 rankings. Here’s how Indian universities did this year:
+
+IIT Delhi – 123
+
+IIT Bombay – 129
+
+IIT Madras – 180
+
+IIT Kharagpur – 215
+
+IISc Bangalore – 219
+
+IIT Kanpur – 222
+
+IIT Guwahati – 334
+
+Delhi University – 339
+
+Anna University – 465
+
+Shoolini University – 503
+
+IIT Indore – 556
+
+JNU – 558
+
+IIT BHU – 566
+
+Savitribai Phule Pune University – 566
+
+Chandigarh University – 575
+
+I
+
+    → [5] Pheeling paroud Dilli unibersity armmyyzz jaat gujjar ka bhaichara on 🔝
+
+    → [5] Above nit Trichy iiit Hyderabad and iit r
+
+    → [5] You have to apply and write letters for good QS ranking, IIT mein gromint wala just sit on their asses
+
+    → [3] In that case Chandigarh University should be even lower. You're telling they're going more research than IITH ? Do you hear yourself?
+
+
+★ [139] 12th student here who screwed up JEE Mains real bad. Which college should I choose between VIT Vellore and PES University for CSE?
+  r/Indian_Academia | 2021-07-04 | https://www.reddit.com/r/Indian_Academia/comments/odccw1/12th_student_here_who_screwed_up_jee_mains_real/
+
+  I would like to know which college to choose between VIT Vellore and PES University, Bangalore for CSE. I would also like to get some reviews about the CSE courses at these colleges.
+
+my_qualifications: 86 %ile in JEE Feb attempt, 83 %ile in JEE March attempt, 28k rank in VITEEE, 122/240 in Manipal Entrance Test, rank list not released yet.
+
+Also, taking a drop is out of the question. I absolutely
+
+    → [9] Bit late to the party, but I'm a CS grad from PES. Just finished my 4th year. 
+
+I honestly think in the grand scheme of things it really doesn't matter. When I joined I thought I had messed up big time, but rather quickly I found out that if you just take advantage of the opportunities you get, you'
+
+    → [9] "I would get to stay at home, so no extra hostel fees to pay for."  
+Sir please don't become a day scholar, hostel plays a very important role in your four years  
+some would even agree that hostel life is the best part about B.Tech
+
+    → [9] Bro VIT, is a much better option for CSE I'm a final year mech student I am going to graduate in the next 10 days but there are still people you are getting placed in CSE. If you work hard and get a 9 pointer you are sure to get a really good job.
+
+Please check out my roommates channel regarding VIT
+
+    → [8] Mit CSE = PES CSE >> VIT CSE (especially with the specialisation) , PES intake is 720, Manipal is 200. Now vit will take 1.2k students + abt 700 students in Chennai campus (yes they also come to vellore for placements and r given the same priorities as vellore students) so essentially 1.9k students 
+
+    → [8] Lol, I'm sorry if I offended anyone by this
+
+    → [6] Only if you're in a position to afford.   
+Go for VIT.   
+VIT will have much much better opportunities because of the sheer scale of it and brand name.    
+And as you said your passion for CSE is high, you'll benefit greatly with the stronger and much better funded clubs and competitions on campus. 
+
+    → [6] Had a friend graduate from there last year ( I was in a different college in the same city).
+
+Average package is one thing, what I was trying to imply is that with a little more effort than average one can easily get 17-18.
+
+    → [5] Dude. Same predicament for me. JEE first two attempts fucked and ab bohot hope nai hai JEE se. Abhi jo bhi likha tune I was tossing between the same options in the same condition as yours after counselling. I was considering PES as well but fir gharwalon ne then ek friend jo gayi hai VIT dono ne kah
+
+
+★ [83] SENIORS PLEASE HELP
+  r/Vit | 2024-08-04 | https://www.reddit.com/r/Vit/comments/1ejtesy/seniors_please_help/
+
+  so basically i was a good enough student till class 10(92%) and class 11 boards were good too(90%) my jee prep in class 11 was not bad but once when 12th strted i started fucking up things, not studying and all. so after wasting my wholw 12th with only covering basic formulas of phy and chem i ended up with 45%ile in mains🤡 coz yeah i didnt put in my efforts no mocks no practise and then i fucked 
+
+    → [22] I think your main issue is with the subject Maths itself. Going to college in hometown or taking a drop won't solve this. What you can do is put some effort in studying. There are tips and tricks to get by.
+
+Attend every class, make notes, study from yt (Gajendra Purohit), cat and fats are easy. Thi
+
+    → [19] I don't know what to say, but upvoting for better reach
+
+    → [15] don't sweat it, VIT's rankings are rigged
+
+    → [11] Heheh
+You should do one thing ask this question to VIT  itself that " How the fuck I got 30k rank" I don't wanna scare you but this is a very funny situation for you to explain it to your parents
+
+    → [8] He has money and hence he can spend it why do you care ? Hey op 
+Refer gajendra purohit videos 
+Join telegram of vit group for pyq they ask the same pattern questions 
+Just don't compare yourself and stop overthinking 
+Practice questions
+All the best 
+It's really not that tough
+
+    → [8] bro any alternaitve channels for Gajendra Purohit? becos idk hindi and idk what iam gonna do now
+
+    → [5] Rigged in a super weird way. Like why would they give some random person good rank and another person bad rank? I got like 60 questions correct and got 96k rank🤡
+
+    → [4] Parents actually think that VIT is best pvt. college and even compare it with IITs and NITs. So, they do such weird shit to get seats.
+
+
+★ [77] What to chose since I scored very less in JEE(below my expectation) I am ready for reattempting JEE with a better score and percentile and definitely a better college
+  r/Indian_Academia | 2022-07-26 | https://www.reddit.com/r/Indian_Academia/comments/w88ewz/what_to_chose_since_i_scored_very_less_in/
+
+  What to chose
+
+VIT Vellore Main campus ECE or Manipal Jaipur Btech(hons) IoT Intelligent Systems?
+
+Is that true that CSE provides more opportunities than ECE?
+
+myquals-
+
+85% in CBSE 2022
+
+75 percentile 1st attempt JEE 
+
+Gender-Female
+
+I am even thinking of a partial drop since I made a lot of errors in my 12th grade and can improve in my upcoming sessions of JEE. Guilt for not studying properly an
+
+    → [6] Lol wanted to talk with him but guess I'll dm u too
+
+    → [5] Mai to khud ko hi blame kruga..Covid sbke liye tha
+
+    → [4] Let's be realistic here. You have wasted 2 years . Now you have two offers in hand . Considering you will not take a drop year and will continue a partial drop alongside your engineering course. Now case 1 you are doing well in your course as well as your entrance preparation.Case 2 you are failing 
+
+    → [4] Similar situation except that I'm a dropper to kuch to lena hi pdega
+
+    → [4] Bruh. You really are. Placements are centralized so many of my friends are studying in both campus.
+You want a good branch, yet don't wanna compromised college and u don't have good percentile either. Dude, U CAN'T GET EVERYTHING
+Accept this.
+
+    → [4] thanks broski and atb to you too!!!
+
+    → [3] I'm going to VIT CSE Core this year with a similar plan to do a Masters from Saarland (CSE) or Aachen (software systems), then get the residency and try getting into Switzerland.
+
+Hopefully it all works out.
+
+    → [3] Not only conversion MS - the requirements are strict but, at least for MS in the US, the requirements are usually for particular courses rather than a CS major itself. You can take these CS-related courses in college and meet that eligibility criteria. This is not easy with branches like mechanical,
+
+
+★ [67] Research Integrity index and indian universities.
+  r/Btechtards | 2025-06-30 | https://www.reddit.com/r/Btechtards/comments/1lnzrt4/research_integrity_index_and_indian_universities/
+
+  [https://sciencechronicle.in/2025/06/12/a-research-integrity-index-shines-light-on-how-indian-universities-have-gamed-the-publishing-metrics/](https://sciencechronicle.in/2025/06/12/a-research-integrity-index-shines-light-on-how-indian-universities-have-gamed-the-publishing-metrics/)
+
+  
+**32 Indian universities in the red flag category**
+
+1. Amity University, Noida
+2. Anna University, Chennai
+3. 
+
+    → [37] Manipal campus mein jaate hi investigators ne saans li aur unko nasha Chadh gya isliye manipal bach gya
+
+    → [12] it is becase of research papers that intittes like vit,srm,anna have extremely high nirf ranking  
+and their papers,pblications and patents , forgive my language , "very shitty" and they look as if they have been made by a "12th grader".
+
+they are filing "patents" and "research papers" on smart intr
+
+    → [8] I am taking admission in Rvce will
+This affect me in any possible way??
+
+    → [8] [https://sites.aub.edu.lb/lmeho/ri2/](https://sites.aub.edu.lb/lmeho/ri2/)  
+the whole ranking list
+
+    → [7] Maybe because the list you're viewing is for Indian universities only
+
+    → [5] Are wo VTU university hai na ussi k under ata hai RVCE
+
+    → [4] RVCE is good college.  You can join RVCE without second thought.
+
+    → [3] 40:60 hai girl to boy ratio, lots of baddies
+
+
+★ [62] Is VIT Vellore a top engineering college? Is VITEEE necessary for BTech admission at VIT Vellore?
+  r/Btechtards | 2025-10-01 | https://www.reddit.com/r/Btechtards/comments/1nuzojq/is_vit_vellore_a_top_engineering_college_is/
+
+  Hi Guys,
+
+My friend wanted to pursue BTech CSE at VIT Vellore. I have read that VIT Vellore has secured its place in the NIRF Ranking.
+
+    → [32] Bro sneaked in met and thought we wouldn't notice 🥀
+
+    → [14] fine, bottom of the barrel of tier 3, happy?
+
+    → [13] God forbid I don't wanna compete with 10k+ (all campus combined) cse students for a job
+
+    → [7] So is BITS, fyi mit manipal fees is lower than both Thapar and BITS
+
+    → [7] Buddy people don't go to vit as a dream they go there because they couldn't go to their first options , you don't "persue" it . Secondly , the VITEEE test is so random just give it maybe you'll get an amazing rank or maybe not it's unpredictable if you do that's great . Thirdly even if you do end up
+
+    → [5] Calling it a "top engineering college" is....lets just say its just a little far.
+
+    → [5] Bas vit se 5x honge bits pilani ke, zyada nhi
+
+    → [5] Just one advice never follow the nirf rankings
+
+
+★ [58] Other Alternate exams that JEE aspirants should give
+  r/JEENEETards | 2023-07-12 | https://www.reddit.com/r/JEENEETards/comments/14xulri/other_alternate_exams_that_jee_aspirants_should/
+
+  **VITEEE** \-  Vellore Institute of Technology Engineering Entrance Examination (VITEEE) is conducted for admission to undergraduate engineering programmes in VIT group of Institutions. 
+
+**SRMJEEE -**  conducted by SRM Institute of Science and Technology (SRMIST) every year for admission to B. Tech programmes offered by the institute. 
+
+**WBJEE -**  The exam is a gateway for candidates seeking ad
+
+    → [10] Guys here's a tip for SRMJEEE: The exam happens in 3 phases, Phase 1 in april, Phase 2 in June and Phase 3 in July. Its not like mains, where counselling happens after both attempts. During SRMJEEE, Counselling happens AFTER EACH PHASE. I got 8.4k rank in phase 1 and I got CSE IOT in KTR campus (wit
+
+    → [6] TSEAMCET- entrance test for colleges in Telangana
+
+    → [3] Its a proven scam of data harvesting.
+
+    → [3] aiysee (scholarship exam)  
+
+[read this](https://www.aiysee.com/layout.php)
+
+    → [3] IPMAT bhi add kr do iim se bba k liye agar paisa h
+
+
+★ [56] Manipal EEE vs Thapar ECE vs VIT vellore cs category 3
+  r/Btechtards | 2025-07-30 | https://www.reddit.com/r/Btechtards/comments/1md1b70/manipal_eee_vs_thapar_ece_vs_vit_vellore_cs/
+
+  Thinking abt manipal cos fees is less and is more reputed
+
+    → [9] Vit m classes shuru ho gaya, tu abhi puchke kya hi kar raha h
+
+    → [9] I'd choose manipal eee, mainly cuz waha ki life better hogi. And placement wise anyday better than vellore cs
+
+    → [9] Electrical wale humesha darr ke mahol mein rhete hai ngl..
+
+    → [8] engineering is different from repair man/electrician
+
+    → [6] tp my cousin had options he took mnipal
+
+
+★ [42] VIT Vellore CSE vs BITS Pilani MSc Math Dual Degree ( About 25% of Dualites get CS, next 25% get circuital, on the basis of 1st year CGPA) What should I choose?
+  r/Indian_Academia | 2022-10-13 | https://www.reddit.com/r/Indian_Academia/comments/y2phyc/vit_vellore_cse_vs_bits_pilani_msc_math_dual/
+
+  my_qualifications: 12th CBSE 86%
+                                   BITSAT score: 240/390
+
+My priorities: At the end, if I go for placements I want to get into IT. As of now, I don't have a lot of interest in finance/consultancy, even though I don't really know a lot about them, I find tech to be my kind of nerdy thing. I have no interest in MBA or MS as of now. But if I get CS in BITS, it's like 
+
+    → [32] Take bits. This shouldnt even be a question lol. What is up with you kids recently? Take bits aankhe band karke and make the most out of it. You will never forget these 5 years. All the best
+
+    → [32] > once you get into IT, growth is rapid.
+
+🤡🤡🤡
+
+    → [22] BITs anyday man. BITs kaa koi bhi branch > VIT CSE imo.
+
+    → [20] Out of 6000 people which is not that much
+
+    → [19] Simply because those VIT stats are misleading. 
+You should cross check many times what the actual CTCS are, what esop % ages are.
+A lot of 20lpa salaries end up as ~85kpm in hand. 
+Not saying bits won't have cases like this, but it will much lesser and that brand is on another level. They don't need
+
+    → [18] Bits ka tag has much more value. Jaise IIT ka tag hota hai companies mein uske equal maante hain. Ab agar tujhe iit mein electrical milti toh tu leta na VIT ko chhod kr? If you can even manage to come in that 50% you will get better opportunities than VIT .
+
+    → [15] The question is:are you really interested in advanced math?
+You can pivot into data science in the future if like statistics.
+You can also do PhD and become a math professor if you are interested.
+
+Now, I would suggest take bits,work hard, change branch.
+Even if you could not change branch,math is g
+
+    → [14] Bits is comparable to iits, vit is comparable to ur local college. Now if you're really very passionate about cs (read cs ka 14) then take vit. Otherwise, bits will provide much more consultancy, management etc roles.
+
+
+★ [41] What is this administration doing?
+  r/Vit | 2025-06-16 | https://www.reddit.com/r/Vit/comments/1ld3xc4/what_is_this_administration_doing/
+
+  Yesterday i got a mail from Vit Vellore about the dates for orientation programme. And in the mail the dates clearly say the year as 2024. My branch is CSE w/s Data Science which has orientation date on 18 July on friday. So the day is correct because last year 18 july was on thursday and the year mentioned is 2024. If the year 2024 mentioned is incorrect then its a pretty big mistake from this bi
+
+    → [163] Chill.bro, its an honest mistake.
+Just like you joining VIT
+
+    → [30] Bro chill , Its 2025 , People make mistakes regardless how huge the institution is .
+
+    → [13] There was another mail sent with the correct dates, but yes the year should be 2025
+
+    → [9] am i the only one who didnt get this mail? 🗿
+
+    → [3] Have you guys got the student mail
+
+
+★ [39] VIT Counselling process doubts and rank vs Branch vs category doubts can
+  r/Indian_Academia | 2022-07-07 | https://www.reddit.com/r/Indian_Academia/comments/vtab8c/vit_counselling_process_doubts_and_rank_vs_branch/
+
+  "my_qualifications" Class 12th Passed in 2021 with 89 percent and Class 10th with 94 percent.
+
+So I am a dropper and my first mains did not go well I won't get anything with the marks in the first attempt, I want to know at what ranks can I expect Vit vellore/Chennai cse and cse specialisations/IT till category 2. I have some serious budget constraints. Moreover is there any difference between pla
+
+    → [16] How much you are getting in vitee? I am only getting 40-50. Will I get anything in category 1 or 2 in vellore or Chennai
+
+    → [9] I am! However ranks cannot be predicted at all. I graduated in 2020 so I know the stats of my batch. They conduct counselling in two phases. In the first phase upto 16k ranks are called and in the second round, the remaining are called. If you get called for the first round itself, you'll get CS/IT.
+
+    → [9] Bhai I don't know how much i am getting rankk aiga sirf they don't tell marks but hopefully tukke sahi lage ho so I can get 60-70
+
+    → [8] I am also a dropper who has no hopes on jee mains 🥲
+
+    → [7] Bro I couldn't answer shit in first attempt :) I don't think I can do anything good in next attempt either.
+
+    → [6] My dad will only let me join vit if I get rank in category 1 cause it's private college :) seems like tier 3 college is my only hope. I don't think I'll get a good branch in category 1 in chennai or vellore
+
+    → [5] For placement perspective it does not matter which campus you choose because VIT have centralize placement. But if you get Vellore campus you will get more opportunities to take part in various activities that takes place in the college which is comparatively more in the main campus but not limited 
+
+    → [5] Bhai BITS mei mechanical thoda soch ke kar. Placement is horrible for Mech, most people do Finance or Non-core after Mech, because even IT companies have rules to only allow Electrical and CS people to sit for placements. So if you don't want to do Finance ya Non-core, taking CS in VIT is better IMO
+
+
+★ [38] DIRECT ADMISSION for VIT and SRM campuses
+  r/Vit | 2025-02-24 | https://www.reddit.com/r/Vit/comments/1iww7hn/direct_admission_for_vit_and_srm_campuses/
+
+  Some random guy called me and said that, He will give me direct admission for VIT vellore campus and SRM ap campus which does not allow management seats like SRM ktr campus, Then i have asked that guy that in official websites of those campuses there is no particular mention of those management seats, then He said that he will do it though so called backdoor process, in which he knows around 40 Ce
+
+    → [51] A friend of mine did that exactly same thing for that VITEEE that your guy is talking about and ig it might be legit cuz he's now in vit vellore but he's still dumb here.
+
+    → [13] bro it's a scam one of my senior friend did this and now he is expelled from the college
+
+    → [12] That last line was killer - he is still dumb here lol 😀😀
+
+    → [10] See I don't know whether it's a scam or not.But yeah there are some people who get direct admission through these agents.
+
+    → [8] To get into smr they don't care about entrance just go early to the college and ask for admission they will ask you to pay some amount and book you a seat u just need to go early for admission I mean right after boards of even before boards
+
+    → [8] I know many people who got CSE in CAT 1 at Vellore. Centre-fixing is very much prevalent for VITEEE.
+
+    → [7] If you don't know better keep calm. Its 100% true
+All the guys here in vit vellore below 1000 ranks are admitted through this process only. VIT also know this and encourage them there is big scam in this let me explain. People with no skill and dumbs use this and get below 1000 ranks in VIT vellore 
+
+    → [6] 99 % scam. They will take money also and not give admission at all
+
+
+──────────────────────────────────────────────────────────────────────
+  📌 GENERAL  (1 posts)
+──────────────────────────────────────────────────────────────────────
+
+★ [7] 1-star review of VIT Vellore
+  r/IndianGaming | 2020-09-04 | https://www.reddit.com/r/IndianGaming/comments/imbo4a/1star_review_of_vit_vellore/
+
+    → [5] When he said, "pubg pubg pubg pubg" I felt that

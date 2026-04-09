@@ -2,6 +2,48 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Search, X, MapPin } from 'lucide-react';
 import { supabase } from '../lib/supabase';
 
+/** Explicit alias map for common alternate names → canonical search terms */
+const ALIASES: Record<string, string> = {
+  'nit surat': 'svnit',          'nit nagpur': 'vnit',
+  'nit jaipur': 'mnit',          'nit allahabad': 'mnnit',
+  'nit bhopal': 'manit',         'nit jalandhar': 'dr b r ambedkar',
+  'nit agartala': 'agartala',    'nit hamirpur': 'hamirpur',
+  'nit kurukshetra': 'kurukshetra', 'nit silchar': 'silchar',
+  'nit meghalaya': 'meghalaya',  'nit arunachal': 'arunachal',
+  'iit bombay': 'bombay',        'iit delhi': 'delhi',
+  'iit madras': 'madras',        'iit kanpur': 'kanpur',
+  'iit kharagpur': 'kharagpur',  'iit roorkee': 'roorkee',
+  'iit guwahati': 'guwahati',    'iit hyderabad': 'hyderabad',
+};
+
+/**
+ * Expands a user query into multiple search terms to handle:
+ * - "nit surat" → also search "surat" (catches SVNIT, Surat)
+ * - "iit bombay" → also search "bombay" (catches IITB)
+ * - Explicit aliases
+ */
+function expandSearchQuery(raw: string): string[] {
+  const q = raw.toLowerCase().trim();
+  const terms = new Set<string>([raw.trim()]);
+
+  // Explicit alias
+  if (ALIASES[q]) terms.add(ALIASES[q]);
+
+  // "nit <city>" → also search the city alone
+  const nitCity = q.match(/^nit\s+(.+)$/);
+  if (nitCity) terms.add(nitCity[1]);
+
+  // "iit <city>" → also search city alone
+  const iitCity = q.match(/^iit\s+(.+)$/);
+  if (iitCity) terms.add(iitCity[1]);
+
+  // "iiit <city>" → also search city alone
+  const iiitCity = q.match(/^iiit\s+(.+)$/);
+  if (iiitCity) terms.add(iiitCity[1]);
+
+  return Array.from(terms);
+}
+
 interface Institute {
   id: number;
   name: string;
@@ -52,17 +94,34 @@ const CollegeSearch: React.FC<CollegeSearchProps> = ({ isLoggedIn }) => {
     return () => document.removeEventListener('mousedown', handler);
   }, []);
 
-  // Search institutes
+  // Search both institutes (JoSAA) and college_info (all colleges incl. VIT, BITS etc.)
   const doSearch = useCallback(async (q: string) => {
     if (!q || q.length < 2) { setResults([]); return; }
     setLoading(true);
     try {
-      const { data, error } = await supabase
-        .from('institutes')
-        .select('id, name')
-        .ilike('name', `%${q}%`)
-        .limit(10);
-      if (!error && data) setResults(data as Institute[]);
+      const terms = expandSearchQuery(q);
+      const orFilterName = terms.map(t => `name.ilike.*${t}*`).join(',');
+      const orFilterInst = terms.map(t => `institute.ilike.*${t}*`).join(',');
+
+      const [instRes, ciRes] = await Promise.all([
+        supabase.from('institutes').select('id, name').or(orFilterName).limit(8),
+        supabase.from('college_info').select('institute').or(orFilterInst).limit(8),
+      ]);
+
+      // Merge: institutes first, then college_info entries not already present
+      const seen = new Set<string>();
+      const merged: Institute[] = [];
+
+      for (const row of (instRes.data ?? [])) {
+        const key = row.name.toLowerCase();
+        if (!seen.has(key)) { seen.add(key); merged.push({ id: row.id, name: row.name }); }
+      }
+      for (const row of (ciRes.data ?? [])) {
+        const key = row.institute.toLowerCase();
+        if (!seen.has(key)) { seen.add(key); merged.push({ id: -1, name: row.institute }); }
+      }
+
+      setResults(merged.slice(0, 10));
     } catch {
       setResults([]);
     } finally {

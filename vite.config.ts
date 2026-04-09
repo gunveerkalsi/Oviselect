@@ -15,9 +15,20 @@ export default defineConfig(({ mode }) => {
         'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY)
       },
       resolve: {
-        alias: {
-          '@': path.resolve(__dirname, '.'),
-        }
-      }
+        alias: { '@': path.resolve(__dirname, '.') }
+      },
+      build: {
+        rollupOptions: {
+          output: {
+            manualChunks: {
+              'vendor-react':    ['react', 'react-dom'],
+              'vendor-google':   ['@react-oauth/google'],
+              'vendor-supabase': ['@supabase/supabase-js'],
+              'vendor-shader':   ['@shadergradient/react'],
+              'vendor-lucide':   ['lucide-react'],
+            },
+          },
+        },
+      },
     };
 });

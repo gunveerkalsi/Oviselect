@@ -1,0 +1,51 @@
+# OviGuide — AI Counselling Copilot for JEE Admissions
+# https://oviguide.in
+
+## What is OviGuide?
+
+OviGuide is a free AI-powered college predictor and counselling tool for JEE Main students in India.
+Students enter their JEE Main rank, category (OPEN, OBC-NCL, SC, ST, EWS), home state, and branch preference
+to instantly see which IITs, NITs, IIITs, GFTIs, and private colleges they are likely to get.
+
+The platform supports Freeze, Float, and Slide recommendations for every round of JoSAA counselling,
+as well as detailed profiles for VITEEE campuses (VIT Vellore, Chennai, Bhopal, Amaravati).
+
+## Key Features
+
+- JEE Main rank-based college predictor using 5 years of official JoSAA cutoff data
+- Round-by-round AI Copilot with Freeze / Float / Slide recommendations
+- Category-wise predictions: OPEN, OBC-NCL, SC, ST, EWS
+- Home State vs Other State quota support
+- Deep college profiles: NIRF rankings, placement data, fee structure, hostel availability
+- VITEEE portal with NIRF 2025 data, PhD details, financial resources, sanctioned intake
+- Support for JAC Delhi (DTU, NSIT, IGDTUW, IIIT Delhi, DSEU) coming soon
+- Support for KCET (Karnataka domicile), COMEDK (All India Karnataka), MHT-CET coming soon
+
+## Supported Counsellings
+
+- JoSAA: IITs, NITs, IIITs, GFTIs (active)
+- VITEEE: VIT Vellore, Chennai, Bhopal, Amaravati (active)
+- JAC Delhi: DTU, NSIT, IGDTUW, IIIT Delhi, DSEU (coming soon)
+- JAC Chandigarh: UIET and Chandigarh colleges (coming soon)
+- COMEDK: Karnataka private colleges for All India quota (coming soon)
+- KCET: Karnataka government colleges for Karnataka domicile (coming soon)
+- MHT-CET: Maharashtra engineering colleges (coming soon)
+
+## About
+
+Built by Oviqo, a student-focused ed-tech team based in Bengaluru, India.
+Contact: team@oviqo.in
+Website: https://oviguide.in
+Privacy Policy: https://oviguide.in/privacy
+Terms of Service: https://oviguide.in/terms
+
+## Data Sources
+
+- JoSAA official closing rank data (2020-2024)
+- NIRF 2025 rankings and institutional data
+- CollegePravesh verified cutoff data
+- VIT official placement and admissions data
+
+## Intended Audience
+
+JEE Main and JEE Advanced students (Class 12 and droppers) in India planning engineering admissions.

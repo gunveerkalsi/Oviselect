@@ -1,0 +1,1349 @@
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (7.4.0.post2)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+
+══════════════════════════════════════════════════════════════════════
+  CAMPUS: VIT Vellore
+══════════════════════════════════════════════════════════════════════
+  [cache hit] btechtards_vit_vellore.json
+    r/Btechtards           q="VIT Vellore" → raw=100 pass=34 dup=0
+  [cache hit] jeeneetards_vit_vellore.json
+    r/JEENEETards          q="VIT Vellore" → raw=100 pass=23 dup=0
+  [cache hit] developersindia_vit_vellore.json
+    r/developersIndia      q="VIT Vellore" → raw=68 pass=19 dup=0
+  [cache hit] india_vit_vellore.json
+    r/india                q="VIT Vellore" → raw=61 pass=21 dup=0
+  [cache hit] iitjee_vit_vellore.json
+    r/IITJEE               q="VIT Vellore" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore.json
+    r/EngineeringStudents  q="VIT Vellore" → raw=18 pass=2 dup=0
+  [cache hit] indian_academia_vit_vellore.json
+    r/Indian_Academia      q="VIT Vellore" → raw=100 pass=12 dup=0
+  [cache hit] vit_vit_vellore.json
+    r/vit                  q="VIT Vellore" → raw=100 pass=39 dup=0
+  [cache hit] vituniversity_vit_vellore.json
+    r/vituniversity        q="VIT Vellore" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_viteee_vellore.json
+    r/Btechtards           q="VITEEE Vellore" → raw=46 pass=15 dup=1
+  [cache hit] jeeneetards_viteee_vellore.json
+    r/JEENEETards          q="VITEEE Vellore" → raw=100 pass=20 dup=2
+  [cache hit] developersindia_viteee_vellore.json
+    r/developersIndia      q="VITEEE Vellore" → raw=2 pass=0 dup=0
+  [cache hit] india_viteee_vellore.json
+    r/india                q="VITEEE Vellore" → raw=4 pass=0 dup=0
+  [cache hit] iitjee_viteee_vellore.json
+    r/IITJEE               q="VITEEE Vellore" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_viteee_vellore.json
+    r/EngineeringStudents  q="VITEEE Vellore" → raw=1 pass=0 dup=0
+  [cache hit] indian_academia_viteee_vellore.json
+    r/Indian_Academia      q="VITEEE Vellore" → raw=26 pass=10 dup=0
+  [cache hit] vit_viteee_vellore.json
+    r/vit                  q="VITEEE Vellore" → raw=100 pass=28 dup=4
+  [cache hit] vituniversity_viteee_vellore.json
+    r/vituniversity        q="VITEEE Vellore" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vellore_institute_of_technology.json
+    r/Btechtards           q="Vellore Institute of Technolog" → raw=17 pass=6 dup=1
+  [cache hit] jeeneetards_vellore_institute_of_technology.json
+    r/JEENEETards          q="Vellore Institute of Technolog" → raw=22 pass=7 dup=4
+  [cache hit] developersindia_vellore_institute_of_technology.json
+    r/developersIndia      q="Vellore Institute of Technolog" → raw=7 pass=5 dup=1
+  [cache hit] india_vellore_institute_of_technology.json
+    r/india                q="Vellore Institute of Technolog" → raw=14 pass=7 dup=2
+  [cache hit] iitjee_vellore_institute_of_technology.json
+    r/IITJEE               q="Vellore Institute of Technolog" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vellore_institute_of_technology.json
+    r/EngineeringStudents  q="Vellore Institute of Technolog" → raw=5 pass=0 dup=0
+  [cache hit] indian_academia_vellore_institute_of_technology.json
+    r/Indian_Academia      q="Vellore Institute of Technolog" → raw=18 pass=10 dup=1
+  [cache hit] vit_vellore_institute_of_technology.json
+    r/vit                  q="Vellore Institute of Technolog" → raw=11 pass=7 dup=0
+  [cache hit] vituniversity_vellore_institute_of_technology.json
+    r/vituniversity        q="Vellore Institute of Technolog" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vit_vellore_placements.json
+    r/Btechtards           q="VIT Vellore placements" → raw=76 pass=19 dup=12
+  [cache hit] jeeneetards_vit_vellore_placements.json
+    r/JEENEETards          q="VIT Vellore placements" → raw=72 pass=20 dup=7
+  [cache hit] developersindia_vit_vellore_placements.json
+    r/developersIndia      q="VIT Vellore placements" → raw=21 pass=0 dup=9
+  [cache hit] india_vit_vellore_placements.json
+    r/india                q="VIT Vellore placements" → raw=11 pass=0 dup=4
+  [cache hit] iitjee_vit_vellore_placements.json
+    r/IITJEE               q="VIT Vellore placements" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore_placements.json
+    r/EngineeringStudents  q="VIT Vellore placements" → raw=2 pass=0 dup=0
+  [cache hit] indian_academia_vit_vellore_placements.json
+    r/Indian_Academia      q="VIT Vellore placements" → raw=33 pass=9 dup=6
+  [cache hit] vit_vit_vellore_placements.json
+    r/vit                  q="VIT Vellore placements" → raw=100 pass=37 dup=3
+  [cache hit] vituniversity_vit_vellore_placements.json
+    r/vituniversity        q="VIT Vellore placements" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vit_vellore_cse.json
+    r/Btechtards           q="VIT Vellore CSE" → raw=100 pass=12 dup=21
+  [cache hit] jeeneetards_vit_vellore_cse.json
+    r/JEENEETards          q="VIT Vellore CSE" → raw=100 pass=8 dup=14
+  [cache hit] developersindia_vit_vellore_cse.json
+    r/developersIndia      q="VIT Vellore CSE" → raw=20 pass=0 dup=5
+  [cache hit] india_vit_vellore_cse.json
+    r/india                q="VIT Vellore CSE" → raw=17 pass=0 dup=8
+  [cache hit] iitjee_vit_vellore_cse.json
+    r/IITJEE               q="VIT Vellore CSE" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore_cse.json
+    r/EngineeringStudents  q="VIT Vellore CSE" → raw=4 pass=0 dup=0
+  [cache hit] indian_academia_vit_vellore_cse.json
+    r/Indian_Academia      q="VIT Vellore CSE" → raw=100 pass=17 dup=15
+  [cache hit] vit_vit_vellore_cse.json
+    r/vit                  q="VIT Vellore CSE" → raw=100 pass=40 dup=10
+  [cache hit] vituniversity_vit_vellore_cse.json
+    r/vituniversity        q="VIT Vellore CSE" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vit_vellore_review.json
+    r/Btechtards           q="VIT Vellore review" → raw=5 pass=1 dup=0
+  [cache hit] jeeneetards_vit_vellore_review.json
+    r/JEENEETards          q="VIT Vellore review" → raw=6 pass=1 dup=1
+  [cache hit] developersindia_vit_vellore_review.json
+    r/developersIndia      q="VIT Vellore review" → raw=1 pass=0 dup=0
+  [cache hit] india_vit_vellore_review.json
+    r/india                q="VIT Vellore review" → raw=3 pass=0 dup=0
+  [cache hit] iitjee_vit_vellore_review.json
+    r/IITJEE               q="VIT Vellore review" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore_review.json
+    r/EngineeringStudents  q="VIT Vellore review" → raw=0 pass=0 dup=0
+  [cache hit] indian_academia_vit_vellore_review.json
+    r/Indian_Academia      q="VIT Vellore review" → raw=4 pass=1 dup=1
+  [cache hit] vit_vit_vellore_review.json
+    r/vit                  q="VIT Vellore review" → raw=19 pass=7 dup=3
+  [cache hit] vituniversity_vit_vellore_review.json
+    r/vituniversity        q="VIT Vellore review" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vit_vellore_hostel.json
+    r/Btechtards           q="VIT Vellore hostel" → raw=24 pass=3 dup=1
+  [cache hit] jeeneetards_vit_vellore_hostel.json
+    r/JEENEETards          q="VIT Vellore hostel" → raw=36 pass=11 dup=1
+  [cache hit] developersindia_vit_vellore_hostel.json
+    r/developersIndia      q="VIT Vellore hostel" → raw=1 pass=0 dup=0
+  [cache hit] india_vit_vellore_hostel.json
+    r/india                q="VIT Vellore hostel" → raw=2 pass=0 dup=0
+  [cache hit] iitjee_vit_vellore_hostel.json
+    r/IITJEE               q="VIT Vellore hostel" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore_hostel.json
+    r/EngineeringStudents  q="VIT Vellore hostel" → raw=0 pass=0 dup=0
+  [cache hit] indian_academia_vit_vellore_hostel.json
+    r/Indian_Academia      q="VIT Vellore hostel" → raw=11 pass=3 dup=1
+  [cache hit] vit_vit_vellore_hostel.json
+    r/vit                  q="VIT Vellore hostel" → raw=100 pass=32 dup=7
+  [cache hit] vituniversity_vit_vellore_hostel.json
+    r/vituniversity        q="VIT Vellore hostel" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vit_vellore_fees.json
+    r/Btechtards           q="VIT Vellore fees" → raw=49 pass=6 dup=9
+  [cache hit] jeeneetards_vit_vellore_fees.json
+    r/JEENEETards          q="VIT Vellore fees" → raw=95 pass=16 dup=16
+  [cache hit] developersindia_vit_vellore_fees.json
+    r/developersIndia      q="VIT Vellore fees" → raw=0 pass=0 dup=0
+  [cache hit] india_vit_vellore_fees.json
+    r/india                q="VIT Vellore fees" → raw=2 pass=0 dup=1
+  [cache hit] iitjee_vit_vellore_fees.json
+    r/IITJEE               q="VIT Vellore fees" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore_fees.json
+    r/EngineeringStudents  q="VIT Vellore fees" → raw=0 pass=0 dup=0
+  [cache hit] indian_academia_vit_vellore_fees.json
+    r/Indian_Academia      q="VIT Vellore fees" → raw=18 pass=3 dup=4
+  [cache hit] vit_vit_vellore_fees.json
+    r/vit                  q="VIT Vellore fees" → raw=86 pass=28 dup=10
+  [cache hit] vituniversity_vit_vellore_fees.json
+    r/vituniversity        q="VIT Vellore fees" → raw=0 pass=0 dup=0
+  [cache hit] btechtards_vit_vellore_honest_review.json
+    r/Btechtards           q="VIT Vellore honest review" → raw=1 pass=0 dup=0
+  [cache hit] jeeneetards_vit_vellore_honest_review.json
+    r/JEENEETards          q="VIT Vellore honest review" → raw=0 pass=0 dup=0
+  [cache hit] developersindia_vit_vellore_honest_review.json
+    r/developersIndia      q="VIT Vellore honest review" → raw=1 pass=0 dup=0
+  [cache hit] india_vit_vellore_honest_review.json
+    r/india                q="VIT Vellore honest review" → raw=1 pass=0 dup=0
+  [cache hit] iitjee_vit_vellore_honest_review.json
+    r/IITJEE               q="VIT Vellore honest review" → raw=0 pass=0 dup=0
+  [cache hit] engineeringstudents_vit_vellore_honest_review.json
+    r/EngineeringStudents  q="VIT Vellore honest review" → raw=0 pass=0 dup=0
+  [cache hit] indian_academia_vit_vellore_honest_review.json
+    r/Indian_Academia      q="VIT Vellore honest review" → raw=2 pass=0 dup=1
+  [cache hit] vit_vit_vellore_honest_review.json
+    r/vit                  q="VIT Vellore honest review" → raw=7 pass=0 dup=3
+  [cache hit] vituniversity_vit_vellore_honest_review.json
+    r/vituniversity        q="VIT Vellore honest review" → raw=0 pass=0 dup=0
+  [cache hit] global_vit_vellore.json
+  [cache hit] global_viteee_vellore.json
+  [cache hit] global_vellore_institute_of_technology.json
+  [cache hit] global_vit_vellore_placements.json
+  [cache hit] global_vit_vellore_cse.json
+  [cache hit] global_vit_vellore_review.json
+  [cache hit] global_vit_vellore_hostel.json
+  [cache hit] global_vit_vellore_fees.json
+  [cache hit] global_vit_vellore_honest_review.json
+  [cache hit] top/vit
+  [cache hit] top/vituniversity
+    ↳ "Please rank the following for CSE in these categor" — 8 comment(s)
+    ↳ "LNMIIT CSE VS MIT CSE VS THAPAR CSE VS VIT VELLORE" — 25 comment(s)
+    ↳ "Manipal jaipur vs vit vellore" — 4 comment(s)
+    ↳ "THAPAR VS VIT VELLORE VS PESU (ALL 3 CSE)" — 25 comment(s)
+    ↳ "HELPPP NEEDED" — 2 comment(s)
+    ↳ "Integrated MTech in VIT or BTech in CEG" — 5 comment(s)
+    ↳ "Ground Reality of M.Tech VLSI at VIT Vellore (2025" — 11 comment(s)
+    ↳ "Thapar is genuinely entering Amity/LPU territory —" — 25 comment(s)
+    ↳ "How IIT feels after studying at VIT" — 25 comment(s)
+    ↳ "Does HFT visit VIT vellore?" — 16 comment(s)
+    ↳ "AMAZON ML CHALLENGE 2025" — 25 comment(s)
+    ↳ "VIT placements Scam" — 25 comment(s)
+    ↳ "Is VIT Vellore a top engineering college? Is VITEE" — 25 comment(s)
+    ↳ "Life seems kinda fucked right now" — 25 comment(s)
+    ↳ "Guidance" — 6 comment(s)
+    ↳ "TCS NQT DIGITAL ROLE" — 4 comment(s)
+    ↳ "Help regarding what college to choose" — 3 comment(s)
+    ↳ "I already have vit vellore cse. Should i go for LN" — 2 comment(s)
+    ↳ "At the final straw of my life." — 11 comment(s)
+    ↳ "How to move on?" — 25 comment(s)
+    ↳ "Manipal EEE vs Thapar ECE vs VIT vellore cs catego" — 19 comment(s)
+    ↳ "Father lost job and I have 10 months left for plac" — 25 comment(s)
+    ↳ "Help" — 6 comment(s)
+    ↳ "Suicide in VIT Vellore M block - Management covere" — 1 comment(s)
+    ↳ "Suicide in M block vit vellore" — 1 comment(s)
+    ↳ "Suicide in M block VIT VELLORE" — 3 comment(s)
+    ↳ "VIT vellore CSE OR MANIPAL main campusEEE OR CSE T" — 8 comment(s)
+    ↳ "Should I go for M.Tech or placement first? (CSE VI" — 2 comment(s)
+    ↳ "Which option to choose for Masters?" — 5 comment(s)
+    ↳ "Stick to Python or switch to JAVA/C++" — 4 comment(s)
+    ↳ "QS World University Rankings 2026 - Indian univers" — 25 comment(s)
+    ↳ "DOUBT REGARDING ECE PLS HELPP" — 5 comment(s)
+    ↳ "College selection help needed" — 3 comment(s)
+    ↳ "The Truth About My Experience at VIT Vellore" — 0 comment(s)
+    ↳ "is donation , taking worth it  ???" — 25 comment(s)
+    ↳ "Need Guidance" — 5 comment(s)
+    ↳ "“Need honest advice: private BTech colleges with g" — 9 comment(s)
+    ↳ "VITEEE ADVICE" — 11 comment(s)
+    ↳ "How is rank in VIT Vellore calculated? and Do they" — 1 comment(s)
+    ↳ "People who are still at 0/ scoring less than 50 in" — 1 comment(s)
+    ↳ "We are very close to file a PIL against CBSE again" — 13 comment(s)
+    ↳ "⚠️ APPEAL TO STUDENTS⚠️Stop keeping your feet in t" — 25 comment(s)
+    ↳ "Admission??????" — 2 comment(s)
+    ↳ "Sometimes patience wins" — 1 comment(s)
+    ↳ "MNNIT, NSUT or VIT?" — 7 comment(s)
+    ↳ "How do I Convince parents for Drop" — 9 comment(s)
+    ↳ "Need Opinions" — 8 comment(s)
+    ↳ "IET lucknow (ECE) vs VIT vellore (CSE in category " — 6 comment(s)
+    ↳ "QS World University Rankings 2026 - Indian univers" — 25 comment(s)
+    ↳ "Is iiit Manipur worth it?" — 2 comment(s)
+    ↳ "Help me out here" — 6 comment(s)
+    ↳ "VIT Vellore electronics engineering(vlsi design) o" — 6 comment(s)
+    ↳ "Asking advice regarding B-tech admission" — 1 comment(s)
+    ↳ "MIT Main Campus CSE vs VIT Vellore CSE?" — 5 comment(s)
+    ↳ "I want to do cse but i am not getting it in a good" — 1 comment(s)
+    ↳ "I am thinking of taking a drop for JEE this year i" — 11 comment(s)
+    ↳ "PES cse (JEE Mains) vs VIT Vellore CS data science" — 11 comment(s)
+    ↳ "VIT Vellore placements 2026 batch – mostly support" — 21 comment(s)
+    ↳ "Any suggestions for my resume guys? Final sem stud" — 9 comment(s)
+    ↳ "My surviving journey of the last 5 years — and now" — 21 comment(s)
+    ↳ "Need some suggestions as to what to do regarding p" — 6 comment(s)
+    ↳ "Father lost job and I have 10 months left for plac" — 25 comment(s)
+    ↳ "Should I pursue AI/ML or just pursue webdev like e" — 23 comment(s)
+    ↳ "Don't wanna work anymore in this project I wanna q" — 7 comment(s)
+    ↳ "Quiting a witch company service desk job ( need yo" — 3 comment(s)
+    ↳ "resigned from a full-stack dev job, unsure about w" — 5 comment(s)
+    ↳ "Fresher in college please help me out in my career" — 2 comment(s)
+    ↳ "Fresher ko Hackathon jakar aukat pata chal gayi aa" — 4 comment(s)
+    ↳ "Should I leave my job to pursue mtech cse in vit v" — 8 comment(s)
+    ↳ "Thinking to joint Integrated Mtech at VIT. Need so" — 6 comment(s)
+    ↳ "Third year student here, need some advice on what " — 6 comment(s)
+    ↳ "Life of a 2023 CS UG" — 25 comment(s)
+    ↳ "Which is better for MCA Vit Vellore or Bit lalpur?" — 4 comment(s)
+    ↳ "Confused about interview preparation (in 3rd year)" — 2 comment(s)
+    ↳ "VIT or DU for BSc Comp Sci ?" — 25 comment(s)
+    ↳ "Things to Do" — 9 comment(s)
+    ↳ "Really need some career advice" — 5 comment(s)
+    ↳ "Is Indian government aware of the negative effects" — 25 comment(s)
+    ↳ "Advice and hacks/tips for a fresher joining colleg" — 7 comment(s)
+    ↳ "Are there any affordable animation colleges/instit" — 8 comment(s)
+    ↳ "Need guidance" — 5 comment(s)
+    ↳ "Any investment banking folks here ??? Have some qu" — 3 comment(s)
+    ↳ "I'm 80 percent sure I'm going to vit vellore for b" — 19 comment(s)
+    ↳ "Can anyone give information about Vit Vellore coll" — 1 comment(s)
+    ↳ "Help me choose : SRM CS vs VIT Vellore ECE ( Btech" — 8 comment(s)
+    ↳ "Opinion on uni" — 7 comment(s)
+    ↳ "VIT Vellore refund fee scam." — 6 comment(s)
+    ↳ "Anyone with an "integrated M.Tech. - CSE in collab" — 0 comment(s)
+    ↳ "B.Tech. (CS with spec in cloud computing) from SRM" — 8 comment(s)
+    ↳ "should i take mechanical or take long term?" — 2 comment(s)
+    ↳ "Nit or vit?" — 6 comment(s)
+    ↳ "A major doubt regarding my college decision." — 14 comment(s)
+    ↳ "[Career Advice] Urgent. Need Help. How good is BSc" — 1 comment(s)
+    ↳ "I'm currently in VIT Vellore for counselling. Didn" — 25 comment(s)
+    ↳ "Any north Indians from VIT Vellore?" — 7 comment(s)
+    ↳ "Any VITian Here? I need some help" — 25 comment(s)
+    ↳ "[Counseling] Is there anyway to do computer engine" — 16 comment(s)
+    ↳ "Need urgent advice- Mains: 85% and 12th: 70%" — 1 comment(s)
+    ↳ "Polaris School of Technology." — 0 comment(s)
+    ↳ "Need help about choosing colleges in india for BSC" — 3 comment(s)
+    ↳ "Currently a BTech student, need help switching str" — 6 comment(s)
+    ↳ "please help me out really need help cant decide wh" — 4 comment(s)
+    ↳ "Student lives don't matter. Welcome to VIT Vellore" — 5 comment(s)
+    ↳ "Is it advisable to give CAT as a fresher with 0 wo" — 1 comment(s)
+    ↳ "Reality Check: Chances of Becoming a Professor Aft" — 4 comment(s)
+    ↳ "How is Christ University Bengaluru for MCA compare" — 3 comment(s)
+    ↳ "Depressed and demotivated i dont know what to do a" — 16 comment(s)
+    ↳ "Is bca really useless really and less compared to " — 11 comment(s)
+    ↳ "Which college is better for BCA? Christ Yeshwantpu" — 2 comment(s)
+    ↳ "Confused between MCA in Thapar Institute, Patiala " — 17 comment(s)
+    ↳ "VIT Btech biotechnology ranking and scope for jobs" — 2 comment(s)
+    ↳ "My rapido driver almost got hit by goons with meta" — 12 comment(s)
+    ↳ "Is vit vellore a good option for a girl student?" — 25 comment(s)
+    ↳ "should I stay at my local tier 3 btech clg or shou" — 9 comment(s)
+    ↳ "CTF team" — 6 comment(s)
+    ↳ "Is 27 days enough prep to get cat 1 or 2 for vit v" — 17 comment(s)
+    ↳ "does vit discriminate based on marks" — 14 comment(s)
+    ↳ "Sports quota query" — 2 comment(s)
+    ↳ "is vit worth it (how much)" — 17 comment(s)
+    ↳ "How is VIT Vellore school of design??? i have appl" — 4 comment(s)
+    ↳ "VITEEE prep" — 10 comment(s)
+    ↳ "Is getting into vit really that tough!?" — 25 comment(s)
+    ↳ "Is Integrated MTech CSE with Virtusa in VIT Vellor" — 2 comment(s)
+    ↳ "Should I apply and if yes HOW should I prepare?" — 21 comment(s)
+    ↳ "HELP ME OUT (PLZZ)" — 9 comment(s)
+    ↳ "Questions regarding VIT Vellore" — 13 comment(s)
+    ↳ "My friend started a courier service near VIT Vello" — 11 comment(s)
+    ↳ "About Makeup Examination Results...??(VIT VELLORE)" — 1 comment(s)
+    ↳ "No more DOSA in mess!" — 13 comment(s)
+    ↳ "Mess Item Change" — 9 comment(s)
+    ↳ "ChocoBerry Near VIT Gate 3 Straight Outta My Car D" — 5 comment(s)
+    ↳ "VIT Vellore even possible with 84% in Boards? (Int" — 8 comment(s)
+    ↳ "Do we need to be physically present during hostel " — 3 comment(s)
+    ↳ "Football Jerseys for Sale ⚽ | Master Quality | Roo" — 1 comment(s)
+    ↳ "NOC for Summer Internship" — 0 comment(s)
+    ↳ "Attendance doubt" — 6 comment(s)
+    ↳ "Need Any Blood Group Donor from Vellore VIT Campus" — 1 comment(s)
+    ↳ "Need Blood Donors from VIT Vellore Campus Students" — 3 comment(s)
+    ↳ "Woman’s hostel recommendations for a 1st biotech s" — 2 comment(s)
+    ↳ "seniors pls help" — 20 comment(s)
+    ↳ "Help me (dropper) for viteee 2026" — 6 comment(s)
+    ↳ "“From ‘16BME…’ to 2026: VIT Memories Hit Hard”" — 25 comment(s)
+    ↳ "Admission in VIT vellore through foreign/OCI route" — 4 comment(s)
+    ↳ "Rust" — 1 comment(s)
+    ↳ "Ice pack for tooth extraction near VIT" — 1 comment(s)
+    ↳ "Army sir 😈😈 in Vit Vellore!!🇮🇳🇮🇳🪖" — 7 comment(s)
+    ↳ "Good non-veg / North Indian food near VIT Vellore?" — 25 comment(s)
+    ↳ "Highest rating holder in Codeforces from vit vello" — 3 comment(s)
+    ↳ "Are papers for different classes made by the speci" — 3 comment(s)
+    ↳ "gym open tmrw on 26th jan?" — 3 comment(s)
+    ↳ "For the first time, my parents aren't being suppor" — 8 comment(s)
+    ↳ "Please read this. (Just 5 minutes)" — 9 comment(s)
+    ↳ "HELP GUYS" — 12 comment(s)
+    ↳ "Truth about Vit ( please read)" — 25 comment(s)
+    ↳ "SSN Chennai (ECE/EEE) Vs VIT vellore Electronics a" — 3 comment(s)
+    ↳ "SSN Chennai (ECE/EEE) Vs VIT vellore Electronics a" — 1 comment(s)
+    ↳ "Seniors should I join Vit? " — 5 comment(s)
+    ↳ "VIT vellore students please help!!!" — 25 comment(s)
+    ↳ "Unpopular opinion (?) - SRM, VIT Vellore and many " — 22 comment(s)
+    ↳ "any girls planning to go to mit manipal for cse?" — 25 comment(s)
+    ↳ "Didn't perform well at mains but performed well in" — 16 comment(s)
+    ↳ "Should I go to VIT Vellore to study integrated MTe" — 8 comment(s)
+    ↳ "In terrible need of actual real world on college s" — 24 comment(s)
+    ↳ "Looking to migrate from r/jeeneetards to this sub " — 11 comment(s)
+    ↳ "Honest opinion about VIT" — 21 comment(s)
+    ↳ "Need help regarding VIT Vellore admission (failing" — 1 comment(s)
+    ↳ "URGENT HELP NEEDED: Parents refuse to pay my colle" — 25 comment(s)
+    ↳ "Rant about my parents." — 25 comment(s)
+    ↳ "MAIT (IT) Vs VITEEE VELLORE (CSE) cat 3" — 1 comment(s)
+    ↳ "Confused where to take admission" — 13 comment(s)
+    ↳ "Give my VITEEE exam today , here how it went" — 2 comment(s)
+    ↳ "Viteee exam strategy help" — 1 comment(s)
+    ↳ "VIT exam center not showing in my e-admit card" — 25 comment(s)
+    ↳ "VITEEE ADMIT CARD HELP" — 11 comment(s)
+    ↳ "!!!THE APRIL STARTEGY!!!" — 25 comment(s)
+    ↳ "Currently in my 2nd Semester at VIT Vellore, AMA" — 25 comment(s)
+    ↳ "Currently Open Applications (Jan 8 Update)" — 2 comment(s)
+    ↳ "All exams for PCM students" — 25 comment(s)
+    ↳ "My JEE 2024 story (Spolier: JEE didnt go well, but" — 13 comment(s)
+    ↳ "VIT VELLORE ECE CATEGORY " — 8 comment(s)
+    ↳ "Most accurate BITSAT 2024 Prediction + much more [" — 25 comment(s)
+    ↳ "I got 78000 rank in VITEEE 2024.Can I get CSE/ECE " — 8 comment(s)
+    ↳ "Should I take VIT vellore cse or take a drop" — 25 comment(s)
+    ↳ "Title bahot bade dilemma me he" — 2 comment(s)
+    ↳ "VITEEE SCAM EXPOSED" — 1 comment(s)
+    ↳ "I feel like a failure and don't know what to do" — 2 comment(s)
+    ↳ "Should i prefer a stream over a college or the oth" — 8 comment(s)
+    ↳ "Can I take 5 years integrated M.Tech course in VIT" — 12 comment(s)
+    ↳ "What should i choose between VIT Vellore cat 5 and" — 19 comment(s)
+    ↳ "Is paying 26 lakhs for a CS btech in VIT Vellore w" — 25 comment(s)
+    ↳ "Any VIT student i can get in touch with, especiall" — 5 comment(s)
+    ↳ "How much does location of a college affect its pla" — 25 comment(s)
+    ↳ "Should I go for VIT CSE (Vellore branch). Even tho" — 19 comment(s)
+    ↳ "[OC Article] How to make the most out of your JEE " — 25 comment(s)
+    ↳ "12th student here who screwed up JEE Mains real ba" — 25 comment(s)
+    ↳ "CutOff for CSE/ IT branch in VIT Vellore" — 7 comment(s)
+    ↳ "Viteee, Pls read my story 😭" — 25 comment(s)
+    ↳ "Thinking of BTech Biotech at VIT Vellore, seniors," — 20 comment(s)
+    ↳ "vit" — 3 comment(s)
+    ↳ "Bro I got like 80k in viteee wtf is there any hope" — 24 comment(s)
+    ↳ "confused between vit vellore or mit manipal!!!help" — 25 comment(s)
+    ↳ "Give my VITEEE exam today" — 23 comment(s)
+    ↳ "Seniors very serious serious question it is and pl" — 2 comment(s)
+    ↳ "Regarding viteee !" — 17 comment(s)
+    ↳ "Guys can I get mechanical in vit vellore if I scor" — 17 comment(s)
+    ↳ "Need Mechanical Engineering Review" — 12 comment(s)
+    ↳ "Tips/advice" — 8 comment(s)
+    ↳ "How Does VITEEE Ranking Actually Work? Is It Rando" — 25 comment(s)
+    ↳ "DIRECT ADMISSION for VIT and SRM campuses" — 25 comment(s)
+    ↳ "How to prepare well for viteee examination..." — 13 comment(s)
+    ↳ "marks required in viteee to get mechanical at vell" — 25 comment(s)
+    ↳ "Vitians, i wanted to know about cse bioinformatics" — 5 comment(s)
+    ↳ "Only VITians Can Answer This Question." — 25 comment(s)
+    ↳ "Only VITians Can Answer This Question - Is VIT Vel" — 6 comment(s)
+    ↳ "Viteee 2025, help needed" — 14 comment(s)
+    ↳ "Is VITEEE really legit ??" — 25 comment(s)
+    ↳ "Tips for Clearing the VITEEE (VIT Entrance Exam) f" — 25 comment(s)
+    ↳ "Need honest review on vit Vellore cse bioinformati" — 25 comment(s)
+    ↳ "How is btech cse+ bioinformatics for pcb students?" — 0 comment(s)
+    ↳ "VIT VELLORE ADMISSION" — 11 comment(s)
+    ↳ "SENIORS PLEASE HELP" — 25 comment(s)
+    ↳ "Currently in class 12" — 25 comment(s)
+    ↳ "I don't know what to do " — 15 comment(s)
+    ↳ "ICPC Prelims Results Analysis" — 25 comment(s)
+    ↳ "ScienceChronicle lists 32 Indian Universities as "" — 25 comment(s)
+    ↳ "Research Integrity index and indian universities." — 25 comment(s)
+    ↳ "Any vit mtech students? Pleaseee helpppp" — 7 comment(s)
+    ↳ "Tiering of colleges does not make any sense." — 25 comment(s)
+    ↳ "I WANT ADVICE" — 23 comment(s)
+    ↳ "TOP 30 engineering colleges in the country accordi" — 1 comment(s)
+    ↳ "IIIT recommendations for CSE/IT/AI" — 4 comment(s)
+    ↳ "Any vit mtech studentss? Pleasee hellp meee" — 1 comment(s)
+    ↳ "Other Alternate exams that JEE aspirants should gi" — 25 comment(s)
+    ↳ "Found this article online, might help for 2023 Asp" — 8 comment(s)
+    ↳ "ULTIMATE GUIDE for those who need help in Choosing" — 12 comment(s)
+    ↳ "College Tier (but a better and more descriptive on" — 25 comment(s)
+    ↳ "Does this mail/message (unique situation) to a rec" — 5 comment(s)
+    ↳ "Requesting Resume Review (Upcoming Placement Seaso" — 2 comment(s)
+    ↳ "Job at FAANG with a tier 2 education in computer s" — 6 comment(s)
+    ↳ "Why me, rather, why not me?" — 25 comment(s)
+    ↳ "Please recommend some websites or resources" — 9 comment(s)
+    ↳ "How has Vellore institute of technology progressed" — 3 comment(s)
+    ↳ "Need a referral for job ( Degree- Btech in Mechani" — 2 comment(s)
+    ↳ "IFF writes to the Parliamentary Standing Committee" — 0 comment(s)
+    ↳ "Vellore Institute of Technology, Bhopal, suspends " — 25 comment(s)
+    ↳ "Top IITs and IISc slip in global rankings" — 19 comment(s)
+    ↳ "Ethics module of Vellore institute of technology" — 25 comment(s)
+    ↳ "3D art work in Vellore Institute of Technology " — 9 comment(s)
+    ↳ "18M Need Help Engineering Computer science help" — 2 comment(s)
+    ↳ "Vellore institute of technology, msc biotechnology" — 1 comment(s)
+    ↳ "Guys, I require a advice in choosing a college for" — 2 comment(s)
+    ↳ "How is the CSE bioinformatics course at Vellore In" — 1 comment(s)
+    ↳ "BBA from Vellore Institute Of Technology (Vellore " — 0 comment(s)
+    ↳ "Engineering aspirant here, currently taken admissi" — 25 comment(s)
+    ↳ "Another "which engineering college should I pick" " — 25 comment(s)
+    ↳ "I am an 11th, going to 12th grader with MPC. I am " — 8 comment(s)
+    ↳ "What to chose between MIT (Manipal Institute of Te" — 7 comment(s)
+    ↳ "Didn't do so well in IIT/BITSAT , now I have gotte" — 25 comment(s)
+    ↳ "To someone special." — 25 comment(s)
+    ↳ "Hearty Congratulations Dongre Archit Parag 🎉 (Secu" — 4 comment(s)
+    ↳ "Vellore Institute of Technology Research Entrance " — 1 comment(s)
+    ↳ "Bangalore institute of technology cse(cyber sec) v" — 6 comment(s)
+    ↳ "week Experience !!" — 25 comment(s)
+    ↳ "Vellore Institute Of Technology 🌇" — 5 comment(s)
+    ↳ "Vellore Institute of Technology (VIT) Founder Dr. " — 2 comment(s)
+    ↳ "Help me decide" — 2 comment(s)
+    ↳ "Should I stop looking for internships?" — 10 comment(s)
+    ↳ "YOU WILL MEET THE LOVE OF YOUR LIFE IN NEXT SEM IF" — 5 comment(s)
+    ↳ "Worked Hard for JEE, Got into a Govt College, but " — 2 comment(s)
+    ↳ "Bba from iim Jammu/bodhgaya or btech from tier 2 o" — 14 comment(s)
+    ↳ "Is it worth taking VIT (Vellore) for M.Tech?" — 6 comment(s)
+    ↳ "VIT Vellore Mech Cat 1 or KIIT CSE?" — 8 comment(s)
+    ↳ "Is MAIT delhi a good college??" — 25 comment(s)
+    ↳ "Can I write GATE and still attend placements? [VIT" — 3 comment(s)
+    ↳ "Need advice regarding career path" — 0 comment(s)
+    ↳ "Advise on what to do for good placements in the co" — 7 comment(s)
+    ↳ "Third year student here.... need some adavice" — 20 comment(s)
+    ↳ "Top 10 private colleges ranking(CSE)" — 25 comment(s)
+    ↳ "MIT Blr doubt" — 14 comment(s)
+    ↳ "Should I go for an integrated M Tech in CSE at VIT" — 8 comment(s)
+    ↳ "[FAQs/Guide] Backlogs/KTs: Everything you need to " — 25 comment(s)
+    ↳ "VIT VELLORE IT vs COEP EnTC" — 16 comment(s)
+    ↳ "My sister has 99.449 percentile in mhtcet" — 7 comment(s)
+    ↳ "College Choice" — 3 comment(s)
+    ↳ "How good is symbiosis hyd cse" — 1 comment(s)
+    ↳ "Review of MIT Manipal: Should I join?" — 25 comment(s)
+    ↳ "Im choosing to do cse in vit vellore over shiv nad" — 2 comment(s)
+    ↳ "Important doubt regarding choosing a college " — 4 comment(s)
+    ↳ "I'm really confused about college/stream pls help " — 4 comment(s)
+    ↳ "HELP KARDO BHAIYO" — 21 comment(s)
+    ↳ "Please help my friend out regarding college prefer" — 3 comment(s)
+    ↳ "THE JOKE THAT IS OUR INDIAN EDUCATION SYSTEM. PLEA" — 25 comment(s)
+    ↳ "BANNED IN VIT SUB FOR SPEAKING THE TRUTH 💀" — 25 comment(s)
+    ↳ "Stumbled upon this sub, thought I would share my s" — 25 comment(s)
+    ↳ "Darkshit of VIT, is it true!? r/redtaganna . ANON " — 25 comment(s)
+    ↳ "Unpopular opinion (?) - SRM, VIT Vellore and many " — 25 comment(s)
+    ↳ "VIT Vellore Cat 1 for desired course or BITS colle" — 2 comment(s)
+    ↳ "NEED ADVICE!!" — 4 comment(s)
+    ↳ "First post" — 5 comment(s)
+    ↳ "Which College Should i chose: SIT Pune or VIT Vell" — 3 comment(s)
+    ↳ "SRM KTR CSE vs VIT-AP CSE - Which is a better opti" — 11 comment(s)
+    ↳ "Are IIIT's bad?" — 25 comment(s)
+    ↳ "You see, if you have been provided with online edu" — 17 comment(s)
+    ↳ "Guys! Please Help! I'm confused." — 9 comment(s)
+    ↳ "VIT Vellore CSE vs BITS Pilani MSc Math Dual Degre" — 25 comment(s)
+    ↳ "Should I give up on BITS pilani CIVIL for CSE in t" — 10 comment(s)
+    ↳ "[Rant] [VIT] Joined with high hopes, but my life i" — 25 comment(s)
+    ↳ "Can VIT vellore be good for studying animation?" — 1 comment(s)
+    ↳ "Which College Should i chose: SIT Pune or VIT Vell" — 14 comment(s)
+    ↳ "SRM KTR CSE vs VIT-AP CSE - Which is a better opti" — 15 comment(s)
+    ↳ "Average student looking for good ROI college. Whic" — 17 comment(s)
+    ↳ "VIT Counselling process doubts and rank vs Branch " — 25 comment(s)
+    ↳ "Tier Ranking of Engineering Colleges in India and " — 19 comment(s)
+    ↳ "Integrated M.Tech (CSE) at VIT Vellore Is it worth" — 13 comment(s)
+    ↳ "Integrated M.Tech (CSE) at VIT Vellore ????" — 1 comment(s)
+    ↳ "B Arch details" — 5 comment(s)
+    ↳ "How backlogs work in VIT Vellore?" — 11 comment(s)
+    ↳ "Is VIT Vellore actually good ??" — 7 comment(s)
+    ↳ "The guy who have cheated in ION Group Interview" — 25 comment(s)
+    ↳ "I am will later post a Placement Tracker for MTech" — 4 comment(s)
+    ↳ "Extra course on rejecting placement offer" — 18 comment(s)
+    ↳ "About the opportunities in VIT Vellore- please tel" — 13 comment(s)
+    ↳ "VIT Vellore Placements Record: Highest Package, Av" — 1 comment(s)
+    ↳ "Feeling Surreal now" — 25 comment(s)
+    ↳ "VIT-C vs VIT-V in terms of opportunities in Aerona" — 0 comment(s)
+    ↳ "Vit vellore cat1 mechanical??" — 4 comment(s)
+    ↳ "Seniors pls help !!" — 18 comment(s)
+    ↳ "Is VIT really that bad? Im filling up form of VITE" — 25 comment(s)
+    ↳ "(18F) hi guys i want to enquire about vit vellore" — 22 comment(s)
+    ↳ "Missed placement registration phase 1 deadline" — 1 comment(s)
+    ↳ "19 M PCB(No Maths)pass out confused about going fo" — 7 comment(s)
+    ↳ "How to apply for Examination Appellate Committee" — 1 comment(s)
+    ↳ "HoD needs to chill." — 25 comment(s)
+    ↳ "Need Advice from passouts or seniors" — 11 comment(s)
+    ↳ "Prospects for pursuing Masters elsewhere" — 4 comment(s)
+    ↳ "Seniors, Kindy share your views on this issue of V" — 12 comment(s)
+    ↳ "VIT VELLORE PLACEMENT 2026?" — 5 comment(s)
+    ↳ "VIT Placements Statistics Scam !" — 5 comment(s)
+    ↳ "CSE Specialization scam" — 25 comment(s)
+    ↳ "What is the reality of placements is going in VIT " — 4 comment(s)
+    ↳ "Vit vellore placements this year .." — 1 comment(s)
+    ↳ "ECE CORE PLACEMENTS (VIT VELLORE)" — 25 comment(s)
+    ↳ "Change in college?" — 16 comment(s)
+    ↳ "24-25 batch MCA @VITVellore Guys please help!!!!" — 0 comment(s)
+    ↳ "VIT Vellore posted 2023-24 placements highlights" — 25 comment(s)
+    ↳ "HELP" — 6 comment(s)
+    ↳ "Cse with Bioinformatics " — 0 comment(s)
+    ↳ "helpppp" — 1 comment(s)
+    ↳ "Vitians pls help" — 1 comment(s)
+    ↳ "Please help" — 1 comment(s)
+    ↳ "Thapar first round cutoffs 2025 💀" — 25 comment(s)
+    ↳ "Guys will i get 25lpa in vit ??" — 25 comment(s)
+    ↳ "Need honest advice !" — 0 comment(s)
+    ↳ "VIT Vellore 2025 placement stats | BTech CSE media" — 25 comment(s)
+    ↳ "VIT Vellore 2024 placement stats | BTech CSE media" — 25 comment(s)
+    ↳ "Hackathon jakar aukat pata chal gayi " — 9 comment(s)
+    ↳ "Help 1st sem btech" — 1 comment(s)
+    ↳ "Rant/Vent" — 25 comment(s)
+    ↳ "Gonna take cse in vit Vellore , what can I expect?" — 11 comment(s)
+    ↳ "Is Integrated M.Tech good?" — 2 comment(s)
+    ↳ "Should I consider a drop?" — 16 comment(s)
+    ↳ "college suggestions please?" — 6 comment(s)
+    ↳ "Is CSE cooked in the future?" — 5 comment(s)
+    ↳ "VIT vellore IT vs VIT pune cse" — 17 comment(s)
+    ↳ "i will kms" — 15 comment(s)
+    ↳ "VIT VELLORE CSE OR JIIT NOIDA 128 CSE??" — 10 comment(s)
+    ↳ "Thapar first round cutoffs 2025 💀" — 25 comment(s)
+    ↳ "Manipal or VIT Vellore?" — 1 comment(s)
+    ↳ "OP kahi toh ja raha hai 💀" — 7 comment(s)
+    ↳ "Seat Allotment seems Suspicious" — 8 comment(s)
+    ↳ "Should i take a 2nd drop for jee or take vit vello" — 25 comment(s)
+    ↳ "VIT 1st year CS, what's the criteria for transferr" — 13 comment(s)
+    ↳ "VIT Vellore CSE (Cat 4) or Amrita Coimbatore EEE o" — 25 comment(s)
+    ↳ "Core CSE or CSE with specialization, which is bett" — 1 comment(s)
+    ↳ "What to do as a 1st year Btech CSE student? Advice" — 19 comment(s)
+    ↳ "What laptop should i get as a fresher going into c" — 25 comment(s)
+    ↳ "Wanting Serious Advice as a JEE Aspirant. Unsure a" — 8 comment(s)
+    ↳ "do share your insights regarding the following" — 0 comment(s)
+    ↳ "Explain to me what B. Tech Mechanical with minor i" — 3 comment(s)
+    ↳ "How to plan my 4 years of college life persuing CS" — 1 comment(s)
+    ↳ "What to chose since I scored very less in JEE(belo" — 25 comment(s)
+    ↳ "Does VIT allow to transfer colleges in second year" — 2 comment(s)
+    ↳ "Do you guys think VIT Vellore CSE Core cat-3 is a " — 11 comment(s)
+    ↳ "What to choose between VIT Vellore CSE and SRM KTR" — 16 comment(s)
+    ↳ "Honest review of VIT Vellore (for CSE) needed. How" — 25 comment(s)
+    ↳ "[12th Pass here] How to choose for future IIITH LE" — 25 comment(s)
+    ↳ "What is up with all these cse specializations in v" — 2 comment(s)
+    ↳ "I was thinking of joining VIT Vellore for cse Bioi" — 15 comment(s)
+    ↳ "Advice needed: Direct PhD at VIT Vellore (B.Tech I" — 8 comment(s)
+    ↳ "Coming out :)" — 25 comment(s)
+    ↳ "VIT VS JADAVPUR" — 10 comment(s)
+    ↳ "Placement" — 1 comment(s)
+    ↳ "Help me!" — 25 comment(s)
+    ↳ "What subjects do I need to prepare for before join" — 25 comment(s)
+    ↳ "Cse (data science ) 2029" — 12 comment(s)
+    ↳ "Education Loan for VIT-V" — 11 comment(s)
+    ↳ "What all should I start studying?" — 25 comment(s)
+    ↳ "how much extra burden is a minor?" — 8 comment(s)
+    ↳ "Can I choose my roomate? (NRI)" — 4 comment(s)
+    ↳ "Which laptop to buy? (Vellore CSE)" — 25 comment(s)
+    ↳ "Doubts regarding clubs/societies" — 13 comment(s)
+    ↳ "BITS MECHANICAL/CIVIL vs VIT VELLORE CSE" — 25 comment(s)
+    ↳ "how tough is it to maintain a 9+ cgpa {cse} in  vi" — 16 comment(s)
+    ↳ "(19F )Might join cse core in vit vellore this year" — 25 comment(s)
+    ↳ "What is this administration doing?" — 25 comment(s)
+    ↳ "Yo, anyone from VIT Vellore know the total number " — 3 comment(s)
+    ↳ "BITS Dual degree vs VIT Vellore CSE" — 20 comment(s)
+    ↳ "When should I book train tickets to VIT" — 13 comment(s)
+    ↳ "VIT vellore CSE vs SNU Chennai AI DS" — 2 comment(s)
+    ↳ "Analyst roles" — 4 comment(s)
+    ↳ "Vit vellore cse or msrit cse?" — 3 comment(s)
+    ↳ "VIT int. CSE or CSE in a T-3 college" — 8 comment(s)
+    ↳ "vit vellore fresher doubt" — 9 comment(s)
+    ↳ "Is it worth it" — 17 comment(s)
+    ↳ "Advice for incoming freshers" — 25 comment(s)
+    ↳ "Is there any cse core freshers grp (vellore campus" — 4 comment(s)
+    ↳ "Regarding the Hostel Situation at VIT" — 25 comment(s)
+    ↳ "Integrated mtech cse vit vellore i got 94.6% pcm a" — 5 comment(s)
+    ↳ "VIT Vellore CSE (cat 3) vs PES RR campus CSE (thro" — 7 comment(s)
+    ↳ "Uh ohhhh!" — 4 comment(s)
+    ↳ "manipal main campus or vit vellore for civil engin" — 2 comment(s)
+    ↳ "VIT Vellore B.Tech Admission – When to Report?" — 24 comment(s)
+    ↳ "Buying access of VTOP of a 2nd/3rd year CSE Core s" — 13 comment(s)
+    ↳ "Vitee 2025 Hostel selection?" — 8 comment(s)
+    ↳ "Vit vellore cse cat 5 vs vit channai cse cat 3 (ac" — 25 comment(s)
+    ↳ "Yo senior help" — 6 comment(s)
+    ↳ "regarding subjects" — 3 comment(s)
+    ↳ "LIFE AT VIT VELLORE" — 3 comment(s)
+    ↳ "Please anyone advice me 😢" — 6 comment(s)
+    ↳ "Anybody doing BCA from VIT Vellore, need a review" — 1 comment(s)
+    ↳ "Faculty got changed from Pooja Chaudhary to Deepan" — 2 comment(s)
+    ↳ "What's the procedure to get painless death" — 25 comment(s)
+    ↳ "I am the biggest idiot" — 25 comment(s)
+    ↳ "Summer Sem Queries" — 6 comment(s)
+    ↳ "Details on college life" — 25 comment(s)
+    ↳ "No Breaks Between Exams for Integrated M.Tech Stud" — 20 comment(s)
+    ↳ "Can someone give a overall review of B.tech CSE (B" — 6 comment(s)
+    ↳ "Vit Vellore Hostel query maybe" — 2 comment(s)
+    ↳ "Total fees for category 3 at VIT Vellore" — 14 comment(s)
+    ↳ "Should I take Vit Vellore Cs cat3 ( Fee 4lakh/yr +" — 9 comment(s)
+    ↳ "Seniors help needed pls 🤔 rate the college pls" — 8 comment(s)
+    ↳ "VIT Vellore CSE vs JIIT CSE" — 5 comment(s)
+    ↳ "Help me in choosing college" — 3 comment(s)
+    ↳ "Vit Vellore hostel query for freshers" — 1 comment(s)
+    ↳ "GUYS REALLY NEED HELP---PLEASE" — 25 comment(s)
+    ↳ "Joining VIT Vellore CSE soon" — 2 comment(s)
+    ↳ "Emosional Damage..." — 11 comment(s)
+    ↳ "Need Advice [Serious]" — 7 comment(s)
+    ↳ "Should I take Vit Vellore Cs cat3 ( Fee 4lakh/yr +" — 3 comment(s)
+    ↳ "Need insight regarding college" — 14 comment(s)
+    ↳ "Question about VIT Vellore" — 11 comment(s)
+    ↳ "Where is this subreddit's moving to college guide?" — 0 comment(s)
+    ↳ "DON'T FUCKI*G JOIN AN INSTITUTE COZ OF IT'S TAG." — 25 comment(s)
+    ↳ "How are the living conditions at VIT vellore? The " — 25 comment(s)
+    ↳ "Cricket at vit vellore" — 2 comment(s)
+    ↳ "Vit vellore mens' hostel H block veg mess" — 5 comment(s)
+    ↳ "Help" — 13 comment(s)
+    ↳ "URGENT HELP REQUIRED!! (hostel related)" — 3 comment(s)
+    ↳ "Need Help: Ordering Laptop During Prime Day but No" — 4 comment(s)
+    ↳ "Need advice" — 25 comment(s)
+    ↳ "which hostel is closer to SENSE? Joining VIT vello" — 12 comment(s)
+    ↳ "For All Mechanical Students in Vellore...." — 25 comment(s)
+    ↳ "When do I have to report to VIT Vellore? (fresher," — 25 comment(s)
+    ↳ "Quick Help Needed for Hostel Packing: VIT Vellore " — 19 comment(s)
+    ↳ "Hostel accomadations" — 11 comment(s)
+    ↳ "VIT VELLORE HOSTEL FEE & MESS FEE" — 25 comment(s)
+    ↳ "How's the placement situation for bca?" — 0 comment(s)
+    ↳ "The Truth About My Experience at VIT Vellore" — 25 comment(s)
+    ↳ "when is the girls hostel type selection for freshe" — 4 comment(s)
+    ↳ "hostel booking help" — 9 comment(s)
+    ↳ "Hostel Room" — 25 comment(s)
+    ↳ "Best Veg Mess in VIT Vellore" — 14 comment(s)
+    ↳ "Rate the college 🤔 ( seniors help needed)" — 17 comment(s)
+    ↳ "Regarding holidays" — 1 comment(s)
+    ↳ "This clg is fkin crazy" — 25 comment(s)
+    ↳ "Holi Rules" — 11 comment(s)
+    ↳ "Found a FRIED CATERPILLAR in bhindi ki sabzi" — 12 comment(s)
+    ↳ "Assholes" — 18 comment(s)
+    ↳ "Did something happen in q block?" — 9 comment(s)
+    ↳ "Hostel accommodation for 4th years" — 5 comment(s)
+    ↳ "Room allotment help." — 7 comment(s)
+    ↳ "Ladies Hostel Counseling Advice needed" — 9 comment(s)
+    ↳ "BASIC CIVIC SENSE IN VIT" — 25 comment(s)
+    ↳ "Xerox shop near men's hostel Vit vellore " — 4 comment(s)
+    ↳ "Amazon Fresh Delivery in Mens Hostel" — 3 comment(s)
+    ↳ "NAKED GUY ON DRUGS!! Men’s hostel" — 5 comment(s)
+    ↳ "Ch*d Gaye guru" — 25 comment(s)
+    ↳ "Risky situation" — 7 comment(s)
+    ↳ "Help me choose" — 2 comment(s)
+    ↳ "Doubt regarding fees refund in VIT Vellore" — 6 comment(s)
+    ↳ "Asking this because I have no other option left" — 12 comment(s)
+    ↳ "NEED GUIDANCE " — 25 comment(s)
+    ↳ "Ch*d Gaye guru" — 8 comment(s)
+    ↳ "regarding AICTE/UGC refund guidelines " — 2 comment(s)
+    ↳ "HELP CHAHIYE QTS" — 7 comment(s)
+    ↳ "SERIOUS DOUBT " — 1 comment(s)
+    ↳ "VIT Vellore accepts donations ? (Please read the p" — 25 comment(s)
+    ↳ "VIT Vellore accepts admission through donations ? " — 25 comment(s)
+    ↳ "VIT help" — 17 comment(s)
+    ↳ "Kiit vs msrit vs bms" — 5 comment(s)
+    ↳ "I'm dying of guilt" — 25 comment(s)
+    ↳ "VIT pe charcha" — 19 comment(s)
+    ↳ "Bhau VITEEE Ke bare mei samjhado koi" — 0 comment(s)
+    ↳ "vit or iiitdmk" — 3 comment(s)
+    ↳ "VIT CSE with IOT or MIT Manipal ECE" — 7 comment(s)
+    ↳ "Can't imagine it has come down to this but..." — 18 comment(s)
+    ↳ "DEAR FELLOW JEETARDS" — 18 comment(s)
+    ↳ "Does you percentile really matters?" — 25 comment(s)
+    ↳ "Which college should i joinVIT vellore ece or Mani" — 5 comment(s)
+    ↳ "Should I settle for VIT Vellore CS or drop a year " — 8 comment(s)
+    ↳ "A major doubt regarding my college decision." — 10 comment(s)
+    ↳ "No VTOP ID or Email Received (For EPT or Orientati" — 9 comment(s)
+    ↳ "Why people say avoid in mtech btech integrated in " — 25 comment(s)
+    ↳ "Admission" — 10 comment(s)
+    ↳ "Club's in vit vellore" — 7 comment(s)
+    ↳ "URGENT HELP" — 2 comment(s)
+    ↳ "VIT FRESHERS PORTAL" — 9 comment(s)
+    ↳ "HOSTEL BOOKING AND ORIENTATION" — 9 comment(s)
+    ↳ "Pls help" — 2 comment(s)
+    ↳ "latee hogya pls help!! " — 0 comment(s)
+    ↳ "Enquiry regarding hostel for Mtech program" — 6 comment(s)
+    ↳ "Fucking Lost" — 25 comment(s)
+    ↳ "HEY GUYS, HEP ASAP!!!!" — 4 comment(s)
+    ↳ "Posting this doubt for a friend, as she is not on " — 8 comment(s)
+    ↳ "Sgsits (cse) or vit Vellore cse(se)?" — 6 comment(s)
+    ↳ "VIT Withdrawal Policy" — 10 comment(s)
+    ↳ "Hostel Allotment " — 3 comment(s)
+    ↳ "Help me choose 🙏🙏" — 7 comment(s)
+    ↳ "Hostel query " — 12 comment(s)
+    ↳ "VIT VELLORE OR MANIPAL" — 13 comment(s)
+    ↳ "HELP ! Couldn't  pay seat allotment  fees yesterda" — 12 comment(s)
+    ↳ "Btech CSE vs Int Mtech DS" — 4 comment(s)
+    ↳ "M.Tech in Mechancial @ Vellore - Connect with stud" — 3 comment(s)
+    ↳ "Confused regarding VIT Vellore MCA. Anyone from MC" — 2 comment(s)
+    ↳ "VITMEE MCA" — 17 comment(s)
+    ↳ "Doubt regarding fee payment" — 5 comment(s)
+    ↳ "Asking this because I am at a really low point in " — 25 comment(s)
+    ↳ "Refund Policy " — 17 comment(s)
+    ↳ "Need advice on VIT Vellore" — 10 comment(s)
+    ↳ "Need Urgent advice: boards 70% and mains 85%" — 4 comment(s)
+    ↳ "IS TAKING LOAN OF 15LAKHS IS WORTH FOR CS IN MITM" — 25 comment(s)
+    ↳ "VIT Vellore Cutoff 2025 Expected" — 7 comment(s)
+    ↳ "Unfiltered and Detailed Placement stats?" — 4 comment(s)
+    ↳ "Is it worth doing btech mech at VIT vellore cat 2/" — 11 comment(s)
+    ↳ "The question that's asked every year : VIT or MIT?" — 25 comment(s)
+    ↳ "So I am goona list some college down here can u gu" — 5 comment(s)
+    ↳ "Educational Background of Top 3 rankers" — 25 comment(s)
+    ↳ "Need serious guidance and advice regarding CAT" — 0 comment(s)
+    ↳ "Vit (Vishwakarma institute of technology) pune or " — 2 comment(s)
+    ↳ "What are my chances of getting into MSc Data Scien" — 19 comment(s)
+    ↳ "Common Doubt among all Btech Final Years around me" — 25 comment(s)
+    ↳ "Need help in branch choosing" — 3 comment(s)
+    ↳ "VIT Vellore CSE (Cat 2) vs LNMIIT CSE – Which is b" — 25 comment(s)
+    ↳ "MTech VLSI placements at VIT Vellore" — 25 comment(s)
+    ↳ "VITMEE Exam Preparation Guide" — 25 comment(s)
+    ↳ "How to apply for Examination Appellate Committee " — 4 comment(s)
+    ↳ "Nit hamirpur mech/civil orr vit vellore cse spec/c" — 2 comment(s)
+    ↳ "Should i choose vit chennai cse core or vit vellor" — 4 comment(s)
+    ↳ "Help Me Find My Missing Watch: Seeking Support fro" — 9 comment(s)
+    ↳ "I need some advice." — 10 comment(s)
+    ↳ "Need an honest review of LNMIIT, Jaipur" — 25 comment(s)
+    ↳ "Profile Evaluation MS CS - F’23" — 16 comment(s)
+    ↳ "Profile Evaluation MS CS - F’23" — 2 comment(s)
+    ↳ "OPINION on VIT VELLORE" — 25 comment(s)
+    ↳ "Second Droppers For JEE I need your advice" — 25 comment(s)
+    ↳ "Folks currently/Graduated from Vit, help me out!" — 1 comment(s)
+    ↳ "1-star review of VIT Vellore" — 9 comment(s)
+    ↳ "Seniors help rate the college, guidance needed! 🤔" — 11 comment(s)
+    ↳ "Assholes again" — 20 comment(s)
+    ↳ "VIT vellore men’s hostel pharmacy scam " — 12 comment(s)
+    ↳ "Switching off power " — 20 comment(s)
+    ↳ "CIC btech vs VIT vellore cse" — 20 comment(s)
+    ↳ "VIT Vellore hostel wifi issue" — 3 comment(s)
+    ↳ "Vit Vellore dorms ! An absolute headache" — 13 comment(s)
+    ↳ "THE FINAL BATTLE: MIT VS VIT" — 25 comment(s)
+    ↳ "Help please.." — 9 comment(s)
+    ↳ "Fake withdrawal submission, need urgent help" — 25 comment(s)
+    ↳ "VITV OR BITSP which one to choose?" — 22 comment(s)
+Traceback (most recent call last):
+  File "/Users/gunveerkalsi/Desktop/Oviselect/oviselect-cp-scraper/scraper/vit_reddit_scraper.py", line 697, in <module>
+    main()
+    ~~~~^^
+  File "/Users/gunveerkalsi/Desktop/Oviselect/oviselect-cp-scraper/scraper/vit_reddit_scraper.py", line 680, in main
+    all_rows[slug] = scrape_campus(slug, args)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/gunveerkalsi/Desktop/Oviselect/oviselect-cp-scraper/scraper/vit_reddit_scraper.py", line 638, in scrape_campus
+    upsert_posts(rows, dry_run=args.dry_run)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gunveerkalsi/Desktop/Oviselect/oviselect-cp-scraper/scraper/vit_reddit_scraper.py", line 487, in upsert_posts
+    sb.table("vit_reddit_posts").upsert(rows, on_conflict="campus,post_id").execute()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/gunveerkalsi/Library/Python/3.13/lib/python/site-packages/postgrest/_sync/request_builder.py", line 53, in execute
+    raise APIError(dict(json_obj))
+postgrest.exceptions.APIError: {'message': "Could not find the table 'public.vit_reddit_posts' in the schema cache", 'code': 'PGRST205', 'hint': "Perhaps you meant the table 'public.college_reddit_mentions'", 'details': None}
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (7.4.0.post2)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+
+══════════════════════════════════════════════════════════════════════
+  CAMPUS: VIT Chennai
+══════════════════════════════════════════════════════════════════════
+  Searching r/Btechtards         — "VIT Chennai"
+    r/Btechtards           q="VIT Chennai" → raw=100 pass=28 dup=0
+  Searching r/JEENEETards        — "VIT Chennai"
+    r/JEENEETards          q="VIT Chennai" → raw=100 pass=22 dup=0
+  Searching r/developersIndia    — "VIT Chennai"
+    r/developersIndia      q="VIT Chennai" → raw=21 pass=3 dup=0
+  Searching r/india              — "VIT Chennai"
+    r/india                q="VIT Chennai" → raw=30 pass=5 dup=0
+  Searching r/IITJEE             — "VIT Chennai"
+    r/IITJEE               q="VIT Chennai" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai"
+    r/EngineeringStudents  q="VIT Chennai" → raw=14 pass=1 dup=0
+  Searching r/Indian_Academia    — "VIT Chennai"
+    r/Indian_Academia      q="VIT Chennai" → raw=100 pass=21 dup=0
+  Searching r/vit                — "VIT Chennai"
+    r/vit                  q="VIT Chennai" → raw=100 pass=33 dup=0
+  Searching r/vituniversity      — "VIT Chennai"
+    r/vituniversity        q="VIT Chennai" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Vandalur"
+    r/Btechtards           q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/JEENEETards        — "VIT Vandalur"
+    r/JEENEETards          q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/developersIndia    — "VIT Vandalur"
+    r/developersIndia      q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/india              — "VIT Vandalur"
+    r/india                q="VIT Vandalur" → raw=1 pass=0 dup=0
+  Searching r/IITJEE             — "VIT Vandalur"
+    r/IITJEE               q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Vandalur"
+    r/EngineeringStudents  q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/Indian_Academia    — "VIT Vandalur"
+    r/Indian_Academia      q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/vit                — "VIT Vandalur"
+    r/vit                  q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/vituniversity      — "VIT Vandalur"
+    r/vituniversity        q="VIT Vandalur" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT-C campus"
+    r/Btechtards           q="VIT-C campus" → raw=5 pass=0 dup=0
+  Searching r/JEENEETards        — "VIT-C campus"
+    r/JEENEETards          q="VIT-C campus" → raw=8 pass=0 dup=0
+  Searching r/developersIndia    — "VIT-C campus"
+    r/developersIndia      q="VIT-C campus" → raw=6 pass=0 dup=0
+  Searching r/india              — "VIT-C campus"
+    r/india                q="VIT-C campus" → raw=1 pass=0 dup=0
+  Searching r/IITJEE             — "VIT-C campus"
+    r/IITJEE               q="VIT-C campus" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT-C campus"
+    r/EngineeringStudents  q="VIT-C campus" → raw=2 pass=0 dup=0
+  Searching r/Indian_Academia    — "VIT-C campus"
+    r/Indian_Academia      q="VIT-C campus" → raw=1 pass=0 dup=1
+  Searching r/vit                — "VIT-C campus"
+    r/vit                  q="VIT-C campus" → raw=18 pass=1 dup=0
+  Searching r/vituniversity      — "VIT-C campus"
+    r/vituniversity        q="VIT-C campus" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Chennai placements"
+    r/Btechtards           q="VIT Chennai placements" → raw=42 pass=8 dup=3
+  Searching r/JEENEETards        — "VIT Chennai placements"
+    r/JEENEETards          q="VIT Chennai placements" → raw=38 pass=8 dup=3
+  Searching r/developersIndia    — "VIT Chennai placements"
+    r/developersIndia      q="VIT Chennai placements" → raw=5 pass=0 dup=0
+  Searching r/india              — "VIT Chennai placements"
+    r/india                q="VIT Chennai placements" → raw=5 pass=0 dup=1
+  Searching r/IITJEE             — "VIT Chennai placements"
+    r/IITJEE               q="VIT Chennai placements" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai placements"
+    r/EngineeringStudents  q="VIT Chennai placements" → raw=4 pass=0 dup=1
+  Searching r/Indian_Academia    — "VIT Chennai placements"
+    r/Indian_Academia      q="VIT Chennai placements" → raw=22 pass=1 dup=6
+  Searching r/vit                — "VIT Chennai placements"
+    r/vit                  q="VIT Chennai placements" → raw=91 pass=36 dup=6
+  Searching r/vituniversity      — "VIT Chennai placements"
+    r/vituniversity        q="VIT Chennai placements" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Chennai review"
+    r/Btechtards           q="VIT Chennai review" → raw=3 pass=0 dup=0
+  Searching r/JEENEETards        — "VIT Chennai review"
+    r/JEENEETards          q="VIT Chennai review" → raw=9 pass=2 dup=0
+  Searching r/developersIndia    — "VIT Chennai review"
+    r/developersIndia      q="VIT Chennai review" → raw=1 pass=0 dup=0
+  Searching r/india              — "VIT Chennai review"
+    r/india                q="VIT Chennai review" → raw=1 pass=0 dup=0
+  Searching r/IITJEE             — "VIT Chennai review"
+    r/IITJEE               q="VIT Chennai review" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai review"
+    r/EngineeringStudents  q="VIT Chennai review" → raw=1 pass=0 dup=0
+  Searching r/Indian_Academia    — "VIT Chennai review"
+    r/Indian_Academia      q="VIT Chennai review" → raw=1 pass=0 dup=0
+  Searching r/vit                — "VIT Chennai review"
+    r/vit                  q="VIT Chennai review" → raw=9 pass=3 dup=2
+  Searching r/vituniversity      — "VIT Chennai review"
+    r/vituniversity        q="VIT Chennai review" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Chennai CSE"
+    r/Btechtards           q="VIT Chennai CSE" → raw=100 pass=8 dup=19
+  Searching r/JEENEETards        — "VIT Chennai CSE"
+    r/JEENEETards          q="VIT Chennai CSE" → raw=100 pass=6 dup=18
+  Searching r/developersIndia    — "VIT Chennai CSE"
+    r/developersIndia      q="VIT Chennai CSE" → raw=6 pass=0 dup=1
+  Searching r/india              — "VIT Chennai CSE"
+    r/india                q="VIT Chennai CSE" → raw=4 pass=0 dup=1
+  Searching r/IITJEE             — "VIT Chennai CSE"
+    r/IITJEE               q="VIT Chennai CSE" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai CSE"
+    r/EngineeringStudents  q="VIT Chennai CSE" → raw=7 pass=0 dup=1
+  Searching r/Indian_Academia    — "VIT Chennai CSE"
+    r/Indian_Academia      q="VIT Chennai CSE" → raw=48 pass=4 dup=8
+  Searching r/vit                — "VIT Chennai CSE"
+    r/vit                  q="VIT Chennai CSE" → raw=100 pass=16 dup=12
+  Searching r/vituniversity      — "VIT Chennai CSE"
+    r/vituniversity        q="VIT Chennai CSE" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Chennai hostel"
+    r/Btechtards           q="VIT Chennai hostel" → raw=15 pass=0 dup=1
+  Searching r/JEENEETards        — "VIT Chennai hostel"
+    r/JEENEETards          q="VIT Chennai hostel" → raw=19 pass=4 dup=2
+  Searching r/developersIndia    — "VIT Chennai hostel"
+    r/developersIndia      q="VIT Chennai hostel" → raw=1 pass=0 dup=1
+  Searching r/india              — "VIT Chennai hostel"
+    r/india                q="VIT Chennai hostel" → raw=1 pass=0 dup=0
+  Searching r/IITJEE             — "VIT Chennai hostel"
+    r/IITJEE               q="VIT Chennai hostel" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai hostel"
+    r/EngineeringStudents  q="VIT Chennai hostel" → raw=1 pass=0 dup=0
+  Searching r/Indian_Academia    — "VIT Chennai hostel"
+    r/Indian_Academia      q="VIT Chennai hostel" → raw=9 pass=0 dup=3
+  Searching r/vit                — "VIT Chennai hostel"
+    r/vit                  q="VIT Chennai hostel" → raw=100 pass=43 dup=13
+  Searching r/vituniversity      — "VIT Chennai hostel"
+    r/vituniversity        q="VIT Chennai hostel" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Chennai fees"
+    r/Btechtards           q="VIT Chennai fees" → raw=32 pass=7 dup=0
+  Searching r/JEENEETards        — "VIT Chennai fees"
+    r/JEENEETards          q="VIT Chennai fees" → raw=56 pass=10 dup=7
+  Searching r/developersIndia    — "VIT Chennai fees"
+    r/developersIndia      q="VIT Chennai fees" → raw=2 pass=0 dup=1
+  Searching r/india              — "VIT Chennai fees"
+    r/india                q="VIT Chennai fees" → raw=1 pass=0 dup=0
+  Searching r/IITJEE             — "VIT Chennai fees"
+    r/IITJEE               q="VIT Chennai fees" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai fees"
+    r/EngineeringStudents  q="VIT Chennai fees" → raw=1 pass=0 dup=0
+  Searching r/Indian_Academia    — "VIT Chennai fees"
+    r/Indian_Academia      q="VIT Chennai fees" → raw=16 pass=0 dup=4
+  Searching r/vit                — "VIT Chennai fees"
+    r/vit                  q="VIT Chennai fees" → raw=55 pass=10 dup=13
+  Searching r/vituniversity      — "VIT Chennai fees"
+    r/vituniversity        q="VIT Chennai fees" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "chennai campus VIT"
+    r/Btechtards           q="chennai campus VIT" → raw=68 pass=5 dup=9
+  Searching r/JEENEETards        — "chennai campus VIT"
+    r/JEENEETards          q="chennai campus VIT" → raw=74 pass=10 dup=3
+  Searching r/developersIndia    — "chennai campus VIT"
+    r/developersIndia      q="chennai campus VIT" → raw=7 pass=0 dup=0
+  Searching r/india              — "chennai campus VIT"
+    r/india                q="chennai campus VIT" → raw=6 pass=0 dup=1
+  Searching r/IITJEE             — "chennai campus VIT"
+    r/IITJEE               q="chennai campus VIT" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "chennai campus VIT"
+    r/EngineeringStudents  q="chennai campus VIT" → raw=5 pass=0 dup=0
+  Searching r/Indian_Academia    — "chennai campus VIT"
+    r/Indian_Academia      q="chennai campus VIT" → raw=30 pass=1 dup=7
+  Searching r/vit                — "chennai campus VIT"
+    r/vit                  q="chennai campus VIT" → raw=100 pass=11 dup=18
+  Searching r/vituniversity      — "chennai campus VIT"
+    r/vituniversity        q="chennai campus VIT" → raw=0 pass=0 dup=0
+  Searching r/Btechtards         — "VIT Chennai vs"
+    r/Btechtards           q="VIT Chennai vs" → raw=47 pass=4 dup=5
+  Searching r/JEENEETards        — "VIT Chennai vs"
+    r/JEENEETards          q="VIT Chennai vs" → raw=61 pass=7 dup=6
+  Searching r/developersIndia    — "VIT Chennai vs"
+    r/developersIndia      q="VIT Chennai vs" → raw=0 pass=0 dup=0
+  Searching r/india              — "VIT Chennai vs"
+    r/india                q="VIT Chennai vs" → raw=0 pass=0 dup=0
+  Searching r/IITJEE             — "VIT Chennai vs"
+    r/IITJEE               q="VIT Chennai vs" → raw=0 pass=0 dup=0
+  Searching r/EngineeringStudents — "VIT Chennai vs"
+    r/EngineeringStudents  q="VIT Chennai vs" → raw=0 pass=0 dup=0
+  Searching r/Indian_Academia    — "VIT Chennai vs"
+    r/Indian_Academia      q="VIT Chennai vs" → raw=5 pass=0 dup=2
+  Searching r/vit                — "VIT Chennai vs"
+    r/vit                  q="VIT Chennai vs" → raw=53 pass=11 dup=8
+  Searching r/vituniversity      — "VIT Chennai vs"
+    r/vituniversity        q="VIT Chennai vs" → raw=0 pass=0 dup=0
+  Searching r/global             — "VIT Chennai"
+  Searching r/global             — "VIT Vandalur"
+  Searching r/global             — "VIT-C campus"
+  Searching r/global             — "VIT Chennai placements"
+  Searching r/global             — "VIT Chennai review"
+  Searching r/global             — "VIT Chennai CSE"
+  Searching r/global             — "VIT Chennai hostel"
+  Searching r/global             — "VIT Chennai fees"
+  Searching r/global             — "chennai campus VIT"
+  Searching r/global             — "VIT Chennai vs"
+  [cache hit] top/vit
+  [cache hit] top/vituniversity
+    ↳ "SUCIDE IN VIT CHENNAI!!!" — 25 comment(s)
+    ↳ "VIT Chennai or IIIT from csab." — 10 comment(s)
+    ↳ "VIT Chennai CSE vs SNU AI AND DS ." — 5 comment(s)
+    ↳ "Drop or tier 2 college" — 25 comment(s)
+    ↳ "OPTION ASKING" — 4 comment(s)
+    ↳ "Help me , it's urgent" — 25 comment(s)
+    ↳ "Vit chennai= IIT Madras" — 25 comment(s)
+    ↳ "Seniors Please help me.I have CSE core in VIT Chen" — 21 comment(s)
+    ↳ "What is ECE really about? Please help" — 25 comment(s)
+    ↳ "LOAN FOR VIT - bad idea?" — 4 comment(s)
+    ↳ "Should i go for VIT chennai circuital branch or CO" — 5 comment(s)
+    ↳ "How Fucked am I?" — 7 comment(s)
+    ↳ "PLS HELP you fellow junior out (SIT PUNE)" — 16 comment(s)
+    ↳ "How to upskill from the first sem itself." — 1 comment(s)
+    ↳ "Muj or vit chennai?" — 9 comment(s)
+    ↳ "Manipal main campus ECE or VIT Chennai CSE (AI ROB" — 1 comment(s)
+    ↳ "CS seniors HELP😭😭" — 1 comment(s)
+    ↳ "College suggestions" — 25 comment(s)
+    ↳ "is it possible to do coding while studying EEE and" — 13 comment(s)
+    ↳ "SRM KTR (CSE) for 3L (approx) or VIT Chennai (CSE)" — 12 comment(s)
+    ↳ "Tier 3 to Good Future?" — 17 comment(s)
+    ↳ "Skyline from my Hostel room" — 6 comment(s)
+    ↳ "AC blast in VIT chennai " — 22 comment(s)
+    ↳ "Struggling with Placement Stress – Need Help Navig" — 1 comment(s)
+    ↳ "does college matter if what i wanna do is go abroa" — 7 comment(s)
+    ↳ "Help required asap" — 1 comment(s)
+    ↳ "I did worst mistake of my life and will regret it " — 25 comment(s)
+    ↳ "VIT Chennai Mess " — 25 comment(s)
+    ↳ "last fucking straw, need help." — 25 comment(s)
+    ↳ "Partial drop advice" — 1 comment(s)
+    ↳ "What is going on in VIT Chennai Dawg ✌😭💔" — 25 comment(s)
+    ↳ "VIT ChennaiOr IIIT from csab" — 2 comment(s)
+    ↳ "Motivation,Future JEEtards" — 24 comment(s)
+    ↳ "Vit chennai = iit madras" — 25 comment(s)
+    ↳ "Is vit is best??" — 25 comment(s)
+    ↳ "Need help to choose college!!!" — 1 comment(s)
+    ↳ "urgent help needed whether to drop or join pvt" — 3 comment(s)
+    ↳ "RVCE EEE/ETE or VIT Chennai ECE" — 1 comment(s)
+    ↳ "vit Chennai cse vs SPIT mumbai cse?" — 3 comment(s)
+    ↳ "PLS HELP(urgent)" — 5 comment(s)
+    ↳ "Should I take a year drop got 96.7 for jee main an" — 14 comment(s)
+    ↳ "SHOULD I CONSIDER A DROP(SEIRIOUSS!!!)" — 5 comment(s)
+    ↳ "VIT chennai cse cat 2 or comedk colleges?" — 1 comment(s)
+    ↳ "I am North Indian, so should I go for cse cat 4/ph" — 1 comment(s)
+    ↳ "VIT Chennai CS or Manipal Jaipur CS?" — 5 comment(s)
+    ↳ "Partial drop" — 1 comment(s)
+    ↳ "GL Bajaj vs Galgotia college" — 4 comment(s)
+    ↳ "Vit College preference help." — 5 comment(s)
+    ↳ "Getting some things off chest" — 1 comment(s)
+    ↳ "Realistic Opinion required" — 2 comment(s)
+    ↳ "Help a freshers negotiate a salary when they only " — 3 comment(s)
+    ↳ "Career in India after studying abroad ?" — 11 comment(s)
+    ↳ "Am I sure to get a job/placement after MCA in vit " — 2 comment(s)
+    ↳ "An attempt by VIT Chennai to promote Gender Equali" — 1 comment(s)
+    ↳ "VIT Chennai student jumps from 6th floor. VIT is d" — 25 comment(s)
+    ↳ "Which one should I choose: CSE at Manipal Universi" — 7 comment(s)
+    ↳ "Is VIT Chennai any good?" — 5 comment(s)
+    ↳ "How are VIT Chennai & Bhopal campus in terms of In" — 22 comment(s)
+    ↳ "What is better in terms of academics, placements a" — 1 comment(s)
+    ↳ "I SCREWED UP MY LIFE AND I DON'T KNOW WHAT TO DO A" — 7 comment(s)
+    ↳ "18F confused on what course and college to choose " — 1 comment(s)
+    ↳ "Wanted to know about placements of mechanical engi" — 5 comment(s)
+    ↳ "How are the placements at VIT Chennai for MSc Data" — 2 comment(s)
+    ↳ "Is an integrated M.tech degree worth it? Or should" — 4 comment(s)
+    ↳ "Should go for what I can get in JOSAA counselling?" — 1 comment(s)
+    ↳ "how can i find people who has taken admission in V" — 1 comment(s)
+    ↳ "What should I know about CS core branch (B Tech) b" — 25 comment(s)
+    ↳ "Which college-branch combination should I go for a" — 10 comment(s)
+    ↳ "How Should I Get Started On Programming and Colleg" — 25 comment(s)
+    ↳ "I got the B.Tech course for "Mechatronics and Auto" — 10 comment(s)
+    ↳ "I am going to choose EEE, I got admission in VIT (" — 7 comment(s)
+    ↳ "How good is ECE core at VIT Chennai (Category 3)?" — 25 comment(s)
+    ↳ "Which one should I choose: CSE at Manipal Universi" — 8 comment(s)
+    ↳ "Should I choose Ecm at VIT Chennai vs CSE at JIIT " — 10 comment(s)
+    ↳ "Which should be a better choice for B.Tech? Vit or" — 5 comment(s)
+    ↳ "Which is the option among these that I should go f" — 12 comment(s)
+    ↳ "Considering VIT Chennai for Backup (CS with specia" — 21 comment(s)
+    ↳ "How is SRM main campus for CSE?( only For students" — 6 comment(s)
+    ↳ "Which college should I go with UPES Dehradun or VI" — 1 comment(s)
+    ↳ "How is the campus life like at VIT Chennai? Would " — 20 comment(s)
+    ↳ "Need car/bike rentals in vellore" — 1 comment(s)
+    ↳ "We need to talk about free-falling elevators in VI" — 18 comment(s)
+    ↳ "The Final Spike – Online Valorant Tournament (₹ Ca" — 2 comment(s)
+    ↳ "The person who made VIT chennai faculty review web" — 0 comment(s)
+    ↳ "Engineering seniors help!" — 4 comment(s)
+    ↳ "Need to know about vit chennai" — 1 comment(s)
+    ↳ "Vit chennai 5:45 AM" — 5 comment(s)
+    ↳ "How's College life in Vellore and Chennai" — 14 comment(s)
+    ↳ "VIT chennai rivera" — 25 comment(s)
+    ↳ "Looking for guidance!" — 10 comment(s)
+    ↳ "Yet this college wont change  even after such case" — 1 comment(s)
+    ↳ "S*cide in VIT Chennai?" — 8 comment(s)
+    ↳ "Placements prep at VITC?" — 2 comment(s)
+    ↳ "Question regarding Curriculum change and Grade Imp" — 2 comment(s)
+    ↳ "help (makeup exam)" — 1 comment(s)
+    ↳ "Found someone’s ID card in Pune airport today" — 2 comment(s)
+    ↳ "WES Evaluation Canada" — 3 comment(s)
+    ↳ "Shoutout to the legend who wrote VIT Chennai on 2B" — 15 comment(s)
+    ↳ "How to clear a BACKLOG without WEEKEND/SUMMER SEM?" — 12 comment(s)
+    ↳ "Is it VIT chennai is good" — 1 comment(s)
+    ↳ "Is it worth doing mtech cse at vit chennai?" — 1 comment(s)
+    ↳ "Mba" — 1 comment(s)
+    ↳ "Vitol!!!" — 4 comment(s)
+    ↳ "What’s your favorite photo you’ve taken at any VIT" — 25 comment(s)
+    ↳ "Macbooks or windows" — 5 comment(s)
+    ↳ "Fked up python labfat and it’s not even my fault(V" — 17 comment(s)
+    ↳ "How are ecm placements at vit chennai?" — 1 comment(s)
+    ↳ "Where can I get something printed in VIT Chennai" — 1 comment(s)
+    ↳ "3rd year @ VIT Chennai CSE | 8.8 CGPA | Aiming for" — 14 comment(s)
+    ↳ "Confused between VIT Vellore and VIT Chennai for B" — 17 comment(s)
+    ↳ "Can I shift to vit Chennai?" — 13 comment(s)
+    ↳ "Related to gravitas" — 2 comment(s)
+    ↳ "Did I messed up" — 19 comment(s)
+    ↳ "VIT Chennai - AMA" — 25 comment(s)
+    ↳ "Amrita Placements" — 1 comment(s)
+    ↳ "Kya kru mai?" — 10 comment(s)
+    ↳ "ECE or CSE" — 5 comment(s)
+    ↳ "How's the ECM branch in vit Chennai " — 1 comment(s)
+    ↳ "Thoughts on VIT Chennai?" — 12 comment(s)
+    ↳ "Does the btech college still matter that much if I" — 25 comment(s)
+    ↳ "Lame Question" — 12 comment(s)
+    ↳ "Someone from VIT?" — 18 comment(s)
+    ↳ "Drop year, all you need to know" — 19 comment(s)
+    ↳ "college near home or far away from it" — 25 comment(s)
+    ↳ "VIT Chennai CSE Core - AMA 🎓💻" — 25 comment(s)
+    ↳ "Vit Chennai cse or IIIT Guwahati ece" — 4 comment(s)
+    ↳ "Looking for feedback on SNU Chennai. Also is it be" — 3 comment(s)
+    ↳ "Does jee still matter that much if I plan to go ab" — 25 comment(s)
+    ↳ "Vit Chennai VS LPU 🤡" — 7 comment(s)
+    ↳ "what the fuck is up with vit?" — 25 comment(s)
+    ↳ "Which is better VIT or SSN for Computer science? I" — 25 comment(s)
+    ↳ "Placement advices" — 4 comment(s)
+    ↳ "What is better in terms of academics, placements a" — 1 comment(s)
+    ↳ "VIT Chennai Placements Record 2025" — 0 comment(s)
+    ↳ "GOT VIT CHENNAI ECSE ( CAT 5 ) AND SRM KTR CSE S/P" — 25 comment(s)
+    ↳ "Programme Review" — 2 comment(s)
+    ↳ "Joint placements still?" — 4 comment(s)
+    ↳ "Vit chennai vs srm ktr" — 3 comment(s)
+    ↳ "VIT Chennai CSE CORE PLACEMENTS?" — 1 comment(s)
+    ↳ "Honest Opinions on AI & Robotics at VIT Chennai?" — 9 comment(s)
+    ↳ "Honest Opinions on AI & Robotics at VIT Chennai?" — 13 comment(s)
+    ↳ "For everyone who's has been allotted a seat in vit" — 25 comment(s)
+    ↳ "I am getting VIT Chennai and I have some doubts re" — 1 comment(s)
+    ↳ "IS ECE AT VIT CHENNAI WORTH IT IN CAT2 OR CAT 3..." — 11 comment(s)
+    ↳ "The Dark Truth About VIT || The Scam No One Talks " — 25 comment(s)
+    ↳ "Vit chennai" — 1 comment(s)
+    ↳ "Can a 7.86 GPA in MTech Mechatronics VIT Chennai m" — 3 comment(s)
+    ↳ "do only vit vellore and vit Chennai have joint pla" — 1 comment(s)
+    ↳ "Placements" — 2 comment(s)
+    ↳ "Urgent" — 4 comment(s)
+    ↳ "ECE SENIORS" — 6 comment(s)
+    ↳ "ECE SENIORS" — 0 comment(s)
+    ↳ "Help. New student for VIT Chennai" — 0 comment(s)
+    ↳ "Insecure about VIT Chennai" — 25 comment(s)
+    ↳ "A review at MSc Data Science at VIT Chennai" — 25 comment(s)
+    ↳ "Electronics VLSI questions" — 3 comment(s)
+    ↳ "CSE vs ECE" — 4 comment(s)
+    ↳ "Mechanical Engineering in VIT Chennai vs Manipal (" — 3 comment(s)
+    ↳ "placement stats for electronics and computer engin" — 22 comment(s)
+    ↳ "Vit Chennai honest placements please " — 12 comment(s)
+    ↳ "Placement query for VIT Chennai" — 1 comment(s)
+    ↳ "Need your opinions" — 19 comment(s)
+    ↳ "Give me your opinion " — 25 comment(s)
+    ↳ "Should I ??" — 25 comment(s)
+    ↳ "ECS branch review?" — 5 comment(s)
+    ↳ "students of ECE at VIT Chennai i have some questio" — 25 comment(s)
+    ↳ "MSc. Data Science in VIT" — 3 comment(s)
+    ↳ "Stressed about college." — 10 comment(s)
+    ↳ "VIT Chennai Review" — 25 comment(s)
+    ↳ "How is vit chennai cse? Pls give honest review." — 17 comment(s)
+    ↳ "Selling mattress" — 2 comment(s)
+    ↳ "Review on Girls hostel at VIT Chennai| Random AMA " — 25 comment(s)
+    ↳ "Tell me a valid reason not to join vit" — 25 comment(s)
+    ↳ "VIT Chennai cat 5 cse core or MIT blr campus cse (" — 1 comment(s)
+    ↳ "Suggestion needed" — 25 comment(s)
+    ↳ "Which college would be better in terms of opportun" — 2 comment(s)
+    ↳ "VIT Chennai ece vs SRM ktr ece vs MUJ cse" — 5 comment(s)
+    ↳ "Thapar vs Vit chennai. Which should i choose?" — 18 comment(s)
+    ↳ "Is taking Cse in Vit Chennai worth it?" — 3 comment(s)
+    ↳ "VIT Vellore cse VS VIT CHENNAI CSE " — 1 comment(s)
+    ↳ "HELP Guys, VIT me advance fees payment explain kar" — 5 comment(s)
+    ↳ "IS SRM WORTH IT?" — 1 comment(s)
+    ↳ "VIT SEAT ALLOTMENT!!" — 15 comment(s)
+    ↳ "Vit Chennai ece cat 1 or Chandigarh University cse" — 1 comment(s)
+    ↳ "Vit vellore cse spec cat 2 vs Vit chennai cse core" — 6 comment(s)
+    ↳ "JEE 53500 RANK AND VIT CHENNAI CSE SPEC CAT 1 SUGG" — 4 comment(s)
+    ↳ "Which option should I go for, VIT-C CSE or Mech at" — 19 comment(s)
+    ↳ "What to choose: CSE in VIT-C vs SSN vs Manipal?" — 25 comment(s)
+    ↳ "My Experience with VIT Chennai" — 1 comment(s)
+    ↳ "I can't study anymore and it's killing me" — 7 comment(s)
+    ↳ "Isn't it sufficient" — 19 comment(s)
+    ↳ "doubts regd vit...pls help!!!!!!!" — 1 comment(s)
+    ↳ "VIT Chennai category 5 cse vs IISERs" — 15 comment(s)
+    ↳ "VIT Chennai CSE(AI Robotics) Cat-3 or MIT CSE" — 1 comment(s)
+    ↳ "Education loan for vit chennai category 4" — 15 comment(s)
+    ↳ "kiit cse core vs vit chennai cse with ai ml at sam" — 8 comment(s)
+    ↳ "NOT ALLOTED ANYTHING AT 30K RANK" — 2 comment(s)
+    ↳ "Got vit chennai cse" — 25 comment(s)
+    ↳ "Joining VIT Chennai CSE Cybersecurity. Any advices" — 8 comment(s)
+    ↳ "question" — 6 comment(s)
+    ↳ "Vit or.." — 17 comment(s)
+    ↳ "Guys please help me should I take VIT Chennai?" — 1 comment(s)
+    ↳ "VIT Vellore CSE spec vs VIT Chennai CSE core" — 9 comment(s)
+    ↳ "Which should be preferred" — 21 comment(s)
+    ↳ "I got 345xx rank in VITEEE. I am planning to take " — 13 comment(s)
+    ↳ "VIT CHENNAI VS VELLORE CSE" — 9 comment(s)
+    ↳ "Help in vit chennai hostel" — 11 comment(s)
+    ↳ "Vit v/s comedk" — 8 comment(s)
+    ↳ "Here are the hostel rooms at VIT Chennai" — 25 comment(s)
+    ↳ "VIT CSE with specialization" — 9 comment(s)
+    ↳ "I'm borderline panicking" — 9 comment(s)
+    ↳ "Will I be allowed to stay in hotel with my parents" — 2 comment(s)
+    ↳ "English bolna Nehi aata" — 19 comment(s)
+    ↳ "VIT Chennai Hostel rooms doubt" — 25 comment(s)
+    ↳ "Hostel rules" — 8 comment(s)
+    ↳ "What hostel room should I choose VIT Chennai ECE" — 20 comment(s)
+    ↳ "To become day scholar at vit chennai" — 12 comment(s)
+    ↳ "NRI here with some doubts" — 9 comment(s)
+    ↳ "NRI here with some doubts" — 5 comment(s)
+    ↳ "Resources to help you all in VITEEE counselling th" — 17 comment(s)
+    ↳ "D block hostel @ VIT Chennai" — 0 comment(s)
+    ↳ "vit Chennai hostel being mandatory" — 7 comment(s)
+    ↳ "Help wifi" — 1 comment(s)
+    ↳ "Please help me seniors" — 9 comment(s)
+    ↳ "Coed hostel with senior girl in VIT chennai ?? 🤯😲😱" — 9 comment(s)
+    ↳ "Hostel doubt" — 1 comment(s)
+    ↳ "VIT Chennai Doubts about Hostel life" — 5 comment(s)
+    ↳ "Regarding hostel allotment" — 6 comment(s)
+    ↳ "Vit chennai hostel allotment " — 3 comment(s)
+    ↳ "Vit Chennai hostel" — 3 comment(s)
+    ↳ "HOW PEOPLE KNOW WHICH HOSTEL ROOM THEY GOT? pls he" — 15 comment(s)
+    ↳ "Hostel situation in vit Chennai and any girl joini" — 1 comment(s)
+    ↳ "Help" — 4 comment(s)
+    ↳ "Can parents stay in VIT Chennai Guest room?" — 2 comment(s)
+    ↳ "VIT Chennai - Hostel joining date? " — 9 comment(s)
+    ↳ "Induction" — 4 comment(s)
+    ↳ " Need Information about VIT chennai hostels" — 2 comment(s)
+    ↳ "Help regarding when to report" — 13 comment(s)
+    ↳ "HOSTEL CHANGES AFTER 1ST YEAR (VIT CHENNAI)" — 1 comment(s)
+    ↳ "Is hostel away from main campus? " — 3 comment(s)
+    ↳ "Is hostel booking in VIT chennai over?" — 5 comment(s)
+    ↳ "Any girls looking to rent a room outside vit chenn" — 25 comment(s)
+    ↳ "Hey you, finally awake. Online hostel booking scre" — 4 comment(s)
+    ↳ "WHICH COLLEGE" — 12 comment(s)
+    ↳ "Vit chennai hostel room swapping" — 6 comment(s)
+    ↳ "Can we change course in VIT Chennai after 1 year " — 9 comment(s)
+    ↳ "Hostel Booking Doubt" — 21 comment(s)
+    ↳ "No NON-AC rooms?" — 24 comment(s)
+    ↳ "Is the Hostel in VIT chennai worth the money?" — 25 comment(s)
+    ↳ "Has hostel booking for VIT Chennai started? " — 11 comment(s)
+    ↳ "About The Hostel Payment and Other Related things " — 2 comment(s)
+    ↳ "Guys is it worth taking ece cat 2 in vit chennai " — 8 comment(s)
+    ↳ "This hostel fees is correct ? and this is for year" — 25 comment(s)
+    ↳ "vit chennai refund ..URGENT" — 20 comment(s)
+    ↳ "me problem ?" — 3 comment(s)
+    ↳ "I'm scared and confused" — 4 comment(s)
+    ↳ "Is it worth sitting in WBJEE counselling?" — 2 comment(s)
+    ↳ "Should i go for Msc in BITS" — 5 comment(s)
+    ↳ "Manipal Jaipur CSE or vit chennai cse" — 6 comment(s)
+    ↳ "Is Taking EEE Problematic?" — 25 comment(s)
+    ↳ "vit chennai refund ..URGENT" — 14 comment(s)
+    ↳ "Is VIT Chennai CSE cat-5 worth the fees?" — 6 comment(s)
+    ↳ "I dont know what to do anymore. A very very long p" — 24 comment(s)
+    ↳ "Idk what to do anymore, a v very long post my firs" — 4 comment(s)
+    ↳ "Drop or Not (Serious Post)" — 17 comment(s)
+    ↳ "VIT Cancellation Procedure" — 3 comment(s)
+    ↳ "Is ECE core at VIT Chennai (Cat 3) worth it?" — 9 comment(s)
+    ↳ "Fuck NTA" — 8 comment(s)
+    ↳ "Koi VIT ki fees refund policy bata sakata hai kya " — 10 comment(s)
+    ↳ "Those who did and didn't do well in jee. What are " — 20 comment(s)
+    ↳ "VOYAGE 2024 SCAM📢" — 16 comment(s)
+    ↳ "Vit or State government college " — 12 comment(s)
+    ↳ "Will I get full refund for admission fees (vit che" — 3 comment(s)
+    ↳ "Please Help!!!(VIT Chennai)" — 10 comment(s)
+    ↳ "vit chennai refund ..URGENT" — 13 comment(s)
+    ↳ "What is the last date of 100% fee refund ? Had dep" — 7 comment(s)
+    ↳ "Help plz! Choosing the college.... MUJ or VIT Chen" — 9 comment(s)
+    ↳ "Is VIT Chennai CSE cat-5 worth the fees?
+" — 10 comment(s)
+    ↳ "Vellore or Chennai at 10k rank!" — 19 comment(s)
+    ↳ "Why is this college so money minded ?" — 15 comment(s)
+    ↳ "Iiit" — 1 comment(s)
+    ↳ "Ranking, what do you think?" — 25 comment(s)
+    ↳ "Can I get CSE in Vellore or Chennai campus at 26k " — 1 comment(s)
+    ↳ "I'm in IIIT Allahabad. And I'm having second thoug" — 25 comment(s)
+    ↳ "MIT manipal campus Compute and communication vs VI" — 7 comment(s)
+    ↳ "Hate against VIT is unreal (smh)" — 25 comment(s)
+    ↳ "Chinta mat karo. A word of advice from a senior wh" — 18 comment(s)
+    ↳ "WHAT SHOULD I CHOOSE?" — 3 comment(s)
+    ↳ "I am at a complete loss right now Re: JEE Advanced" — 3 comment(s)
+    ↳ "BITSAT, kya milega?" — 25 comment(s)
+    ↳ "VIT Chennai meet up?" — 25 comment(s)
+    ↳ "My father has probably gone mad" — 25 comment(s)
+    ↳ "VIT Chennai vs SRM ktr" — 12 comment(s)
+    ↳ "VIT Chennai vs Manipal main campus vs SRM KTR" — 25 comment(s)
+    ↳ "VIT Vellore vs VIT Chennai" — 6 comment(s)
+    ↳ "How is VIT CHENNAI when compared to the Vellore ca" — 1 comment(s)
+    ↳ "Is Vit Chennai crowded?" — 9 comment(s)
+    ↳ "Can I rent a room and stay outside the campus in v" — 3 comment(s)
+    ↳ "campus rules" — 2 comment(s)
+    ↳ "My experience at VIT" — 25 comment(s)
+    ↳ "Expanding Unmessify to more campuses" — 12 comment(s)
+    ↳ "CAN WE ENTER CAMPUS 1 DAY BEFORE YOUR LEAVE IS GOI" — 14 comment(s)
+    ↳ "Does anyone has new campus map of VIT Chennai?" — 0 comment(s)
+    ↳ "Can we go out of the campus from 2nd year onwards " — 1 comment(s)
+    ↳ "Need suggestions (relationship)" — 25 comment(s)
+    ↳ "Lost my Earpods(VIT Chennai Campus)" — 0 comment(s)
+    ↳ "Courier service " — 2 comment(s)
+    ↳ "Iiit nagpur csds vs vit chennai cse" — 0 comment(s)
+    ↳ "VIT Chennai CSE vs IPU ke colleges (except USICT)" — 25 comment(s)
+    ↳ "VIT Chennai CSE vs MIT ECE vs Thapar EE vs SRM KTR" — 6 comment(s)
+    ↳ "SRM KTR CSE vs VIT Vellore CSE vs VIT Chennai CSE" — 13 comment(s)
+    ↳ "SNU noida vs VIT Chennai vs VIT vellore vs SRM KTR" — 25 comment(s)
+    ↳ "BMSIT vs DSCE vs BIT vs VIT Chennai/Bhopal" — 25 comment(s)
+    ↳ "IIT kanpur chemistry bs vs vit Chennai cse categor" — 2 comment(s)
+    ↳ "u/No_Repeat_2180 - The Journey of an average 23tar" — 18 comment(s)
+    ↳ "VIT chennai cse with specialization (physical syst" — 1 comment(s)
+    ↳ "manipal Jaipur (iot) vs VIT Chennai ece" — 5 comment(s)
+    ↳ "Chitkara University vs vit Chennai" — 11 comment(s)
+    ↳ "Vit chennai cse core vs pesu cse core" — 0 comment(s)
+    ↳ "Iiit Kottayam " — 1 comment(s)
+    ↳ "VIT chennai CSE vs Electronics and Computer Engine" — 4 comment(s)
+    ↳ "comparison" — 7 comment(s)
+    ↳ "VIT CHENNAI (CSE SPEC AI AND ROBOTICS) VS MANIPAL " — 1 comment(s)
+    ↳ "Vit chennai vs Amrita vishwa vidyapeetham Chennai " — 25 comment(s)
+    ↳ "VIT Chennai EEE Branch ! Need guidance " — 11 comment(s)
+    ↳ "Vit chennai CS vs MIT bangalore CS?" — 10 comment(s)
+    ↳ "VIT VS THAPAR" — 24 comment(s)
+    ↳ "SRM KTR ECE vs VIT CHENNAI EEE" — 8 comment(s)
+    ↳ "GUYZZ HELP❗❗JYPEE NOIDA (SECTOR 128) VS VIT (20638" — 25 comment(s)
+    ↳ "M.Tech at VIT Chennai" — 4 comment(s)
+    ↳ "Is MUJ good for those who study" — 9 comment(s)
+    ↳ "Document upload doubt" — 1 comment(s)
+    ↳ "For all the College Hunters!" — 3 comment(s)
+    ↳ "Cat 1 vit ap or srm ktr" — 8 comment(s)
+    ↳ "ECE Seniors please reply" — 8 comment(s)
+    ↳ "At 2.5k , alloted MSRIT EE. Seniors , pls answer m" — 8 comment(s)
+    ↳ "At 2.5k , alloted MSRIT EE. Seniors , pls answer m" — 7 comment(s)
+    ↳ "In a really tough situation [Not your cliche post]" — 25 comment(s)
+    ↳ "VIT Chennai Review series 1: The Wi-Fi" — 5 comment(s)
+    ↳ "Chance me PLEASE 🥺" — 1 comment(s)
+    ↳ "Review " — 4 comment(s)
+    ↳ "To drop or not to drop?" — 4 comment(s)
+    ↳ "My Experience with VIT Chennai (Part 2)" — 11 comment(s)
+    ↳ "My Experience with VIT Chennai" — 8 comment(s)
+    ↳ "GUYS SHOULD I TAKE VIT CHENNAI CSE OR ECE" — 13 comment(s)
+    ↳ "VIT Chennai Vs Thapar" — 5 comment(s)
+    ↳ "[NON-CBSE POST] but help needed as a student from " — 4 comment(s)
+    ↳ "Should i choose vit chennai cse core or vit vellor" — 4 comment(s)
+    ↳ "Procedure for extending Leave from hostel(Final Ye" — 6 comment(s)
+    ↳ "Wifi speed and proxy at VIT CHENNAI" — 1 comment(s)
+    ↳ "Hostel booking and affidavits" — 8 comment(s)
+    ↳ "Vit chennai hostel allotment" — 5 comment(s)
+    ↳ "Help regarding reporting . " — 3 comment(s)
+    ↳ "COLLEGE HELP (pls)" — 25 comment(s)
+    ↳ "Pokemon treasure hunt event :)" — 8 comment(s)
+    ↳ "Rant number 2 (Suicide Special)" — 5 comment(s)
+    ↳ "SNU noida vs VIT Chennai vs VIT vellore vs SRM KTR" — 2 comment(s)
+    ↳ "SNU noida vs VIT Chennai vs VIT vellore vs SRM KTR" — 25 comment(s)
+    ↳ "SRMktr ECE vs VIT chennai ece?" — 7 comment(s)
+  ✓ Upserted 359 rows → vit_reddit_posts
+  ✓ Blob written → /Users/gunveerkalsi/Desktop/Oviselect/oviselect-cp-scraper/data/sentiment_blobs/vit-chennai_sentiment.txt
+  ✓ Upserted sentiment_prep → vit-chennai
+
+  ┌─ SUMMARY: VIT Chennai
+  │  Posts collected : 359
+  │  Comments kept   : 3632
+  │  API calls       : 490
+  └─ Cache hits      : 3
+
+══════════════════════════════════════════════════════════════════════
+  FINAL SUMMARY
+══════════════════════════════════════════════════════════════════════
+  VIT Chennai            posts=359  comments=3632
+
+  Summary JSON  → /Users/gunveerkalsi/Desktop/Oviselect/oviselect-cp-scraper/data/vit_reddit_summary.json
+  API calls     : 490
+  Cache hits    : 3

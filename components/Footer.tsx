@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
               </span>
             </div>
             <p className="text-sm sm:text-base text-[#D4CFC8]/60 max-w-xs leading-relaxed">
-              The AI counselling OS for engineering admissions in India. From rank to right college — intelligently.
+              The AI counselling OS for engineering admissions in India. From rank to right college, intelligently.
             </p>
           </div>
 
@@ -66,11 +66,13 @@ const Footer: React.FC = () => {
             </ul>
           </div>
           <div>
-            <h4 className="font-bold text-sm mb-4 sm:mb-5 text-[#F5F0E8]">Legal</h4>
+            <h4 className="font-bold text-sm mb-4 sm:mb-5 text-[#F5F0E8]">Legal & Support</h4>
             <ul className="space-y-3 text-[#D4CFC8]/50 text-sm">
               <li><a href="#faq" className="hover:text-white transition-colors duration-200">FAQ</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-200">Privacy Policy</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-200">Terms of Service</a></li>
+              <li><a href="/privacy" className="hover:text-white transition-colors duration-200">Privacy Policy</a></li>
+              <li><a href="/terms" className="hover:text-white transition-colors duration-200">Terms of Service</a></li>
+              <li><a href="/contact" className="hover:text-white transition-colors duration-200">Contact Us</a></li>
+              <li><a href="mailto:team@oviqo.in" className="hover:text-white transition-colors duration-200">team@oviqo.in</a></li>
             </ul>
           </div>
         </div>
