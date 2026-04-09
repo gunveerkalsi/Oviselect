@@ -46,26 +46,43 @@ const OviPopup: React.FC<Props> = ({ onClose, onVerified }) => {
     setSendError('');
     setSending(true);
     try {
-      // Create invisible reCAPTCHA (destroy previous if re-sending)
+      // Destroy previous verifier before creating a new one
       if (recaptchaRef.current) {
-        recaptchaRef.current.clear();
+        try { recaptchaRef.current.clear(); } catch (_) {}
         recaptchaRef.current = null;
       }
-      recaptchaRef.current = new RecaptchaVerifier(firebaseAuth, 'ovi-recaptcha', {
+      const verifier = new RecaptchaVerifier(firebaseAuth, 'ovi-recaptcha', {
         size: 'invisible',
         callback: () => {},
+        'expired-callback': () => {
+          setSendError('reCAPTCHA expired. Please try again.');
+          setSending(false);
+        },
       });
+      recaptchaRef.current = verifier;
+      await verifier.render();
       const result = await signInWithPhoneNumber(
         firebaseAuth,
         '+91' + phone,
-        recaptchaRef.current,
+        verifier,
       );
       confirmRef.current = result;
       setOtp(['','','','','','']);
       setScreen('otp');
       setTimeout(() => boxRefs.current[0]?.focus(), 80);
     } catch (err: any) {
-      setSendError(err?.message?.replace('Firebase: ', '') ?? 'Failed to send OTP. Try again.');
+      console.error('OTP send error:', err);
+      // Destroy verifier on failure so next attempt starts fresh
+      if (recaptchaRef.current) {
+        try { recaptchaRef.current.clear(); } catch (_) {}
+        recaptchaRef.current = null;
+      }
+      const msg = (err?.code === 'auth/invalid-phone-number')
+        ? 'Invalid number. Enter a valid 10-digit mobile number.'
+        : (err?.code === 'auth/too-many-requests')
+        ? 'Too many attempts. Please wait a few minutes and try again.'
+        : (err?.message?.replace('Firebase: ', '') ?? 'Failed to send OTP. Try again.');
+      setSendError(msg);
     } finally {
       setSending(false);
     }
@@ -101,9 +118,10 @@ const OviPopup: React.FC<Props> = ({ onClose, onVerified }) => {
   };
 
   return createPortal(
-    <div onClick={onClose} style={S.overlay}>
-      {/* Invisible reCAPTCHA anchor — must stay in DOM while auth is in progress */}
-      <div id="ovi-recaptcha" style={{ display: 'none' }} />
+    <>
+      {/* reCAPTCHA anchor must be visible in DOM (even if off-screen) — display:none breaks Firebase */}
+      <div id="ovi-recaptcha" style={{ position: 'fixed', bottom: 0, left: 0, width: 0, height: 0, overflow: 'hidden', zIndex: 99999 }} />
+      <div onClick={onClose} style={S.overlay}>
       <div onClick={e => e.stopPropagation()} style={S.card}>
 
         {/* ── MAIN SCREEN ── */}
@@ -200,7 +218,8 @@ const OviPopup: React.FC<Props> = ({ onClose, onVerified }) => {
           </div>
         )}
       </div>
-    </div>,
+    </div>
+    </>,
     document.body
   );
 };

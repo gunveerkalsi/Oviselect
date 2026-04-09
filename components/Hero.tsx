@@ -630,18 +630,6 @@ const Hero: React.FC = () => {
         marketing_consent: consent?.consented ?? false,
       });
 
-      // 3. Also notify FastAPI backend (fire-and-forget)
-      try {
-        const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
-        fetch(`${API_URL}/api/save-email`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(userInfo),
-        });
-      } catch (err) {
-        console.error('Failed to save email:', err);
-      }
-
       setIsLoggedIn(true);
       const stored = getStoredCounsellings();
       if (stored.length > 0) setSelectedCounsellings(stored);
@@ -702,7 +690,6 @@ const Hero: React.FC = () => {
             home_state: homeState,
             branch_order: branchMode === 'custom' ? branchOrder : null,
             branch_na: branchMode !== 'custom',
-            branch_mode: branchMode,
             updated_at: new Date().toISOString(),
           },
           { onConflict: 'email' }
@@ -1277,7 +1264,7 @@ const Hero: React.FC = () => {
             try {
               const stored = localStorage.getItem(STORAGE_KEY);
               const email  = stored ? JSON.parse(stored).email : null;
-              if (!email) return;
+              if (!email) { console.warn('[OviPopup] No email found, skipping save'); return; }
               const payload: Record<string, unknown> = { phone };
               if (mainsRank)   payload.jee_rank      = Number(mainsRank);
               if (advancedRank && !advancedNA) payload.adv_rank = Number(advancedRank);
@@ -1286,9 +1273,12 @@ const Hero: React.FC = () => {
               if (gender)      payload.gender        = gender;
               if (homeState)   payload.home_state    = homeState;
               if (branchOrder.length) payload.branch_order = branchOrder;
-              await supabase.from('users').update(payload).eq('email', email);
+              console.log('[OviPopup] Saving to Supabase for', email, payload);
+              const { error: updateErr } = await supabase.from('users').update(payload).eq('email', email);
+              if (updateErr) console.error('[OviPopup] Supabase update error:', updateErr.message);
+              else console.log('[OviPopup] Phone + data saved successfully');
             } catch (e) {
-              console.warn('[OviPopup] failed to save user data:', e);
+              console.error('[OviPopup] failed to save user data:', e);
             }
           }}
         />
